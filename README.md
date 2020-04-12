@@ -1,0 +1,2 @@
+# bgames
+borad games notes
