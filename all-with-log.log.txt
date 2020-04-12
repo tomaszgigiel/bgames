@@ -1,0 +1,36 @@
+Script started on 2020-04-12 08:54:02+0200
+/home/tomasz/Documents/workspace-clojure/bgames
+Compiling pl.tomaszgigiel.bgames.core
+/home/tomasz/Documents/workspace-clojure/bgames
+/home/tomasz/Documents/workspace-clojure/bgames
+Apr 12, 2020 8:54:09 AM clojure.tools.logging$eval155$fn__158 invoke
+INFO: ok
+/home/tomasz/Documents/workspace-clojure/bgames
+/home/tomasz/Documents/workspace-clojure/bgames
+Compiling pl.tomaszgigiel.bgames.core
+
+lein test user
+
+Ran 0 tests containing 0 assertions.
+0 failures, 0 errors.
+/home/tomasz/Documents/workspace-clojure/bgames
+/home/tomasz/Documents/workspace-clojure/bgames
+
+lein test pl.tomaszgigiel.bgames.test-config
+
+lein test pl.tomaszgigiel.utils.misc-test
+
+lein test pl.tomaszgigiel.utils.test-config
+
+Ran 1 tests containing 1 assertions.
+0 failures, 0 errors.
+/home/tomasz/Documents/workspace-clojure/bgames
+/home/tomasz/Documents/workspace-clojure/bgames
+Compiling pl.tomaszgigiel.bgames.core
+Compiling pl.tomaszgigiel.bgames.core
+Created /home/tomasz/Documents/workspace-clojure/bgames/target/uberjar/bgames.jar
+Created /home/tomasz/Documents/workspace-clojure/bgames/target/uberjar/bgames-uberjar.jar
+/home/tomasz/Documents/workspace-clojure/bgames
+/home/tomasz/Documents/workspace-clojure/bgames
+
+Script done on 2020-04-12 08:54:28+0200

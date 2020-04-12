@@ -1,0 +1,6442 @@
+This book has two parts, the Rulebook and the Scenario Book. The Rulebook provides the complete rules for playing the Mage Knight Board Game. We strongly recommend that players start by reading the Game Walkthrough, where the rules Table of Contents are explained in a more natural order, with many pictures and examples.
+
+Once you have read the Game Walkthrough and played your fi rst scenario, and are familiar with the game components and RULEBOOK
+
+concept, this Rulebook provides the complete rules for the game, except the rules relating to certain scenarios (those you Game Flow ......................................................................................................1
+
+can fi nd in the Scenario Book) and rules for particular map sites (those you can fi nd on the Site Description cards).
+
+Game Setup for the Full Game ..................................................................3
+
+This is a complex game, and even after you play your fi rst couple of games, you may still need to check the rules from time to One Round of the Game (Day or Night) ................................................4
+
+time. For a smoother experience, we recommend this approach:
+
+Basic Game Concepts ..................................................................................4
+
+• When playing, have the Site Description cards for all sites nearby. Each Site Description card provides all the rules for the A Player’s Turn ................................................................................................6
+
+given map site. It may use terms that are further explained in the Rulebook.
+
+Movement .......................................................................................................7
+
+• When playing, have the last page of this book within reach. It provides a useful summary of game phases and a table of Interacting with Locals ................................................................................8
+
+
+
+
+
+combat abilities.
+
+
+Combat with Enemies ..................................................................................8
+
+• For scenario related rules (setup, special rules, end game conditions, scoring), consult the description of the given End of the Turn .............................................................................................11
+
+scenario in the Scenario Book. It may also refer to some more common scenario rules (like the dummy player or scoring); Wounds and Healing .................................................................................11
+
+these are at the start of the Scenario Book.
+
+Player versus Player Combat ...................................................................12
+
+• If you want to check some generic rule (not related to a particular map site or scenario), use the Rulebook. It is organized Cooperative City Assault ..........................................................................13
+
+in systematic way, and once you understand its structure, you will be able to navigate through it more easily. When searching for a particular rule or situation, consult the Table of Contents on this page to fi nd which phase of the game the SCENARIO BOOK
+
+rule belongs. If it does not relate to a particular phase of the game, it will be probably in the Basic Game Concepts section.
+
+General Principles .......................................................................................14
+
+• The same applies if you are searching for more details of a site related rule (for example, to see how a mage tower aff ects Variants ..........................................................................................................16
+
+movement, search in the Movement section). The Rulebook refers to sites by text written like this. Note that sites may Scenario List ..................................................................................................18
+
+share some rules according to their type (fortifi ed sites, adventure sites and rampaging enemies).
+
+• Do not try to look up rules in the Game Walkthrough. You should be able to fi nd all the rules in this book or on a Site SUMMARY
+
+Description card. If you have found the rule here but you are not sure how to interpret it, you may try to fi nd its more detailed explanation in the Game Walkthrough.
+
+Summary ......................................................................................................23
+
+Icon Reference .............................................................................................24
+
+Turn Sequence Overview .........................................................................24
+
+1. Choose a scenario – Pick a scenario from the Scenario Book
+
+• When a player takes their Hero, they put that Hero’s Round
+
+3. Setup the Game – Fol ow the directions in the “Game Setup”
+
+to play. You may also use any variant rules as long as all players
+
+Order token on the table. Round Order tokens should be
+
+section on the next page to set up the game area. Check the
+
+agree to them.
+
+placed sequential y in a column, such that the Round Order
+
+scenario description for any exceptions or special rules that
+
+2. Player Order/Hero Selection – Determine an order for players
+
+token for the player that picked fi rst is at the top of the
+
+may modify the game setup.
+
+to make their Hero selection. In that order, each player chooses
+
+column, while the token for the player that picked last is at
+
+4. Play the Game – Play out the Rounds of the game until you
+
+one of the available Heroes and takes all of the associated Hero
+
+the bot om.
+
+fulfi ll the end-game conditions outlined in the scenario, or until
+
+components.
+
+you reach the Round limit.
+
+5. Outcome of the Game – When the game is over, fol ow the
+
+scoring rules outlined in the scenario.
+
+1
+
+
+
+
+
+Advanced Action deck
+
+Spel deck
+
+Wound pile
+
+Artifact deck
+
+Enemy and Ruin token piles
+
+City cards and
+
+City fi gures
+
+Spaces for
+
+Reputat
+
+Advanced
+
+Fame track
+
+ion trac
+
+Spaces for
+
+k
+
+Action off er
+
+Spell off er
+
+Tile deck
+
+Spaces for
+
+Common Skil
+
+off er
+
+Fame and Reputation board
+
+Elite Unit deck
+
+Regular Unit deck
+
+Source
+
+Round
+
+Order
+
+Move costs
+
+Unused Night
+
+Tactics
+
+
+
+
+
+Site Description and
+
+
+Day/Night board
+
+Scoring cards
+
+Spaces for
+
+Space to display
+
+Unit off er
+
+
+
+
+
+Advanced Action cards
+
+
+later (for Monasteries)
+
+Mana die
+
+Bank
+
+Map
+
+Mana
+
+crystals
+
+Tiles revealed
+
+
+
+
+
+at start
+
+
+Map shape when starting tile B
+
+is used.
+
+
+
+
+
+Displayed Day Tactics
+
+
+2
+
+
+
+
+
+• Fame and Reputation board. Players put one of their Shield
+
+• Unit off er. Reveal as many cards from the Regular (silver) Unit
+
+• Tile deck. The Scenario description says how many tiles of
+
+tokens on the 0 space of the Fame track and one on the central
+
+deck as there are actual players plus 2. Later, there may also
+
+each type you should use to form this deck.
+
+0 space of the Reputation track.
+
+be some Advanced Action cards in the Unit off er (one for each
+
+– For Countryside tiles (green back), pick them randomly.
+
+• Enemy and Ruin token piles. Sort the enemy (round) and ruin
+
+monastery on the map).
+
+– For Core tiles (brown back), separate them into city and
+
+(hexagonal) tokens by the reverse side, and stack them in seven
+
+• Round Order tokens. Each player puts their Round Order
+
+non-city tiles (according to whether they have a City icon in
+
+face down piles. Next to each pile, there is a space for discarded
+
+token here, with the player who picked their Hero fi rst being at
+
+the middle). Then randomly choose the appropriate number
+
+tokens. If you run out of tokens, reshuffl e the discarded ones
+
+the top.
+
+of non-city and city tiles.
+
+and create a new face down pile.
+
+• Day/Night board. At the start of the game, put it day side up.
+
+– To form the deck, shuffl e the chosen brown tiles together,
+
+• Artifact deck. Shuffl e the Artifacts and put them in a face
+
+At the start of a new round, it gets fl ipped, so Day and Night
+
+then put the shuffl ed green tiles on top of them.
+
+down deck. Artifacts are never displayed in an off er.
+
+alternate.
+
+• Map. According to the scenario description, put the starting tile
+
+• Wound pile. Al Wound cards are the same. Stack them in a
+
+– The left part of this board depicts the Move costs of various
+
+either A side or B side up.
+
+face up pile.
+
+ter ains.
+
+– Reveal two (if using starting tile A) or three (if using B) tiles
+
+• Spells deck and Spell off er. Shuffl e the Spell cards and put
+
+– The right part is the Source. Roll as many mana dice as there
+
+from the Tile deck and place them as depicted. Orient the
+
+them in a face down deck. Reveal the fi rst three as the off er.
+
+are actual players plus 2, and place them there. At least
+
+tiles in the same direction as the starting tile.
+
+• Advanced Action deck and Advanced Action off er. Prepare
+
+half of the dice have to show basic colors (red, blue, white
+
+– For all revealed sites, check the Site Description card to see
+
+in the same way as for Spells.
+
+or green). If not, keep rerol ing all the black and gold dice
+
+what happens when they are revealed.
+
+• Common Skill off er. An empty area where Skill tokens not
+
+together until this is true.
+
+• Site Description cards and Scoring card. These should be
+
+chosen during Level up will be put.
+
+• Displayed Day Tactics. Display the Day Tactic cards in an
+
+nearby, so players can easily take and read them.
+
+• Regular Unit deck and Elite Unit deck. Shuffl e the Unit cards
+
+easily accessible place.
+
+• City cards and City fi gures. These can be out of reach, as you
+
+with silver and gold backs separately to create two face down
+
+• Unused Tactics. Put the Night Tactic cards here now. You do
+
+will not need them until later in the game.
+
+decks.
+
+not need to shuffl e them.
+
+• Bank. Put the mana crystals in an accessible space. Place any
+
+unused mana dice there, as sometimes you may need to roll a
+
+die during the game.
+
+• Hero card. This card represents your character. In its lower part
+
+• Deed Deck. Each player shuffl es the 16 Basic Action cards of
+
+• Pile of Skill tokens. Each player has 11 Skill tokens in their
+
+is the Inventory, in which you store crystals gained during the
+
+their Hero (check the symbol in upper right corner) to create
+
+color. If you are playing a cooperative game then remove the
+
+game.
+
+their Deed deck.
+
+competitive interactive skil . If you are playing a
+
+• Pile of Level tokens. Stack the fi ve octagonal Level tokens in a
+
+• Player’s hand. At the start of the game, draw 5 cards from your
+
+competitive game then remove the cooperative interactive
+
+face up pile, sorted by numbers, so the one marked 1-2 is at the
+
+Deed deck (according to your Hand limit depicted on your
+
+skil . Randomize the 10 remaining skil s and put them in a
+
+top, while 9-10 is at the bot om. The cur ent token shows your
+
+topmost Level token).
+
+face down pile.
+
+Armor of 2 and Hand limit of 5 for levels 1-2. Put the sixth blank
+
+• Discard pile. Here you discard played cards at the end of your
+
+• Gained Skills. An area where Skill tokens gained during Level
+
+Level token shield side up in your Unit area as a Command
+
+turn (and sometimes also some cards during your turn).
+
+up will be put.
+
+token.
+
+• Figure. For now, place your fi gure here. It will move to the map
+
+• Skill Description card. All Skill tokens belonging to your Hero
+
+• Unit Area. Here you place your recruited Units. Each Unit needs
+
+during your fi rst turn.
+
+are described here.
+
+its own Command token. You cur ently have one Command
+
+• Play Area. Each player should have some reasonable space in
+
+token, so you can only have one Unit. When advancing to an
+
+• Shield tokens. Use one on the Fame track and another on the
+
+front of them, where they can play cards during their turn.
+
+odd-numbered level, you get another Command token, so your
+
+Reputation track. The rest are used to mark your successes on
+
+maximum number of Units increases.
+
+the map. The supply should be endless (if you run out of them,
+
+use a substitute).
+
+Hero card
+
+Gained
+
+Skills
+
+Pile of Level
+
+tokens
+
+Play Area
+
+Shield
+
+Inventory
+
+tokens
+
+Deed deck
+
+Command
+
+token
+
+Hero fi gure
+
+Unit area
+
+
+
+
+
+Discard pile
+
+
+(face up)
+
+Pile of Skill
+
+tokens
+
+Skill
+
+Description
+
+
+
+
+
+card
+
+
+Player’s hand
+
+3
+
+
+
+
+
+1. Rounds are either Day or Night. Players take their turns within
+
+e. Refresh the Spell off er – Fol ow the same steps as for
+
+c. Rear ange the Round Order tokens according to the Tactic
+
+a Round.
+
+refreshing the Advanced Action off er.
+
+number of each player, such that the lowest Tactic number is
+
+2. Prepare the Round (skip this step for the fi rst Round of the
+
+f. Col ect Tactic cards – Col ect all Tactic cards from the
+
+on top (fi rst) and the highest Tactic number is on the bot om
+
+game, as it was completed during setup):
+
+previous Round, then display the appropriate set of Tactic
+
+(last).
+
+a. Flip the Day/Night Board – If it was Day, fl ip the board to
+
+cards in the game area, face up.
+
+d. Remove any unclaimed Tactics and set them aside.
+
+Night; if Night, fl ip to Day.
+
+g. Each player:
+
+4. Players play their turns:
+
+b. Reset the Source – Reroll all mana dice in the Source, • Flips all Banner Artifacts and Skill tokens in their play a. Players take their turns in the order stated by the Round fol owing the conditions outlined in the “Game Setup”
+
+area face up. They may (does not have to) discard any
+
+Order tokens (from top to bot om). After the last player, the
+
+section.
+
+Banner Artifact assigned to their Units at this moment.
+
+fi rst player plays again.
+
+c. Create a new Unit off er.
+
+• Readies all Units in their Unit area, including Wounded
+
+b. If a player’s Deed deck is empty at the start of their turn,
+
+• Take all Unit cards cur ently in the off er and put them on
+
+ones (Wounded Units are not healed).
+
+that player may announce the End of the Round instead of
+
+the bot om of their cor esponding decks.
+
+• Shuffl es all their Deed cards to create a new Deed deck.
+
+playing their turn. If they do, each other player takes one last
+
+• If there are some Advanced Action cards in the Unit off er,
+
+• Draws cards up to their Hand limit. This may be
+
+turn and then the Round ends.
+
+put them to the bot om of the Advanced Action deck.
+
+increased if they are on or next to a keep or city – see c. At the end of each player’s turn check the Scenario End
+
+• Deal new Unit cards into the Unit off er equal to the
+
+the description of these sites. If next to both, use only the
+
+description to see whether the conditions have been met.
+
+number of actual players plus 2.
+
+higher eff ect. This may also be increased by an eff ect that
+
+This will often involve all players having one last turn before
+
+• If no Core tile has been revealed, deal Regular (silver
+
+increases Hand limit “next time you draw cards” if that
+
+the game then ends.
+
+back) Units only.
+
+eff ect occur ed on the player’s fi nal turn of the previous
+
+d. If a player has announced the End of the Round and the
+
+• If at least one Core tile has been revealed, alternate
+
+Round.
+
+Scenario End conditions have also been met then players
+
+dealing Elite (gold) and Regular Units. (Elite, Regular,
+
+3. Players choose Tactic cards for this Round.
+
+get their fi nal turn according to whichever occur ed fi rst.
+
+Elite, etc.)
+
+a. Each player chooses one Tactic card displayed in the game
+
+e. Players may not play any eff ects after their last turn in a
+
+• If there are any monasteries on the map, add one
+
+area.
+
+round, not even those usable in another player’s turn.
+
+Advanced Action card to the Unit off er for each
+
+• The player with the lowest Fame picks fi rst, fol owed by
+
+f. On a player’s last turn of a Round, any eff ects that increase
+
+monastery that has not been burned.
+
+the player with the second lowest Fame, etc. In case of
+
+that player’s Hand limit the next time they draw cards
+
+d. Refresh the Advanced Action off er – Remove the lowest
+
+a tie, the player whose Round Order token is in a lower
+
+transfer to the start of the next Round.
+
+position Advanced Action card in the off er and put it on
+
+position picks fi rst.
+
+5. Check the Scenario description to see whether the game is
+
+the bot om of the Advanced Action deck. Move each other
+
+Note: This means that in the fi rst Round, the player who
+
+over.
+
+Advanced Action down one position in the off er, then draw
+
+picked their Hero last chooses their Tactic card fi rst.
+
+a. If the scenario conditions have been met or if the Round
+
+a new card from the Advanced Action deck and add it to the
+
+b. Fol ow any instructions on Tactic cards which say “when
+
+limit is reached, the game is over and you should fol ow the
+
+off er in the top position.
+
+you take this Tactic”.
+
+Scenario description to determine the outcome of the game.
+
+b. If not, continue the game by playing the next Round.
+
+DEED CARDS
+
+b. A Spell can be powered by one mana of the depicted color
+
+5. At the end of the turn, all played Deed cards go to your discard
+
+to provide its basic eff ect. At Night it can be powered by one
+
+pile. Unplayed cards remain in your hand, unless you decide to
+
+1. All cards with this card back are Deed cards.
+
+mana of the depicted color and one black mana to provide
+
+discard one or more of them.
+
+These consist of Action cards (Basic and
+
+its strong eff ect. The color of a Spell card is determined by
+
+Advanced), Spells, Artifacts and Wounds.
+
+6. Some card eff ects order you to pay extra mana of some color,
+
+the color required for its basic eff ect.
+
+At the start of the game, players have only
+
+or to discard (put to your discard pile) or throw away (remove
+
+Basic Action cards in their Deed deck.
+
+c. An Artifact can be played to provide its basic eff ect, or it can be
+
+from the game) another card. These eff ects cannot be played if
+
+thrown away (removed from the game) for its strong eff ect.
+
+you are unable to do this.
+
+2. Each turn, players will play Deed cards from
+
+their hand. To play a card, put it in your Play
+
+d. Wound cards cannot be played in any way.
+
+a. Wound cards can be never discarded or thrown away this
+
+area and perform the stated eff ect.
+
+e. Any non-Wound card can be played sideways into the Play
+
+way, unless the eff ect explicitly al ows so. Thus “any card”
+
+refers to any card in your hand, except Wound cards.
+
+3. Diff erent Deed cards can be played in diff erent ways:
+
+area to provide either Move 1, Infl uence 1, At ack 1, or Block 1.
+
+a. An Action card (Basic or Advanced) can be played to
+
+• They can’t be played to provide Ranged At ack, Siege
+
+provide its basic eff ect, or it can be powered by one mana
+
+At ack, or any kind of elemental (Fire, Ice or Cold Fire)
+
+of the depicted color to provide its strong eff ect. The color
+
+At ack or Block.
+
+of an Action card is determined by the color required for its
+
+4. Cards that provide similar eff ects (even those of diff erent types)
+
+strong eff ect.
+
+can be played together to provide a cumulative eff ect. Stack the
+
+played cards together and total their eff ects.
+
+4
+
+
+
+
+
+USING UNITS
+
+4. Skil s are of three basic types:
+
+“COMPOSITE” EFFECTS
+
+1. Units are separated into two decks, Regular (silver card back)
+
+a. Skill tokens with this symbol can be used only once a 1. Some cards (Concentration, Magic Talent, etc.) alow you to and Elite (gold card back). The card back does not impact game
+
+Round, on your turn (except the Motivation skil , which can
+
+play the eff ect of another card or token as part of their eff ect
+
+play once Units are in the game.
+
+also be used during other player’s turns). If you use such
+
+a Skil , fl ip the token face down until the start of the next
+
+(some even multiple times – Maximal Eff ect).
+
+2. At the start of the game, players control no Units. Units gained
+
+Round.
+
+a. This is all evaluated as playing a single eff ect. So for instance,
+
+(recruited) during the game are displayed in front of the player
+
+you could not use Maximal Eff ect with Determination and
+
+in the Unit area at all times (they will never be in a player’s hand,
+
+b. Skill tokens with this symbol can be used once a
+
+use the Block against diff erent enemy at acks.
+
+Deed deck or discard pile).
+
+Round, but their eff ect persists until the start of your
+
+next turn. These Skil s will aff ect other players during their
+
+b. You have to respect all the limitations of the played eff ects.
+
+3. Each Unit in your Unit area has an assigned Command token.
+
+turns while they are active. When using this type of Skil ,
+
+For the purposes of resistances, each eff ect maintains its
+
+You cannot have more Units than Command tokens in your
+
+announce it loudly and put the token in the center of the
+
+color, even if the mana is not actual y paid.
+
+Unit area.
+
+table. At the start of your next turn (or when the Round
+
+c. Special case: The Time Bending spell has to be set aside after
+
+a. Units with Command tokens above them are considered to
+
+ends, if that comes fi rst), take it back and fl ip it face down. It
+
+it is played. If you use another card (Magic Talent) to play
+
+be Ready.
+
+will be fl ipped up at the start of the next Round.
+
+Time Bending , that card is set aside instead.
+
+b. Units with Command tokens on them are considered to be
+
+c. Skill tokens without any special symbols can be used once
+
+Spent.
+
+each turn.
+
+“GAIN” EFFECTS
+
+c. Units with a Wound card across them are considered to be
+
+1. If an eff ect tells you to gain a mana token, take a mana token of
+
+Wounded.
+
+USING MANA
+
+the cor esponding color and put it in your Play area.
+
+4. Newly recruited Units are always Ready and not Wounded.
+
+1. There are four basic colors of mana in the game (red, blue,
+
+2. If an eff ect tells you to gain a crystal, take a mana token of the
+
+a. If you want to gain a new Unit but all of your Command
+
+white and green). The mana can be in two forms:
+
+cor esponding color and put it in your Inventory. If you already
+
+tokens are occupied, you must disband one of your Units.
+
+a. Pure mana. This is represented by a mana die or by a mana
+
+have three crystals of that color, gain a mana token of that color
+
+Remove a disbanded Unit from the game. The newly
+
+token in a player’s play area. When gained, it has to be used
+
+to your Play area instead.
+
+recruited Unit is Ready and not Wounded, regardless of the
+
+before the end of the player’s turn, or it disappears.
+
+3. If an eff ect tells you to gain a new Deed card (Advanced Action,
+
+state of disbanded Unit.
+
+b. Crystals. These are represented by a mana token in the
+
+Spell, or Artifact) during or after your turn, the new card is
+
+5. A Unit that is Ready and not Wounded may be activated for
+
+player’s Inventory (on their Hero card). Up to three tokens
+
+placed on top of your Deed deck unless stated otherwise.
+
+one of its abilities.
+
+of each basic color can be stored there.
+
+a. Whenever you gain a card from the Spell off er or Advanced
+
+a. To activate a Unit, put its Command token on it – the Unit is
+
+• A crystal can be turned into pure mana at any moment of
+
+Action off er, replenish the off er immediately by shifting the
+
+no longer Ready, it is spent until the end of the Round.
+
+a player’s turn. Pure mana cannot be turned into crystals
+
+remaining cards down and adding a new card to the top slot
+
+b. Then choose one of the abilities displayed on the Unit card
+
+unless an eff ect says so.
+
+of the off er.
+
+and apply its eff ect. You may combine it with the eff ects of
+
+2. There are two special colors (gold and black) that can be in pure
+
+b. If you take a card from the Unit off er (either a Unit or an
+
+other Deed cards, Skil s and Units.
+
+form only (there are no gold and black crystals).
+
+Advanced Action that you learned in a monastery), do not
+
+• To choose an ability with a mana symbol in front of it,
+
+a. During Day Rounds, gold mana can be used as mana of
+
+replenish the off er. It will be replenished at the start of the
+
+you have to pay mana of the cor esponding color fi rst.
+
+any basic color (for all purposes, it is considered exactly the
+
+next Round.
+
+6. Whenever an eff ect al ows you to “Ready a Unit”, you may
+
+same as using mana of the desired color). Black mana can
+
+4. Any Artifacts and any rewards won during combat are gained
+
+move the Command token above that Unit. The Unit is now
+
+never be used during the Day.
+
+at the end of your turn. See the “End of Turn” section.
+
+Ready and can be activated again.
+
+b. During Night Rounds, black mana can be used to power
+
+7. An eff ect can only alter an ability of a Unit if that Unit has that
+
+some eff ects. Gold mana can never be used at Night.
+
+DISCARDING AND
+
+ability. So for instance, to increase a Units Block it must already
+
+3. The Source represents pure mana present in the world. Each
+
+THROWING AWAY
+
+have a Block value.
+
+turn, a player may take one mana die from the Source and use it
+
+8. Banner Artifacts can be assigned to a Unit at any time during
+
+1. If an eff ect tel s you to discard a card, put the discarded card
+
+as mana of the color shown on the die.
+
+your turn. Put the Banner card partial y under the Unit card you
+
+into your discard pile. You may never discard a Wound card,
+
+a. Reroll any dice taken from the Source this way at the end of
+
+are assigning it to. As long as the Banner is at ached to the Unit,
+
+unless the eff ect explicitly al ows it.
+
+the player’s turn, and return them to the Source.
+
+the Unit can benefi t from its basic eff ect, but the strong eff ect is
+
+2. If an eff ect tel s you to throw away a card then:
+
+inaccessible.
+
+b. Players take the dice at the moment when they want to use
+
+a. If it is a Wound, put it back in the Wound pile.
+
+the mana. Players are not al owed to take a die and then not
+
+a. If the Unit is destroyed or disbanded, or if you assign another
+
+use the mana it provides.
+
+b. Otherwise, remove it from the game (return it to the box).
+
+Banner to the same Unit, the Banner goes to your discard pile.
+
+c. During Day Rounds any mana die in the Source showing
+
+b. At the end of the Round, you may decide either to keep the
+
+black mana is immediately depleted. During Night
+
+Banner with the unit, or you can shuffl e it back into your
+
+Rounds any mana die in the Source showing gold mana is
+
+Deed deck.
+
+immediately depleted. Depleted mana die cannot general y
+
+9. At the end of your turn, do not discard or Ready a Spent Unit.
+
+be used. They should be placed in the top right of the Source
+
+Units are automatical y Readied at the end of each Round.
+
+to make this clear.
+
+USING SKILLS
+
+EFFECTS
+
+REVERTING
+
+1. Skil s are represented by Skill tokens. Each character has their
+
+1. Deed cards, Units, Skill tokens and some Tactic cards provide a
+
+1. Unless you agree otherwise (not recommended),
+
+own set of Skill tokens.
+
+variety of eff ects that may be used on a given turn.
+
+players may take back any actions and decisions they
+
+make during their turn. It is faster to playout your
+
+2. At the start of the game, players have no Skill tokens available
+
+a. Many eff ects are described with shortcuts like Move X (gain
+
+turn and change your mind than to at empt to plan
+
+to them. Each time a Hero reaches an even-numbered Fame
+
+X Move points) or Heal X (gain X Healing points). These
+
+everything in your head.
+
+level, they gain one Skill token.
+
+terms are explained in the rules.
+
+2. You cannot revert to a moment prior to any new
+
+a. Players put the Skill tokens they gain during the game face
+
+b. Other eff ects might al ow you to modify the rules for the
+
+information being revealed (a map tile, enemy token, or
+
+up in front of them.
+
+turn, or to gain something you wouldn’t normal y be able to
+
+card), a die rol ed or another player reacting specifi cal y
+
+b. Players may gain Skill tokens of their own character, but
+
+gain. For these types of eff ects, fol ow the text on the card.
+
+to the player’s actions (usual y in Player vs. Player
+
+also Skill tokens of other characters in the game. If they do,
+
+• If the eff ect modifi es some values or rules, the change
+
+combat).
+
+they can use them the same way as their own – once a Skil
+
+begins immediately and lasts until the end of the cur ent
+
+a. Once this happens, all decisions, moves, played
+
+is in the game, it does not mat er to which character set it
+
+turn (unless stated otherwise).
+
+cards, used Skil s and Unit abilities, spent mana etc.
+
+belongs.
+
+2. If you do not understand an eff ect or the interaction of two or
+
+have to remain exactly as they were.
+
+3. The use and eff ect of each Skill is depicted by icons on its token.
+
+more eff ects in combination, check the game website for FAQs.
+
+They are described in detail on the Skill Description card of
+
+the cor esponding character.
+
+5
+
+
+
+
+
+1. Some Tactic cards, Skill tokens, and the village Description card
+
+3. If your Deed deck is empty at the start of your turn, and if the
+
+6. Playing a Regular turn has two voluntary parts: movement,
+
+off er you options that are labeled as “before your turn” or “on
+
+End of the Round has not been announced yet, you may forfeit
+
+and a single action, in that order.
+
+another player’s turn”.
+
+your turn and announce the End of the Round. If you do, each
+
+a. First, you may (but do not have to) move. You may reveal
+
+a. For game purposes both of these are the same. You can play
+
+other player takes one more turn, and then the Round is over.
+
+new map tiles during movement. See the “Movement”
+
+them while others are playing, or just before your turn.
+
+a. You may only announce End of the Round if your Deed deck
+
+section later.
+
+Note: You can use eff ects playable “on another player’s turn”
+
+is empty at the start of your turn.
+
+b. Your movement may result in a mandatory action:
+
+before your fi rst turn, even if you are the fi rst player to play
+
+b. You must announce End of the Round if your Deed deck is
+
+• If you ended your movement on a space occupied by
+
+this Round. You may also use them between any two of
+
+empty and you have no cards in your hand at the start of
+
+another player, you must initiate Player vs. Player combat.
+
+your turns, even if they immediately fol ow each other.
+
+your turn.
+
+• If you entered (i.e. assaulted) a fortifi ed site (keep, mage
+
+b. You can also play these eff ects in reaction to another player
+
+c. If you have cards in your hand, but your Deed deck is empty,
+
+tower, city), you must fi ght all gar isoned enemies.
+
+announcing they will play an eff ect (and evaluate them
+
+it is up to you whether to announce End of the Round, or
+
+• If your movement ended because you were at acked by
+
+before that eff ect). You cannot do this in the middle of an
+
+whether to play your turn.
+
+rampaging enemies, you must fi ght these enemies.
+
+eff ect evaluation.
+
+d. If you have no cards in your hand and Deed deck, but the
+
+c. If there are no mandatory actions, you may choose to perform
+
+c. You cannot play them in the fol owing situations:
+
+End of the Round has already been announced by another
+
+one (and only one) of the fol owing voluntary actions:
+
+• during your End of Turn sequence.
+
+player, you must forfeit your turn.
+
+• At inhabited sites (village, monastery, keep, mage
+
+• before Tactic selection is fi nished at the start of the
+
+tower, city) you may interact with the locals. See the
+
+Round.
+
+4. If you forfeit your turn, your turn ends immediately; you cannot
+
+“Interaction with Locals” section later.
+
+• after your last turn during the Round.
+
+even use the benefi ts of a map space you occupy (mines or • At adventure sites (ruins, dungeon, tomb, monster den, d. You are not al owed to play other eff ects outside of your
+
+magical glade).
+
+spawning grounds) you may decide to explore them.
+
+turn.
+
+This will usual y lead to combat.
+
+e. These eff ects usual y al ow you to draw cards from your
+
+5. If you do not forfeit your turn, you have two options: playing a
+
+• If there are rampaging enemies (orc marauders,
+
+Deed deck. The fol owing conditions (whether the draw
+
+Regular turn or Resting.
+
+draconum) in one or more adjacent spaces, you can
+
+deck is empty, whether you have cards in your hand) are
+
+a. In both cases, you have to play or discard at least one
+
+decide to chal enge one or more of them in combat.
+
+checked after these actions are completed.
+
+card during or at the end of your turn (except if your hand
+
+• If in a monastery, you may decide to burn it. This leads
+
+is empty but there are still cards in your Deed deck at the
+
+to combat.
+
+2. If your round order token is fl ipped then fl ip it back and miss
+
+beginning of your turn).
+
+• If none of the above actions are available, or if you do not
+
+your turn.
+
+b. You may play any number of special eff ects anytime
+
+want to take any of these actions, you can do nothing.
+
+a. In a cooperative game your round order token may be
+
+after your turn starts and before you announce its end, d. You may do only one action each turn (mandatory or fl ipped because you took part in a cooperative city assault
+
+including before you decide whether you are taking a
+
+voluntary). If you want to move and/or reveal new tiles,
+
+since your last turn.
+
+Regular turn or Resting. The same applies for healing
+
+you must do it before taking an action. You cannot move or
+
+b. In a ful y competitive game your round order token may
+
+eff ects , except these cannot be played during combat.
+
+reveal map tiles after an action.
+
+be fl ipped because you were a defender in a player versus
+
+c. You may also play any number of move and infl uence
+
+e. Unspent Move points and Infl uence points from previous
+
+player combat that you ful y at ended since your last turn.
+
+eff ects at any time during your turn just as you can
+
+phases of your turn are lost at the moment you start your
+
+c. Whether your round order token was fl ipped or not, any of
+
+with special eff ects. Most of the time however there is no
+
+action phase.
+
+your cooperative or interactive skill tokens that are still in
+
+reason to play these eff ects outside of their normal phases.
+
+eff ect will now expire.
+
+• Unless explicitly stated otherwise, you cannot move
+
+7. If Resting, you cannot move, initiate combat or interact with
+
+d. If you have to fl ip your round order token back then you
+
+your fi gure or explore new tiles in phases other than the
+
+locals.
+
+cannot declare the End of the Round this turn.
+
+Movement phase of your turn. Any eff ect that al ows for
+
+this is ignored when played outside the Movement phase.
+
+a. Depending on the contents of your hand, you must either
+
+take a Standard Rest (if you have at least one card other than
+
+a Wound in your hand) or a Slow Recovery (if you have only
+
+Wound cards in your hand).
+
+Note: Playing all of your non-Wound cards earlier in the turn
+
+will eff ect which type of Rest you take.
+
+•
+
+Standard Rest: You must discard one non-Wound card
+
+and any number of Wound cards.
+
+Note: this is not the same as Healing, as the Wound cards
+
+go to your discard pile.
+
+• Slow Recovery: You must reveal your hand to show you
+
+have only Wound cards. Then, discard one Wound card
+
+to your discard pile.
+
+8. Once you have done everything you wanted to do on your turn
+
+(Regular turn or Resting), announce that your turn is over.
+
+a. First, return any mana dice to the Source. Reroll any dice
+
+you used before returning them. This is listed as the fi rst
+
+thing you must do, as other players need this information
+
+to be able to plan their turns.
+
+b. Inform the next player (as per the Round Order tokens)
+
+that they may now start their turn.
+
+• This speeds up the play of the game. However, if the next
+
+player insists, they may wait until you completely fi nish
+
+your turn before they start theirs.
+
+c. Finalize your turn while the other player begins theirs. See
+
+the “End of the Turn” section.
+
+• You cannot play eff ects during your end of turn
+
+sequence.
+
+6
+
+
+
+
+
+1. You may move during a Regular turn (not Resting). During
+
+e. Depending on the back color of the Map Tile being placed,
+
+the eff ect states, and you may also move over inaccessible
+
+movement, you can reveal new map tiles. All movement
+
+additional limitations apply:
+
+spaces (including those occupied by rampaging enemies
+
+must be completed before taking any action (combat or
+
+• Countryside tiles (green tile back) can only be placed
+
+or fortifi ed sites), unless stated otherwise.
+
+interacting with locals).
+
+such that they will be adjacent to at least two other
+
+• Some of these eff ects order you to end this move on a
+
+tiles, or adjacent to a tile that borders at least two other
+
+safe space (see below).
+
+2. When moving, you may play any amount of movement
+
+tiles.
+
+d. A space is considered to be a safe space if:
+
+eff ects . Most of these eff ects generate Move points.
+
+• Core tiles (brown tile back) can only be placed such
+
+• It is accessible under normal conditions (i.e. if no
+
+a. You may play any number of movement cards from
+
+that they will be adjacent to at least two other tiles.
+
+special eff ects apply).
+
+your hand (and power them with any available mana),
+
+• If there are no tiles left in the Map Tile deck when a
+
+• It is not an unconquered fortifi ed site, or a keep owned
+
+use movement Skil s, or activate Units with movement
+
+player at empts to explore, they may use a random
+
+by an opponent.
+
+abilities.
+
+Countryside tile removed from the game during Setup.
+
+• It does not contain another hero, except for sites that
+
+b. The Move X eff ect means “you get X Move points”.
+
+If all Countryside tiles have been placed, they can use
+
+al ow more heroes (portal, conquered city).
+
+c. Any card (except for a Wound) can be played sideways to
+
+removed non-City Core tiles instead. Tiles explored
+
+a movement column as Move 1.
+
+this way can only be placed such that they are adjacent
+
+to at least three other tiles (to fi ll up holes). If there are
+
+8. Other players:
+
+d. Players can also play any number of special
+
+and
+
+no tiles in the box, no more tiles can be explored.
+
+healing eff ects during movement.
+
+a. You are allowed to pass through spaces occupied by
+
+f. For sites on a newly revealed tile, check the “When
+
+another player’s fi gure freely, unless it is a keep owned by
+
+revealed” section of the associated Site Description cards
+
+that player.
+
+3. Total the Move points provided by all your cards and eff ects.
+
+and fol ow the text. Especial y:
+
+• It is also al owed to enter a space with another player,
+
+You may then move your fi gure, space by space, spending
+
+•
+
+If
+
+a
+
+monastery is revealed, draw one Advanced Action
+
+to reveal a new map tile or tiles, and then to continue
+
+Move points according to the type of ter ain you are moving
+
+card and add it to the Unit off er (not the Advanced
+
+movement.
+
+into (as indicated by the Day/Night board). You may only
+
+Action card off er).
+
+move to accessible adjacent spaces.
+
+b. If you enter space a with another player and you do not
+
+g. If a tile with a city in its center is revealed:
+
+want or cannot continue your movement this turn, it is
+
+a. The spaces marked by X on the Day/Night board are
+
+automatical y considered to be an attack on that player.
+
+inaccessible.
+
+• Take the cor esponding City card
+
+and place it close to the map.
+
+See Player vs. Player combat section later.
+
+Note: The cost to move into the Desert and Forest ter ain
+
+• Especial y, entering a keep owned by another player
+
+diff ers according to whether it is Day or Night.
+
+• Consult the Scenario description to
+
+see of which level this city has to be.
+
+while that player is there immediately ends your
+
+Note: The cost to move into a city is always 2, regardless
+
+Take the cor esponding City fi gure and rotate its base
+
+movement and thus is automatical y considered to be
+
+of the terrain shown on its space.
+
+so the level of the city is shown in the window. Put the
+
+an at ack on that player.
+
+fi gure on the city space.
+
+c. An at ack on another player is considered to be your
+
+4. Limitations:
+
+• The base shows circles of diff erent colors. For each
+
+action for this turn. It is never al owed to do any other
+
+a. Entering a space with an unconquered fortifi ed site
+
+circle, draw an enemy token of the cor esponding color
+
+action on a space occupied by another player.
+
+(keep, mage tower, or city), or with a keep owned by
+
+and place it face down on the City card.
+
+d. On some spaces, there are multiple fi gures al owed.
+
+another player immediately ends your movement, and is
+
+Combat never occurs on those spaces:
+
+considered to be an assault on that site.
+
+6. During movement, you may move as many spaces and
+
+• If you end your turn on a portal space, remove your
+
+b. You are not al owed to enter a space occupied by a
+
+explore as many tiles as you can pay Move points for.
+
+fi gure from the map and place it in front of you. Place it
+
+rampaging enemy (orc marauder or draconum) until a. You are al owed to alternate between exploring new back to the portal space at the start of your next turn.
+
+they are defeated.
+
+tiles and moving.
+
+• If you enter a conquered city, place your fi gure off the
+
+c. If you provoke a rampaging enemy (i.e. move directly from
+
+b. You are al owed to play additional eff ects to add Move
+
+map on the cor esponding City card. Place the fi gure
+
+a space adjacent to their token to another space adjacent
+
+points to your total at any time during movement.
+
+back on the map once it moves away from the city.
+
+to the same token), you are at acked by that enemy and
+
+e. In certain situations, Player vs. Player combat is not
+
+your movement immediately ends.
+
+• You are al owed to play additional cards after a new tile
+
+is revealed.
+
+al owed. If you end your movement on the same space
+
+d. Entering a space with an adventure site (ruins, monster
+
+as another player in these situations, you cannot do any
+
+den, spawning grounds, dungeons or tombs) does not • Move points from newly played eff ects are added action on your turn. Forced Withdrawal rules apply to
+
+necessarily end your movement; you may ignore it and
+
+to any Move points that might be left from your
+
+you at the end of your turn (see the “End of the Turn”
+
+treat it as an empty space, even if there are enemy tokens.
+
+previously played eff ects.
+
+section). These situations are:
+
+• It is not possible to power previously played cards with
+
+• The other player’s Round Order token is cur ently face-
+
+mana for the strong eff ect – this has to be done when
+
+5. During movement, you can reveal new map tiles:
+
+down.
+
+the card is played, or not at al .
+
+a. You can only reveal new tiles if you occupy a space
+
+• End of Round has been cal ed, and each player has
+
+adjacent to a position where a new tile can be added.
+
+their last turn this Round.
+
+7. Some eff ects modify the rules of movement. These apply to
+
+• Tiles must be placed in fi xed positions defi ned by the
+
+• The scenario conditions were met, and each player has
+
+all movement done after the eff ect is played, until the end of
+
+symbols in their corners.
+
+their last turn in the game.
+
+turn.
+
+• No tile can be added behind the coastline (see the
+
+• You play a cooperative scenario, or you agreed Player
+
+a. Some eff ects reduce the Move cost of certain terrains. If
+
+Game Setup section, and the defi nition of the map
+
+vs. Player is not al owed in your game.
+
+a player plays more than one of this type of eff ect, they
+
+shape in the scenario description).
+
+can apply them in any order. If the Move cost of a terrain
+
+• You play a team scenario, and that other player is your
+
+b. To reveal a tile, a player has to spend 2 Move points.
+
+is reduced to 0, the player may enter spaces of this terrain
+
+teammate.
+
+c. The new tile comes from the top of the Map Tile deck.
+
+without paying any Move points. The Move cost of a
+
+If the player occupies a space bordering two available
+
+terrain cannot be reduced below 0.
+
+positions for a new tile, they must announce which of
+
+b. Some cards al ow a player to enter inaccessible terrain at
+
+them they are exploring before revealing the tile.
+
+certain cost. Beware - players should end their turn in a
+
+d. Tiles are always oriented in a defi ned direction (so the
+
+safe space (see below), otherwise, Forced Withdrawal
+
+number in one of their corners is oriented the same way as
+
+rules apply (see “End of the Turn” section, pg. 11).
+
+the starting tile). Players do not decide how to orient tiles
+
+c. Some eff ects directly al ow you to move one or more
+
+when placing them.
+
+spaces. For this, you do not pay any cost other than what
+
+7
+
+
+
+
+
+1. You can interact with locals at several diff erent places on
+
+4. Once a player has calculated their Infl uence total, they can
+
+e. Each city has its own interaction option depicted on the
+
+the map (villages, monasteries, keeps you own, and mage
+
+spend their Infl uence points on whatever the site off ers. See
+
+lower half of the City card:
+
+towers and cities conquered by any player). Interaction is your
+
+the Site Description card, or the cor esponding City card for
+
+•
+
+In the Red city, you can buy Artifacts
+
+action for that turn.
+
+options.
+
+for 12 Infl uence points each. The
+
+2. When interacting, you may play any amount of infl uence
+
+a. A Player can recruit a Unit from the Unit off er, as long as
+
+Artifact is drawn at the end of the turn, as if you won
+
+eff ects to generate Infl uence points.
+
+one of the Unit types (icons in the upper left of the Unit
+
+them in combat (see End of Turn – Combat Rewards).
+
+a. Check the position of your Shield token on the Reputation
+
+card) matches the site (icon in the upper right corner of the
+
+•
+
+track. You gain infl uence (positive or negative) equal to the
+
+Description card). The Infl uence cost is stated in the upper
+
++
+
+In the Blue city, you can buy Spells
+
+as if you are in a mage tower.
+
+modifi er shown immediately once you start the Interaction.
+
+left corner of the Unit card.
+
+•
+
+Any later changes to Reputation during the turn have no
+
+• For recruiting, see the “Basic Concepts – Using Units”
+
++
+
+In the White city, you can recruit
+
+Units of all types. Also, you can pay
+
+eff ect on the bonus or penalty you gained.
+
+section.
+
+2 Infl uence points to add one Elite
+
+• If your token is on the X space of the Reputation track,
+
+• You can use a newly recruited Unit immediately (but you
+
+(gold) Unit card to the Unit off er.
+
+you cannot interact at al !
+
+cannot use an Influence effect of that Unit to pay its own cost).
+
+•
+
+b. You can play infl uence cards from your hand (and power
+
+b. Healing points can be bought at villages for 3 Infl uence
+
+/ ? In the Green city, you may pay 6
+
+Infl uence points to gain a card
+
+them with any available mana), use infl uence Skil s, or
+
+points and at monasteries for 2 Infl uence points (see the
+
+from the Advanced Action off er (replenish the off er after)
+
+activate Units with infl uence abilities.
+
+Description card of these sites). See the “Wounds and
+
+or a random card from the top of the Advanced Action
+
+c. The Infl uence X eff ect means “you get X Infl uence points”.
+
+Healing” section.
+
+deck. Put the gained card on top of your Deed deck.
+
+d. Any card (except for a Wound) can be played sideways to c. As described on the monastery Site Description card, an infl uence column as Infl uence 1.
+
+a player can learn a new Advanced Action there for 6 5. You may buy any number of things of the same or diff erent e. Players can also play any number of special and healing
+
+Infl uence points. The Advanced Action card must be from
+
+types during an interaction, as long as you have the Infl uence
+
+eff ects during interaction.
+
+the Unit off er (not from the Advanced Action off er) and is
+
+points to pay for them.
+
+put on top of their Deed deck. The off er is not replenished
+
+3. Total the Infl uence points provided by all your cards and
+
+until the start of the next Round.
+
+a. You apply the bonus or penalty (for Reputation and for
+
+eff ects.
+
+Shield tokens in a city) only once per turn, no mat er how
+
+d. A player can learn new Spel s from the Spell off er at a mage
+
+a. If interacting in a conquered city, you add 1 to your Infl uence
+
+many things you buy.
+
+tower. To gain a Spel , the player must pay 7 Infl uence points
+
+total for each Shield token you have on the City card.
+
+as well as one mana of the same color as the Spell they
+
+Note: If these bonuses are high enough, you may interact
+
+wish to acquire. A newly gained Spell is put on top of the
+
+without playing any Infl uence eff ects.
+
+player’s Deed deck and the Spell off er is replenished.
+
+1. There are several ways to initiate combat with an enemy:
+
+a. It can happen that a single move provokes two rampaging
+
+c. Assign Damage phase – Any unblocked enemies deal
+
+a. Entering a space with an unconquered fortifi ed site (keep,
+
+enemies. You have to fi ght them both.
+
+damage. Damage points must be assigned to your Hero
+
+mage tower, or city). This is considered to be an assault, b. An assault is a move, and it can happen that it provokes and/or your Units.
+
+and you must fi ght the defenders of that site. They are
+
+one or more rampaging enemies. You have to fi ght both
+
+d. Attack phase – At ack enemies using any other at acks
+
+always fortifi ed (see later). Every time you make an assault,
+
+the defenders and these rampaging enemies at once. The
+
+remaining in your hand (including Ranged and Siege
+
+you lose 1 Reputation, regardless of the outcome of the
+
+rampaging enemies are not fortifi ed, though, and you can
+
+At acks you have not used during the fi rst phase) to at empt
+
+combat.
+
+conquer the site even if you do not defeat them.
+
+to eliminate enemies.
+
+• Also, entering a space with a keep belonging to another c. If your move started a combat and there are one or more player counts as an assault and you lose 1 Reputation. If
+
+rampaging enemies adjacent to the space you moved into, 4. During each phase a player can play cor esponding cards, use the other player is present in the keep, you start Player
+
+you may chal enge them to join the fi ght. This means:
+
+Skil s, and activate Units. Track the eff ects played in each phase
+
+vs. Player combat. If not, a random gray enemy token is
+
+• You may provoke a rampaging enemy by your move,
+
+in separate columns.
+
+drawn as gar ison of the keep (worth half Fame).
+
+then chal enge one or more rampaging enemies adjacent
+
+b. If you are at an adventure site containing enemies
+
+to the space you moved into, and then fi ght them al .
+
+(dungeon or tomb, unconquered monster den or
+
+5. Unless a restrictive eff ect is otherwise stated, you may play
+
+• When assaulting a fortifi ed site, you may also chal enge
+
+spawning grounds, or ruins with enemies), you may
+
+additional combat eff ects (that aff ect your Units, enemies,
+
+any rampaging enemies adjacent to that site. They join
+
+announce that you are entering the site as your action. This
+
+or combat rules) during any of these phases. Unless stated
+
+the defenders in combat, but are not fortifi ed and you do
+
+initiates combat with all enemies in the site.
+
+otherwise, that eff ect persists until the end of the turn.
+
+not need to defeat them in order to conquer the site.
+
+c. If you are standing at a monastery, you may announce
+
+a. When using a red card, or a Unit ability that costs red mana
+
+d. You cannot chal enge extra enemies when entering an
+
+that you are at empting to burn it. If you do, you get
+
+to activate, any eff ect, other than At ack or Block eff ects,
+
+adventure site.
+
+Reputation -3, then draw a random violet enemy token as
+
+have no eff ect when targeting enemies with Fire resistance
+
+the defender.
+
+e. You can never fi ght enemy tokens and another player at the
+
+.
+
+same time. On your turn, you may do only one action, and
+
+d. If you are standing adjacent to a rampaging enemy
+
+b. When using a blue card, or a Unit ability that costs blue
+
+both combat with enemies and Player vs. Player combat are
+
+token (orc marauder or draconum), you can chal enge
+
+mana to activate, any eff ect, other than At ack or Block
+
+separate actions.
+
+it to combat. If there are rampaging enemies on multiple
+
+eff ects, have no eff ect when targeting enemies with Ice
+
+adjacent spaces, you can choose to chal enge one or more of
+
+resistance .
+
+them to combat.
+
+3. Combat starts by drawing and/or revealing all enemies you
+
+c. Eff ects that target something other than an enemy (such as
+
+e. If you make a move from a space adjacent to a rampaging
+
+have to fi ght. Then, the combat has four phases:
+
+the Ignore Site Fortifi cations eff ect of the Demolish spel )
+
+enemy token to another space directly adjacent to the same a. Ranged and Siege Attack phase – Ranged and/or Siege are not prevented by any enemy resistances.
+
+token, this provokes that rampaging enemy to at ack you.
+
+At acks can be used fi rst to at empt to eliminate some
+
+enemies before they get to at ack you.
+
+6. Players can play any number of special eff ects during any
+
+2. Only one combat is al owed each turn. However, in certain
+
+b. Block phase – Enemies not eliminated by Ranged / Siege
+
+combat phase. However, no healing eff ects may be played
+
+situations, enemies from multiple spaces may be fought in that
+
+make their at ack. Players can use Block eff ects to at empt
+
+during combat.
+
+combat:
+
+to block these at acks.
+
+8
+
+
+
+
+
+RANGED AND SIEGE
+
+BLOCK PHASE
+
+ASSIGN DAMAGE PHASE
+
+ATTACK PHASE
+
+1. After performing any Ranged and Siege At acks, the Block
+
+1. Any enemies that are still alive and unblocked deal damage
+
+1. During this phase, you may perform one or more at acks, or
+
+phase begins. In this phase, all enemies that have not been
+
+from their attacks during this phase.
+
+pass and do nothing.
+
+eliminated get to at ack, but players have the chance to actively
+
+a. If there are none, skip this phase.
+
+counter the attack of one or more enemies by using blocks. A
+
+b. Otherwise, process all unblocked enemies one by one in
+
+2. To perform an at ack, choose one or more enemy tokens as
+
+Blocked enemy deals no damage in the Assign Damage phase.
+
+whatever order you choose.
+
+the target of the at ack.
+
+2. For each enemy with the Summon icon, draw a brown
+
+2. Each enemy deals damage equal to its At ack value.
+
+3. Play any number of Ranged Attacks and Siege Attacks of
+
+enemy token and add it to the enemy group now.
+
+any elements – Fire, Ice, Cold Fire, or physical (physical At acks
+
+a. For both the Block Phase and the Damage Assigning Phase,
+
+a. If the enemy has the Brutal ability, it deals twice as
+
+have no elemental at ribute).
+
+the summoned monster replaces the summoning enemy. No
+
+much damage as its At ack value.
+
+a. You may play cards that provide Ranged or Siege At acks
+
+eff ect can target the summoning enemy during these phases.
+
+3. You must assign al damage. You can assign damage to one or
+
+from your hand (and power them with any available mana),
+
+b. Once the At ack Phase begins the summoning enemy is
+
+more of your Unwounded Units. The rest is assigned to your Hero.
+
+use Ranged or Siege At ack Skil s, or activate any Units with
+
+considered to be back in play and eff ects can target them.
+
+Ranged or Siege At ack abilities. Stack these eff ects together
+
+4. You can assign damage to a Unit as long as it is not Wounded.
+
+in a column to help keep track of your total.
+
+3. Choose a single attacking enemy to block.
+
+Unwounded Spent Units can have damage assigned to them.
+
+• If some of the chosen enemies are fortifi ed (either
+
+a. Whenever a Unit is assigned damage, put a Wound card
+
+because they are defending a fortifi ed site, or because 4. Play any number of Blocks of any elemental type – Fire, Ice, on that unit. A Unit becomes Wounded regardless of how
+
+they have the fortifi ed ability on their token), only
+
+Cold Fire, or physical.
+
+much damage was actual y assigned. Then, reduce the
+
+Siege Attacks can be played. You can play Ranged
+
+a. Play cards that provide Block from your hand (you can
+
+damage total by the Unit’s Armor value.
+
+At acks only if none of the targeted enemies are fortifi ed.
+
+power them with any available mana), use Block Skil s, or
+
+• Assigning just one point of damage can Wound a Unit
+
+• Enemies that are fortifi ed twice (because they have the
+
+activate any Units with Block abilities. Stack these eff ects
+
+with a high Armor value. Armor value simply determines
+
+fortifi ed ability and they are defending a fortifi ed site) cannot
+
+together in a column to help keep track of your total.
+
+how much damage remains after the Unit is Wounded,
+
+be targeted at all in this phase, even by Siege At acks.
+
+b. Any card (except for a Wound) can be played sideways to
+
+if any.
+
+b. Cards cannot be played sideways to contribute to Ranged
+
+the Block column as Block 1. Sideways cards are always
+
+b. Exception: If the Unit is resistant to the elements of the
+
+or Siege At acks.
+
+physical Block, never a block of an elemental type.
+
+at ack (Physical resistance vs. regular physical At ack, Fire
+
+Resistance vs. Fire At ack, Ice Resistance vs. Ice At ack, both
+
+4. Now total the Attack value of all the played eff ects:
+
+5. Determine the total Block value of all played eff ects.
+
+Ice and Fire Resistances vs. Cold Fire At ack):
+
+a. If at least one targeted enemy has one or more Resistance
+
+a. Against elemental at acks, only certain Blocks are ful y • First, reduce amount of the damage by the Unit’s icons, then all at acks of a type that match a resistance icon
+
+effi cient:
+
+Armor (without Wounding the Unit).
+
+are ineffi cient – their strength is halved. (Total al ineffi cient
+
+• Any type of Block is effi cient against a physical
+
+at acks, divide the result by two, round down.)
+
+at ack .
+
+• If this absorbs all the damage, nothing happens.
+
+• Cold Fire At acks are halved only when there is at least
+
+• Only Ice or Cold Fire Blocks are effi cient against Fire
+
+• If there is any remaining damage, continue assigning
+
+one targeted enemy with both Ice and Fire Resistance.
+
+At acks .
+
+damage as usual by Wounding the Unit and reducing the
+
+• Only Fire or Cold Fire Blocks are effi cient against Ice
+
+damage total by its Armor value again.
+
+5. To make a successful at ack, the total At ack value has to equal
+
+At acks .
+
+– Units resistant to the given type of at ack can absorb
+
+or exceed the total Armor values of all targeted enemies.
+
+twice as much damage as they have Armor, and are
+
+If it does, the targeted enemies are defeated.
+
+• Only Cold Fire Blocks are effi cient against Cold Fire
+
+At acks .
+
+Wounded only if the damage was greater than their
+
+a. Defeated enemy tokens are immediately discarded to the
+
+Armor.
+
+discard pile next to their cor esponding enemy pile; they do
+
+b. Other blocks are ineffi cient. Ineffi cient Blocks are reduced
+
+• If a Unit is assigned damage but does not get Wounded
+
+not participate in the rest of the combat.
+
+by half. When totaling the fi nal Block value, total the values
+
+of all ineffi cient Blocks, divide by two (round down) and
+
+because of a resistance, it cannot be assigned damage
+
+b. The at acking player scores Fame equal to the number
+
+then add the full values of all effi cient Blocks.
+
+again during the same combat.
+
+on the bot om of each defeated enemy token. Move your
+
+Shield token on the Fame track by that many spaces.
+
+6. The Block is successful if the total value equals or exceeds the
+
+5. If you cannot or do not want to assign damage to a Unit, or if
+
+there is still damage left over after assigning damage to your
+
+• If it crosses the end of a line, you do not Level up
+
+at ack value of the chosen enemy.
+
+Units, you must assign all remaining damage to your Hero.
+
+immediately. Level ups are done at the end of the turn.
+
+a. If the enemy has the Swift ability , its At ack value is
+
+This is done repeatedly until all damage has been assigned:
+
+doubled for the purpose of blocking.
+
+6. An Attack of lower total value than the total Armor of the
+
+a. To assign damage to your Hero, put a Wound card in your
+
+enemies has no eff ect and any damage dealt does not car y
+
+7. A successful y blocked enemy token is set aside. Its at ack
+
+hand and reduce the damage total by your Hero’s Armor
+
+over to subsequent phases or turns.
+
+was stopped and it will do no damage during the next phase
+
+value (the left number on your Hero’s Level token).
+
+a. If you realize your At acks are not enough to defeat the
+
+of combat. However, it is not eliminated yet. You will have a
+
+• As with Units, even if the assigned damage is lower than
+
+chosen enemies, you may want to either play more At acks,
+
+chance to eliminate it in the Melee At ack phase.
+
+your Armor value, your Hero must still take a Wound.
+
+or choose a diff erent enemy to target, or take back the cards
+
+a. If a summoned monster is successful y blocked, discard it to
+
+b. Repeat the above process until all Damage has been
+
+you played and cancel your at ack.
+
+the cor esponding discard pile (but gain no Fame).
+
+assigned. Eff ectively, you will take one Wound for every X
+
+points of damage (where X is your Armor), rounded up.
+
+7. You can declare none, one or more at acks during this phase. With
+
+8. If your Block total is lower than the At ack value of the enemy
+
+c. Knock out: If the number of Wound cards added to your
+
+each at ack, you can defeat one or multiple enemies. Group the
+
+you are at empting to block, it has no eff ect. You cannot lower
+
+hand during a combat equals or exceeds your unmodifi ed
+
+cards and eff ects you play for each at ack in separate columns.
+
+the At ack value by playing Blocks – you either block it ful y, or
+
+Hand limit (the right number on your Hero’s Level token),
+
+a. If some of the enemies are fortifi ed and some are not, you
+
+it goes through at the full strength.
+
+you are knocked out – immediately discard all non-
+
+may want to deal with the unfortifi ed ones with a separate
+
+a. Sometimes a blocking card will have eff ects other than
+
+Wound cards from your hand.
+
+at ack (so you can use your Ranged At acks).
+
+adding to your Block total. Unless stated otherwise, these
+
+• Wounds received from other sources (for example: The
+
+b. If some enemies have certain resistances and some not, you
+
+eff ects apply whether or not the block was successful.
+
+eff ects of some cards played during combat) also count
+
+may want to deal with them with separate at acks, as the
+
+towards knock out.
+
+presence of a resistant enemy halves the value of all At acks
+
+9. You may block any number of at acking enemies during this • While knocked out, your Units may continue to fi ght, you of the type it is resistant to.
+
+phase. Any enemies you wish to block are resolved individual y;
+
+you cannot block multiple enemies at once.
+
+can use any of your Skils, and you continue taking Wounds
+
+8. You may not save At ack points for later use. You must
+
+if you have to assign further damage to your Hero.
+
+immediately assign them to an enemy or group of enemies as 10. You must immediately assign Block points to an enemy at ack the points are generated or they are wasted.
+
+as the points are generated or they are wasted. You may not
+
+save Block points for later use.
+
+9
+
+
+
+
+
+6. Special enemy abilities related to damage dealing:
+
+COMBAT OUTCOMES
+
+3. If you did not defeat all the enemies at the site:
+
+a. If an enemy has the Poison ability:
+
+1. Combat ends after the At ack phase. You might defeat none,
+
+a. If you fail to defeat a rampaging enemy, it stays in its space.
+
+• If a Unit is assigned damage by a Poisonous enemy and
+
+one, or more enemies during the combat.
+
+b. If you failed to defeat enemies drawn in a dungeon, tomb, or
+
+would be given a Wound, it is given two Wound cards
+
+monastery, discard them. The next time a Hero at empts to
+
+instead. It must be Healed twice to remove both Wounds.
+
+a. If you were assaulting a city, put one of your Shield tokens
+
+on the City card for each enemy you defeated. Put the
+
+fi ght here, new enemies of the appropriate type will be drawn.
+
+• A Hero assigned damage from a Poisonous enemy must
+
+Shields in a row, so you can determine in which order they
+
+c. If you failed to defeat the enemy in a monster den, or one or
+
+put one Wound card into their discard pile for each
+
+were put there later.
+
+both monsters in a spawning grounds or ruins, return any
+
+Wound card added to their hand.
+
+remaining monsters face up on the space. Next time a Hero
+
+b. If an enemy has the Paralyze ability:
+
+at empts to fi ght here, they will fi ght the same enemies.
+
+2. If you defeated all enemies at the site, depending on the site:
+
+• If a Unit is assigned damage by a Paralyzing enemy and
+
+Note: You may decide to return them face down, so that
+
+would be given a Wound, it is immediately destroyed
+
+a. If you defeated one or more rampaging enemies, remove
+
+they are not confused with rampaging enemies, but anyone
+
+(remove it from the game).
+
+their tokens from the board: the icon on the space has no
+
+can take a look at any token that was revealed earlier in the
+
+meaning now, treat it as an empty space. You do not mark
+
+• A Hero assigned damage by a Paralyzing enemy must
+
+game.
+
+the space with a Shield token, but you do gain Reputation
+
+immediately discard any non-Wound cards from their hand.
+
+(+1 for each orc marauders, +2 for each draconum).
+
+d. If you failed to defeat all the defenders of a fortifi ed
+
+c. If an enemy has the Summon
+
+ability, you assign the
+
+site, you have to withdraw back to the space you were
+
+Note: Orcs and Draconum enemies encountered elsewhere
+
+damage of the summoned enemy (taking into account any
+
+at acking from. This withdrawal does not count as Forced
+
+are not general y worth reputation when defeated.
+
+special abilities it might have). After the at ack, discard the
+
+Withdrawal. However, if the space you withdrew to is not
+
+summoned enemy token to its cor esponding discard pile.
+
+b. If you defeated all enemies on an adventure site, mark the
+
+a safe space, then Forced Withdrawal rules apply for that
+
+space with a Shield token. At the end of your turn, you can
+
+space (see the “End of the Turn” section).
+
+claim the reward indicated on the Site Description card. Do
+
+7. The phase ends when you have assigned the damage from all
+
+not pick your reward before the end of your turn; you CITY ASSAULTS
+
+unblocked enemies.
+
+can take your time choosing a reward while other players
+
+are playing.
+
+1. City assaults work the same way as assaulting any other
+
+ATTACK PHASE
+
+• If it is a ruins the reward may contain an Artifact ,
+
+fortifi ed site, but in addition to the fortifi cation, each city gives
+
+a Spell , an Advanced Action , a set of four crystals
+
+a bonus to the defending Units. See the upper part of the
+
+1. The At ack phase works the same way as the Ranged and
+
+, or a Unit .
+
+cor esponding City card:
+
+Siege At ack phase, except:
+
+c. If you defeated all the defenders of a fortifi ed site, you end
+
+a.
+
+In the White city, all defenders get +1 Armor.
+
+a. You can combine any Attacks: Ranged, Siege or regular. In
+
+your turn on the conquered space.
+
+this phase, there is no diff erence between regular, Ranged
+
+and Siege Attacks. Fortifi cations no longer apply, you can
+
+Note: If some rampaging enemies were involved in the
+
+b.
+
+In the Blue city, all defenders get +2 At ack
+
+target any enemy with any at ack or combination of at acks.
+
+assault, whether you defeated them or not does not aff ect
+
+if they have Ice At ack or Fire At ack, and
+
+whether you conquered the fortifi ed site.
+
++1 At ack if they have Cold Fire At ack.
+
+b. Any non-Wound card may be played sideways to an at ack
+
+column as a physical At ack 1.
+
+• If the site is a keep or mage tower, mark it with a Shield
+
+c.
+
+In the Red city, all defenders that have
+
+token.
+
+physical At ack gain the Brutal ability.
+
+c. You may use eff ects that are labeled as usable in the At ack
+
+phase only.
+
+• If it is a mage tower, you will get to choose a Spell at the
+
+d.
+
+In the Green city, all defenders that have
+
+end of your turn as a reward.
+
+physical At ack gain the Poison ability.
+
+• If it was a city, see City Assaults later in these rules.
+
+2. As in the Ranged and Siege At ack phase, you may eliminate
+
+multiple enemies in one at ack, or declare multiple individual
+
+d. If you defeated the defenders of a monastery, mark the 2. If a city is conquered, its new leader must be determined.
+
+at acks. The rules for enemy resistances are the same.
+
+monastery with a Shield token. The monastery is now a. The player with the most Shield tokens on the City card (or burned and is treated like an empty space for the remainder
+
+the one with the fi rst Shield amongst the tied in case of tie)
+
+of the game. At the end of your turn, claim an Artifact as
+
+becomes the City leader.
+
+your reward.
+
+b. The leader takes the City card, including all the Shield
+
+tokens, in front of them. Note when any player enters the
+
+city, they put their fi gure on the City card in front of that
+
+player, to emphasize the fact they are visiting their city.
+
+10
+
+
+
+
+
+1. You can complete your turn while the next player starts theirs.
+
+b. Artifacts – draw that many plus one from the Artifacts
+
+• In both cases, put the newly gained Skill in front of you
+
+The fi rst thing you should do is reroll and return any mana
+
+deck. Place one of them on the bot om of the Artifacts deck,
+
+(face up), put the newly gained Action card on top of
+
+dice you used to the Source.
+
+and put the rest on top of your Deed deck in any order.
+
+your Deed deck, then refresh the Advanced Action off er
+
+c. Spells or Advanced Actions – choose them from the
+
+(by moving cards down and adding a new card to the
+
+2. Forced Withdrawal: You must end your turn on a safe space
+
+cor esponding off er and put them on top of your Deed
+
+topmost position).
+
+(see paragraph 7d in “Movement” section, pg. 7).
+
+deck, then replenish the off er by moving cards down and
+
+a. If you are not on a safe space, you must backtrack your move
+
+adding a new card to the topmost position. You cannot gain
+
+7. Drawing new cards:
+
+until you ar ive at a safe space.
+
+Advanced Action cards that are in the Unit off er this way.
+
+a. Before drawing, you may discard any number of non-
+
+b. For each space you move while backtracking, add a Wound
+
+d. Units – take any Unit from the Unit off er, regardless of its
+
+Wound cards from your hand, if you wish.
+
+to your hand.
+
+type or cost. If you do not have an open Command token for
+
+the Unit to occupy, you must disband one of your Units or b. Draw cards from your Deed deck, up to your Hand limit (the forfeit the reward.
+
+number on the right side of your Hero’s Level tile).
+
+3. Clear up your play Area:
+
+• Exception: If you also get a Level up this turn that gives
+
+• If you are on or next to a keep you own (marked with
+
+a. Return all mana crystals, used or unused, from your play
+
+you a new Command token, you may postpone taking a
+
+your Shield token), your Hand limit is increased by the
+
+area to the bank.
+
+new Unit until you process your Level up, so you do not
+
+number of keeps you own anywhere on the map.
+
+b. Put all cards played this turn into your discard pile (except
+
+have to disband a Unit.
+
+• If you are on or next to a conquered city you have at
+
+those that were thrown away – remove them from the
+
+least one Shield token in, your Hand limit is increased
+
+game, or, in the case of Wounds, put them back on top of the
+
+by 1 (by 2 if you are the leader of that city).
+
+6. Level up: If your Shield token crossed one or more lines on the
+
+Wound pile).
+
+Fame track this turn, you gain a level for each line crossed:
+
+• If both a keep and a city bonus are possible, use the
+
+higher bonus only.
+
+a. When advancing to a level marked with this icon:
+
+4. Use the benefi ts of your space:
+
+• Your Hand limit can also be increased by the Day Tactic
+
+• Remove your top Level token, revealing your new Armor
+
+card “Planning” (see that card).
+
+a. If you end your turn on a magical glade, you may throw
+
+value and Hand limit.
+
+away one Wound card from your hand or discard pile. Units
+
+c. If you have more cards in your hand than your cur ent Hand
+
+• Flip the removed token over so it is shield side up and
+
+cannot be Healed this way.
+
+limit, you do not have to discard down to your Hand limit
+
+place it in your Unit area. It is now a Command token:
+
+(but you draw no new cards).
+
+b. If you end your turn on a crystal mine, you gain a crystal
+
+your Command limit is increased by one.
+
+of the mine’s color to your Inventory (unless you have
+
+d. If you run out of cards in your Deed deck while drawing,
+
+b.
+
+When advancing to a level marked with these icons,
+
+3 crystals of that color already – in which case you get
+
+stop drawing. Do not reshuffl e your discard pile unless you
+
+you get one new Skill token and one Advanced Action
+
+nothing).
+
+have the Night Tactic card “Long Night” (see that card).
+
+card from the off er. Flip the top two Skill tokens from your
+
+Skill deck. You have two options now:
+
+Note: The Long Night Tactic can be used even during
+
+card drawing: once your Deed deck is empty, fol ow its
+
+5. Rewards from combat: If you won any rewards from a
+
+•
+
+Take one of these two tokens and put the other in
+
+instructions and then continue drawing.
+
+combat, take them now. Pick your rewards in whatever order
+
+the Common Skil s area. In addition, take any one
+
+you choose. If you won:
+
+Advanced Action card from the Advanced Action off er.
+
+a. Crystals – add them to your Inventory (unless you already
+
+•
+
+Take
+
+a
+
+token of another player from the Common Skil s
+
+have 3 of that color – then nothing happens). If you gained
+
+area (if there are any), then put both of your revealed
+
+any random crystals, rol a die for each reward to determine
+
+Skil s in the Common Skil s area. In addition, take the
+
+which color you receive. If black is rol ed, you gain 1 Fame
+
+Advanced Action card from the lowest position on the
+
+instead. If gold is rol ed, you may choose the color.
+
+Advanced Action off er.
+
+1. When a Hero gets wounded, the player takes one or more 2. Wounded Units have Wound cards placed across the face of
+
+• To heal a Wounded Unit, you have to pay Healing
+
+Wound cards from the Wound pile and puts them into their
+
+the Unit card.
+
+points equal to the level of the Unit (the number in its
+
+hand.
+
+a. Wounded Units cannot be activated or assigned damage in
+
+upper right corner). If you do, remove the Wound card
+
+a. Wound cards can never be discarded, unless an eff ect
+
+combat.
+
+from the Unit and return it to the Wounds pile.
+
+explicitly states otherwise. Wound cards cannot be played
+
+b. A Wounded Unit retains its state of readiness (Ready or
+
+• If the Unit has two Wound cards (because it was exposed
+
+sideways (as Move 1, Infl uence 1, At ack 1 or Block 1), and
+
+Spent). A Wounded Unit that is Spent still becomes Ready
+
+to a Poison at ack), it needs to be healed twice to be
+
+cannot be discarded at the end of your turn.
+
+at the start of a new Round (but can’t be activated until
+
+healed completely.
+
+b. When you choose to Rest for the turn, or when an eff ect
+
+Healed).
+
+• Eff ects that heal a Unit will heal one Wound on that Unit.
+
+al ows you to discard Wound cards, they go onto your
+
+d. Players can heal any time during their turn, except during
+
+discard pile. Thus during the next Round, you may draw
+
+combat.
+
+them into your hand.
+
+3. Players can Heal during their turn, even when Resting.
+
+• Damage from a combat can be healed on the same turn,
+
+c. When the Round ends, any Wounds in your hand get
+
+a. You can play eff ects that provide Healing points (Heal X).
+
+once the combat is over.
+
+shuffl ed back into your Deed deck with all your other Deed
+
+b. You may also buy one or more Healing points at a village or
+
+cards.
+
+monastery (see the “Interacting with Locals” section).
+
+• Any unspent Healing points disappear when entering
+
+c. Add up all Healing points played or bought; they can be
+
+combat.
+
+used for these healing eff ects:
+
+Note: the magical glade site does not provide healing. Its
+
+•
+
+Use
+
+one Healing point to throw away a Wound card
+
+eff ect may not be used on Units and cannot be combined
+
+from hand (return the Wound card to the Wounds pile).
+
+with other healing eff ects.
+
+11
+
+
+
+
+
+1. A player can invoke Player vs. Player combat as their action •
+
+They
+
+may use their Skil s for eff ects valid in the cur ent
+
+RANGED AND SIEGE
+
+for the turn, if they meet the fol owing conditions:
+
+situation.
+
+ATTACKS
+
+a. They entered a space containing another player and does
+
+• After combat, they may play special and healing cards
+
+not want to or cannot continue moving.
+
+and eff ects, if they wish.
+
+1. In this phase, players take turns playing Ranged and Siege
+
+b. The space is a not a portal or a city space (fi ghts between
+
+• Then, they fol ow all the usual end of turn steps (see the
+
+At acks, starting with the defender. The player performing an
+
+players are not al owed on these spaces).
+
+“End of the Turn” section).
+
+at ack is referred to as the attacker and the other player is the
+
+c. The End of the Round has not been announced yet, and the
+
+• They may not Move, reveal a map tile, or perform any
+
+blocker, regardless of who is the aggressor or defender.
+
+end game condition has not been triggered.
+
+other action.
+
+2. When it is a player’s turn to perform an At ack, they can choose
+
+d. The other player’s Round Order token has not been fl ipped
+
+Note: A player may not ful y at end a combat if they have no
+
+to perform an at ack or pass.
+
+face-down (either from another Player vs. Player combat or
+
+non-Wound cards in hand.
+
+3. To perform an at ack, the at acker plays any amount of Ranged
+
+from a cooperative assault).
+
+b. Partial y Attend the Combat. A player may choose to not
+
+or Siege Attacks (and special eff ects), as if it were a regular
+
+Note: It is not al owed to enter a space occupied by another
+
+skip their next turn. In that case:
+
+combat.
+
+player by a move that provokes a rampaging enemy to at ack.
+
+• They do not fl ip down their Round Order token and are
+
+a. If the blocker is also the defender and the combat is taking
+
+2. If Player vs. Player combat occurs, the at acking player is
+
+subject to at ack from other players. They will play their
+
+place at a fortifi ed site (a keep or mage tower), the at acker/
+
+refer ed to as the aggressor, and the defending player is
+
+next turn as normal.
+
+aggressor can only use Siege At acks.
+
+refer ed to as the defender. The defender gets a chance to
+
+•
+
+They
+
+cannot use a mana die from the Source (unless
+
+b. Cards played sideways cannot contribute to this at ack.
+
+defend by either ful y or partial y playing their turn during the
+
+some eff ect states otherwise).
+
+aggressor’s turn. The defender cannot move or perform an
+
+4. Then, the blocker can play any amount of Blocks (and special
+
+•
+
+They cannot use their Skill tokens (except those
+
+action (interaction or initiating another combat) during this
+
+eff ects), as if it were regular combat.
+
+useable in turns of other players).
+
+combat.
+
+a. The rules for effi cient and ineffi cient Blocking outlined in
+
+• When the combat is over, their part of the turn
+
+regular combat apply normal y.
+
+3. When at acked, the defender can use any eff ects normal y
+
+immediately ends. They cannot heal or play other
+
+usable before their turn or in turns of other players (such as
+
+special eff ects after combat.
+
+• If the At ack consists of At ack eff ects of multiple
+
+plundering a village). They may not declare End of the Round.
+
+elements, the Block eff ect is effi cient if it is effi cient
+
+• They do not fol ow the normal end of turn procedure.
+
+Then, they have two options.
+
+against at least one element represented in the At acks.
+
+Especial y, they do not draw new cards. Any unused
+
+a. Ful y Attend the Combat. A player may choose to take
+
+mana crystals remain until the end of their regular turn.
+
+b. Unlike regular combat, it is not necessary to block the
+
+their next turn in advance. If they do:
+
+entire attack, at acks can be partial y blocked – thus it is
+
+Note: The defender can still block an opponent’s at acks
+
+useful to block portions of the at ack.
+
+• They fl ip their Round Order token down. As long as it
+
+and perform their own at acks. The diff erence is in the
+
+is face-down, they cannot be attacked again. When it
+
+means they can use to do so, and what happens after
+
+c. The total value of the at ack is reduced by 1 for each 2
+
+would be the defender’s next turn, the token is fl ipped
+
+combat.
+
+points of total value of the blocks played.
+
+back up but they skip the turn completely (they cannot
+
+• This is because the Ranged and Siege At acks work
+
+even announce End of the Round).
+
+4. Player vs. Player combat has two phases: Ranged and Siege
+
+similar to the Swift ability of an enemy. If the blocker uses
+
+Attacks, and Melee Attacks. Combat ends when one of the
+
+•
+
+They
+
+may benefi t from start of turn eff ects such as the
+
+an eff ect that says “blocked enemy loses Swiftness”, then
+
+players is forced to retreat, or when neither player wants to
+
+mana token provided by a magical glade.
+
+the block works ful y: the at ack is reduced by 1 for each
+
+at ack any more. If that is the case, the aggressor must retreat.
+
+point of block.
+
+•
+
+They
+
+may use a mana die from the Source.
+
+Example: If the at acker uses Fire Ranged At ack 4, and you
+
+play Ice Block 4, the at ack is reduced to 2. If you play Block
+
+7, the at ack is reduced to 3 (total value of your ineffi cient
+
+block is 3, which reduces the at ack by 1 only).
+
+d. If the at ack is not reduced to zero, the remainder is turned
+
+into damage that must be assigned to the blocker (either
+
+their Hero or their Units).
+
+5. Unlike assigning damage in regular combat, the attacker
+
+chooses how to assign the damage. Contrary to a regular
+
+combat, the at acker has to have as much damage as is the
+
+Armor of the chosen target to wound it (while in combat with
+
+enemies, 1 damage is enough to wound a Unit or Hero).
+
+a. The at acker may wound any of the blocker’s Unwounded
+
+Units by assigning damage equal to that Units Armor.
+
+• If the Unit is resistant to any element used in the at ack,
+
+its Armor is doubled, so the at acker has to assign twice
+
+as much damage to wound the Unit.
+
+b. The at acker may wound the blocker’s Hero by assigning
+
+damage equal to that Hero’s Armor. This can be done
+
+multiple times, and the blocker takes a Wound card in their
+
+hand each time.
+
+• The blocker can get knocked out if they get too many
+
+Wounds – see Combat with enemies.
+
+c. The at acker may leave some at ack points unassigned.
+
+They have to leave them unassigned if there is no target with
+
+Armor equal to or lower than remaining damage.
+
+6. After resolving the at ack, the other player gets their chance
+
+to be the at acker, and the Ranged and Siege At ack phase
+
+continues with both players alternating the roles of at acker
+
+and blocker. If both players pass on at acking in succession, the
+
+phase ends.
+
+12
+
+
+
+
+
+MELEE ATTACKS
+
+• The at acker must spend damage equal to the 2. Eff ects that target enemies can target opponent’s Unwounded unmodifi ed Move cost of that space.
+
+Units. You may never target the enemy Hero with them.
+
+1. The Melee At ack phase works similarly to the Ranged and
+
+Siege At ack phase, with a few diff erences:
+
+• The blocker is moved to that space and the combat ends.
+
+a. If the eff ect is from a red card, or if it is a Unit ability activated
+
+This move never provokes rampaging enemies to at ack.
+
+by red mana, it has no eff ect against Units with Fire
+
+a. The aggressor gets to start as the at acker instead of the
+
+Resistance.
+
+defender.
+
+3. Players alternate roles as at acker and blocker until either one
+
+b. If the eff ect is from a blue card, or if it is a Unit ability
+
+b. Any combination of At ack eff ects can be played, including
+
+player is forced to retreat or until both players pass on at acking
+
+activated by blue mana, it has no eff ect against Units with
+
+Ranged and Siege. Fortifi cations are ignored in this phase.
+
+in succession.
+
+Ice Resistance.
+
+c. It is possible to play any card sideways as physical
+
+c. If the eff ect says to “destroy” an enemy, the Unit is Wounded
+
+At ack 1. Note that adding to an at ack this way will make
+
+COMBAT OUTCOME
+
+instead.
+
+it count as a physical At ack if it wasn’t already (making any
+
+1. If a player is forced to retreat, combat is over and the other
+
+Block effi cient against it and doubling Armor of Units with
+
+d. The Armor value of a Unit can never be reduced below 1.
+
+player is considered to be victorious and may gain some Fame.
+
+Physical resistance).
+
+e. The special eff ects of blocks that aff ect the blocked enemy
+
+a. If the victorious player is of a lower level than the one forced
+
+d. The blocks work ful y, i.e. the at ack is reduced by 1 for
+
+may target any Unit contributing to the at ack, if there are
+
+to retreat, they gain 1 Fame plus 2 Fame for each level they
+
+each point of total block played.
+
+any. If the eff ect is triggered only by a successful block, it
+
+are lower.
+
+works only if the blocker reduces the at ack to zero.
+
+2. Damage can be used to Wound Units and/or the enemy b. If they are of the same level but lower Fame, they gain 1
+
+f. The strength or cost of some eff ects may depend on the
+
+Hero, as in the Ranged and Siege At ack phase. In addition,
+
+Fame.
+
+number of enemies. In Player vs. Player combat, this is the
+
+there are two other ways to spend damage:
+
+c. If they are of the same or higher Fame, they gain nothing.
+
+number of opponent’s Ready Unwounded Units and Units
+
+a. The at acker can spend 5 damage to steal one Artifact
+
+contributing to the cur ent at ack or block, plus 1 for the
+
+from the blocker and put it in their discard pile:
+
+2. If combat ended because neither player wanted to at ack any
+
+more, the combat is a draw and no one gets any Fame.
+
+enemy Hero.
+
+• Artifacts can be stolen if they are in the blocker’s discard
+
+3. Eff ects that modify values or rules (such as ignoring
+
+pile, Play area, or assigned to a Wounded Unit (including
+
+a. The aggressor must withdraw to the space they were
+
+fortifi cations) last for the entire combat.
+
+Units wounded during this at ack).
+
+at acking from. This withdrawal does not count as Forced
+
+Withdrawal. However, if the space they withdrew to is not
+
+• Artifacts that are in the blocker’s hand, Deed deck or
+
+4. Eff ects that prevent an enemy from at acking may be played
+
+a safe space then Forced Withdrawal rules apply for that
+
+assigned to a unwounded Unit cannot be stolen.
+
+when you are blocking. Choose a Unit contributing to the
+
+space (see the “End of the Turn” section).
+
+at ack and deduct its contribution from the at ack total. The
+
+b. Damage can be converted to Move points, and spent to
+
+Unit remains Spent. You cannot cancel enemy special eff ects or
+
+force the blocker to retreat. To do so:
+
+SPECIAL COMBAT
+
+Blocks this way.
+
+• The at acker has to choose an accessible safe space
+
+adjacent to where they are fi ghting (i.e. would not result
+
+EFFECTS
+
+5. Eff ects that al ow you to skip the Blocking and Damage dealing
+
+in that player being forced to assault a fortifi cation or
+
+1. In regular combat, you may play various eff ects other than
+
+phases of combat can be used to cancel any one attack (Siege/
+
+incur combat against another player).
+
+At acks and Blocks. Most of these can also be used when
+
+Ranged or Melee). No damage is dealt for this at ack (but the
+
+fi ghting another player.
+
+cards remain played, Units Spent etc.). The combat continues,
+
+however.
+
+1. In cooperative scenarios (and also in competitive scenarios, if
+
+c. If all invited players agree, the cooperative assault can
+
+players agree), players can cooperate to conquer a city.
+
+begin. If not, nothing happens. The player can try to make
+
+another proposal, or continue their turn as if no proposal
+
+2. A player can initiate a cooperative city assault on their turn if:
+
+had been made.
+
+a. The End of the Round has not been announced yet, and the
+
+4. If the players agree to the proposal, all invited players fl ip their
+
+scenario conditions have not yet been fulfi l ed.
+
+Round Order token face down, to mark that they give up their
+
+b. They have not taken an action yet (and if the players agree on
+
+next turn.
+
+a cooperative as ault, it is considered to be their action for this
+
+turn).
+
+5. Then, shuffl e and randomly distribute (without even
+
+c. Their fi gure is on a space adjacent to the city, and there is no
+
+looking at the reverse side) enemy tokens amongst the
+
+other player on that space.
+
+players, respecting the agreed numbers. (Imagine: You can
+
+agree how long a section of the city wal s you will at ack, but
+
+Note: they can also initiate the at ack if they are able to
+
+cannot predict which units will defend that part).
+
+reach the city using the “Underground At ack” Spell.
+
+d. Resolve the assault as usual (including Reputation loss and
+
+assigning Shields on the City card for defeated enemies).
+
+d. There are one or more suitable Heroes present. A Hero is
+
+6. Participants take turns assaulting the city according to
+
+suitable if all of the fol owing are true:
+
+the Round order, starting with the player that initiated the
+
+• Each player faces only the enemies assigned to them
+
+and ignores the others.
+
+• They are on a space adjacent to the city.
+
+cooperative at ack:
+
+• Eff ects aff ecting “all enemies” aff ect only those assigned
+
+• They have not had their Round Order token fl ipped face
+
+a. Each player performs all phases of their combat before the
+
+to the player.
+
+down (either from another cooperative assault or from
+
+next player.
+
+Player vs. Player combat).
+
+b. Each player may use one die from the Source (but they do
+
+7. The city is conquered when all defenders were defeated
+
+(whether or not rampaging enemies that joined the combat
+
+• They have at least one non-Wound card in hand.
+
+not return it until the assault is over) as well as all eff ects
+
+they could use before, at the start of, or during their turns.
+
+were defeated).
+
+3. The player announces they would like to form a cooperative
+
+c. Each player has to start by moving directly to the city.
+
+a. If it is not conquered, all players have to withdraw to the
+
+assault:
+
+• No other movement or actions are al owed.
+
+space where they at acked from.
+
+a. They invite one or more suitable Heroes. They may decide
+
+• If this move provokes some rampaging enemies, they are
+
+8. Then, participants take turns ending their turns as usual, in
+
+to exclude a Hero even if they are suitable.
+
+added to that player’s portion of enemies.
+
+the Round order (see the “End of the Turn” section).
+
+b. They propose how to distribute the quantity of enemies
+
+• Players may voluntarily chal enge any other rampaging
+
+a. Players can play any healing
+
+and special eff ects
+
+in the city, i.e. how many enemies each player will face. Each
+
+enemy adjacent to the assaulted city and add them to
+
+before the end of their turns, just as after a regular assault.
+
+player has to be assigned at least one enemy.
+
+their enemies.
+
+13
+
+
+
+
+
+This scenario book has three parts. First, there are some general principles that apply to all scenarios, or to a subcategory of scenarios (like cooperative scenarios).
+
+In the second part, there are optional variant rules you can use for your game. The third part contains descriptions of the scenarios.
+
+In each scenario description, there is a recommended map shape for
+
+the various number of players al owed in that scenario. Note: Any
+
+map tiles revealed during setup are taken from the Tile deck being
+
+used in the scenario.
+
+Wedge Map
+
+This shape uses starting tile A. It is similar to the one in the starting
+
+scenario, with one extra rule:
+
+• Core (brown) tiles cannot be added to the coastline. (i.e. to the
+
+leftmost and rightmost lane of tiles).
+
+The map starts tight, but then opens relatively quickly, and soon it
+
+
+
+
+
+A
+
+
+can be wide. The extra rule prevents the Cities being too far from one
+
+another.
+
+This map is most suitable for 2 or 3 players. Because of its nar ow start,
+
+it is not recommended if the players are of diff erent levels of experience:
+
+With 3 players, an inexperienced player may get blocked at the start.
+
+With 4 players, this risk gets even higher and harder to avoid.
+
+Fully Open Map
+
+A ful y open map uses starting tile B, and you deal three tiles adjacent
+
+to it at the start. The coastline opens out in a much wider angle here.
+
+However, it does not open forever – the map can have a maximum of 5
+
+paral el columns of tiles. Imagine the coastline in each direction breaks
+
+after you add two tiles to the starting tile. See the picture to the right.
+
+A ful y open map is suitable for a comfortable 4 player game. For less
+
+players, it is a bit too vast, and there may not be enough interaction in
+
+later phases of the game.
+
+Open Map Limited to 4 or 3 Columns
+
+This is the same shape, except the map is limited to 4 or 3 columns only.
+
+(With 4 columns, it opens more to the right than to the left). See the
+
+pictures.
+
+The 4 column map is suitable either for a 3 player game, if you do not
+
+want the start to be too crowded, or for a 4 player game, if you want
+
+more interaction between the players.
+
+Similarly, the 3 column map is suitable for a 2-3 player game, if you want
+
+the interaction to be tight during the entire game. Note: If you play with
+
+3 or 4 players here, someone could rush forward and the ones that stay
+
+behind may not have enough interesting places to explore and conquer.
+
+
+
+
+
+In the Mage Knight Board Game, players themselves determine
+
+• They do not benefi t from the Tactic, it just determines when
+
+Note 1: The Dummy player does not play too aggressively, so
+
+the pace of the game. If someone is rushing, playing most of their
+
+they play in Round Order: Ar ange the Round Order tokens by
+
+you have enough time to play effi ciently. Sometimes, though, the
+
+cards each turn, the others have to adjust their tempo, or end up
+
+the Tactic numbers, as usual.
+
+random fl ips may mean that they go through their deck much
+
+with half of their decks unused at the end of a Round. If the players
+
+faster. Watch the Dummy player’s deck to adjust your tempo!
+
+cooperate, it would be advantageous to agree to play careful y,
+
+When it is the Dummy player’s turn:
+
+Note 2: You have a slight control over the Dummy player’s deck
+
+trying to get the maximum eff ect from every card – then the tempo
+
+• If their Deed deck is empty, they announce the End of the
+
+and crystals. It may be advantageous not to let them get crystals
+
+adjusting aspect of the game would disappear, and the game
+
+Round. Other players have one more turn, and the Round is
+
+and cards of the same color.
+
+would take forever. To avoid this, whenever you play a cooperative
+
+over.
+
+Note 3: The deck used for the Dummy player is the main reason
+
+or solo mission, there is one automated Dummy player.
+
+• If their Deed deck is not empty, fl ip over three cards from their
+
+why all cooperative scenarios are up to three players only. If you
+
+Dummy Player
+
+Deed deck and put them in their discard pile. Check the color of
+
+the last fl ipped card (topmost card of the discard pile):
+
+real y wish to play a four player cooperative scenario, simply create
+
+At the start of the game:
+
+another deck from one of the remaining Heroes.
+
+– If the Dummy player has no crystals of that color in their
+
+• After players choose their Heroes, randomly choose one of the
+
+Inventory, their turn is over.
+
+Skil s in a Solo Game
+
+Heroes that is not in the game as a Dummy player Hero. You
+
+– If they have any crystals of that color, fl ip as many additional
+
+In a Solo game, you also use a set of Skil s belonging to the Dummy
+
+only need their Hero card, their Round Order token, and their
+
+cards as they have crystals of that color. Then, their turn is
+
+player’s Hero. Either remove the Competitive Interactive Skill (with
+
+starting deck of 16 Basic Action cards.
+
+over (the color of the additional y fl ipped card(s) does not
+
+the symbol) of the Dummy player Hero before the game or, if
+
+• Take a look at their Hero card. At the bot om, there are three
+
+matter).
+
+drawn during the game, discard and replace it with another token
+
+colored dots (for example Goldyx has green, green and blue).
+
+• Note: If there are not enough cards in their Deed deck, fl ip
+
+from the stack.
+
+Give three crystals of these colors (one for each dot) to the
+
+as many as you can. On their next turn, the Dummy player
+
+Whichever you decide to do, randomize the tokens being used and
+
+Dummy player’s Inventory. Note: this applies for the Dummy
+
+announces End of the Round.
+
+place them in a face down pile.
+
+player only. Other characters start with no crystals.
+
+Every time your Hero has gained a Skill token, also reveal one Skill
+
+• Shuffl e that Hero’s Deed deck, and the Dummy player is ready.
+
+When preparing a new Round:
+
+of the Dummy player, and put it into the Common Skill off er – it
+
+Note: Do not count the dummy player for the purpose of
+
+• When removing the lowest card from the Advanced Action
+
+is available to you the next time you may gain a Skill token. If you
+
+determining how many mana dice and Units to use in a scenario.
+
+off er, add this card to the Dummy player’s deck instead. Then
+
+shuffl e the Dummy player’s deck.
+
+choose such a Skill from the Common Skill off er, you have to take
+
+When picking Tactics:
+
+the lowest Advanced Action card, as with usual Level Up rules.
+
+• When removing the lowest card from the Spell off er, put it to
+
+• See the Scenario description for how the Dummy player
+
+the bot om of the Spel s deck, as usual. In addition, add one
+
+chooses their Tactic card at the start of each Round.
+
+crystal of the same color as that Spell card to the Dummy
+
+player’s Inventory. Contrary to real players, they can have more
+
+than 3 crystals of the same color.
+
+Some four player scenarios are played by two teams. Separate
+
+Source etc. However, al ied players should not say which cards
+
+• When scoring, each team has one common score.
+
+the players into teams randomly or by agreement before Hero
+
+they have in their hand, nor help each other out on details when
+
+– The base score is the Fame of the player that has the lower
+
+selection.
+
+playing their turn (how to play cards, use Units, pay mana etc.).
+
+Fame. Ignore the Fame of the player with higher Fame.
+
+• The interactive Skil s (the ones writ en in a diff erent color on
+
+Each player is individual y responsible for how they play.
+
+– For Achievements, and any similar scoring, score only the
+
+the Skill Description card) ignore your fellow player.
+
+• Al ied players cannot share the same space at the end of the
+
+higher score of both players in this area. Ignore the score of
+
+• However, the interactive Spel s (the ones that aff ect other
+
+turn (except for cities and the portal). If this would happen,
+
+the player that scored least. For the Greatest Beating, score
+
+players) do not ignore your fel ow player. Magic does not
+
+Forced Withdrawal rules apply for the player who entered the
+
+only the player with the largest penalty.
+
+recognize friend from foe.
+
+space later.
+
+– Assign titles as usual (compare only the larger values of both
+
+• Al ied players cannot trade crystals, Artifacts, Units etc. Mage
+
+• Al ied players may not engage in Player vs. Player combat with
+
+teams).
+
+Knights are very individual, it is a wonder they cooperate at al .
+
+each other.
+
+Note: It is therefore advantageous if each player in the team
+
+• Rules for cooperative city assault are recommended, but you
+
+• A player may enter an empty keep owned by their al y, and they
+
+concentrates on diff erent things, as long as no one fal s behind
+
+can also cooperate in other ways: You may agree who goes
+
+can recruit Units there. When in or adjacent to an al ied keep,
+
+with Fame, and no one is too Wounded.
+
+which way, who needs which Tactic, who would like to take
+
+their Hand limit is increased, but only for the keeps they own
+
+which cards from the off ers, who needs a particular color in the
+
+themselves.
+
+The Greatest Knowledge
+
+The Greatest Leader
+
+The Greatest Adventurer
+
+Each player scores 2 Fame for each Spell, and 1 Fame for each
+
+Each player scores Fame equal to the total level of all their Units.
+
+Each player scores 2 Fame for each Shield token they have on an
+
+Advanced Action in their deck. The player who scores the most
+
+Wounded Units are counted only as half, rounded down (thus a
+
+adventure site. The player who scored the most Fame this way gets
+
+Fame this way gets 3 extra Fame for achieving the Greatest
+
+Wounded level 1 Unit is worth no Fame). The player who scored
+
+3 extra Fame for being the Greatest Adventurer (1 if tied).
+
+Knowledge. If two or more players are tied, each gets 1 Fame
+
+the most Fame this way gets 3 extra Fame for being the Greatest
+
+(except if the tie is between players who scored no Fame in this
+
+Leader (1 if tied).
+
+category).
+
++1 +1. .
+
++1 +1. .
+
++1 +1. .
+
+The Greatest Loot
+
+The Greatest Conqueror
+
+The Greatest Beating
+
+Each player scores 2 Fame for each Artifact in their deck or on their
+
+Each player scores 2 Fame for each Shield token they have on a
+
+Each player loses 2 Fame for each Wound card in their deck (not
+
+Units, and 1 Fame for every two crystals in their Inventory. Again,
+
+keep, mage tower or monastery. The player who scored the most
+
+on their Units). The player who lost the most Fame this way loses
+
+the player who scored the most Fame this way gets 3 extra Fame
+
+Fame this way gets 3 extra Fame for being the Greatest Conqueror
+
+an additional 3 Fame for receiving the Greatest Beating (-1 if tied,
+
+for achieving the Greatest Loot (1 if tied).
+
+(1 if tied).
+
+except if the tie is between players that have no Wounds).
+
++1 +1. .
+
++1 +1. .
+
+-1 -1. . v
+
+
+
+
+
+Variants are here to add even more variety to the game, and to
+
+playing and which variant rules apply BEFORE the start of the
+
+• Even if your group has a set of variant rules you usual y use,
+
+adjust it to your tastes. We recommend you fol ow these rules
+
+game, i.e. even before Hero selection.
+
+you should abandon them temporarily when introducing new
+
+when picking variants:
+
+• Do not pick too many variant rules at once, as you might easily
+
+players to the game. Play “The First Reconnaissance” scenario
+
+• You should play your fi rst few games with the standard rules
+
+forget which rules apply and which do not.
+
+without any variant rules. The new players will have lots to
+
+only, to bet er understand the game.
+
+• If you realize that you like a variant rule so much you are always
+
+digest even with the standard rules.
+
+• Only use a variant rule if all players agree.
+
+using it, you may agree to consider it to be a standard rule, and
+
+• You should agree and clearly announce what scenario you are
+
+these points do not apply for it any more.
+
+Maybe one Hero seems bet er or stronger to you, or perhaps • Any player who has not picked a Hero yet may disagree and same player, if they did not win the auction) picking a Hero.
+
+they fi t your gaming style bet er. And for some scenarios or other
+
+off er to sacrifi ce 1 or more Fame points to get that Hero instead.
+
+• Mark the Fame lost by a player by put ing their Shield token
+
+variant rules, certain Heroes may indeed be a bit stronger than
+
+The player who original y picked the Hero must either match
+
+on the last row of the Fame track (for example, they put their
+
+others. According to the standard rules, the player who chooses
+
+the off er, or give up on this Hero.
+
+Shield on the space 118, and treats it as -2). The Heroes are stil
+
+their character fi rst then has a disadvantage in the fi rst turn, as they
+
+• If more players are interested, the next off er must be greater. It
+
+on level 1, though, and nothing happens if they cross the end of
+
+are the last to pick a Tactic card. If you feel this disadvantage is not
+
+goes in rounds, like an auction, except that the players earlier in
+
+the last line; they just continue on the fi rst line of the track.
+
+enough, you may use these rules:
+
+the selection order may just match the off er, they do not have to
+
+• The Tactic cards for the fi rst round are picked in reverse order
+
+• Randomly determine the player order for the Hero selection, as
+
+increase.
+
+to the Hero selection order (regardless of the Fame), to make up
+
+per the standard rules.
+
+• Once no one wants to increase, the player who off ered most (or
+
+for the disadvantage of the player who was last in the auctions.
+
+• When a player picks a Hero, they ask the others whether they
+
+was earlier in selection order from the ones that off ered most)
+
+agree. If all agree, they just take that Hero and the selection is
+
+takes the Hero and loses the Fame. Others lose nothing and
+
+over for them.
+
+continue fol owing the same rules, with the next player (or the
+
+Map Shape and Number of Tiles
+
+However, after many games under your belt, you may notice that
+
+That’s the game story, and it makes the cities diff erent not just by
+
+The map shapes and number of tiles for the scenarios are just
+
+limited amount of tiles cause some pat erns to repeat in the game
+
+their gar ison and bonuses. If you want more variability, though,
+
+recommended set ings. If you discover that you like some map
+
+from time to time. If you want, you may use this rule:
+
+you can do it a diff erent way:
+
+shapes bet er, if you want more or less interaction at the start of
+
+• When revealing a new tile (at the start of the game, or during it),
+
+• Whenever a city tile is revealed, draw a random City card,
+
+the game or during it, or if you want more or less tiles to explore,
+
+it is rotated randomly. Add it to the map face down (so no one
+
+and put the city of that color on the central space of the tile,
+
+or even cities to conquer, feel free to choose diff erent map shapes
+
+can see how it is oriented), and then fl ip it by any axis (choose
+
+regardless of the space color.
+
+and number of tiles.
+
+the axis before seeing the tile content).
+
+Note: You may also use random cities in scenarios where a fi xed
+
+Random Tiles Orientation
+
+Note: The symbols in the corners still have to connect, although
+
+city is defi ned (for example: Green city in the “Druid Nights”
+
+now, circles can connect to stars, creating ir egular shapes.
+
+scenario), as it is usual y because of the city sur oundings, not the
+
+The orientation of tiles is normal y fi xed, the player revealing
+
+city color itself. In these cases, use the tile the scenario describes,
+
+them having no choice in how to orient them. That’s right, Heroes
+
+Random Cities
+
+but when it is revealed, put a random city onto it.
+
+are just discovering an unknown kingdom, not, say, building a
+
+The cities have a fi xed position. The White city is always by a lake
+
+medieval city in the south of France.
+
+next to a keep, the Red city is in desert sur ounded by dragons, etc.
+
+Each scenario goes Day, Night, Day, Night. . You may change this if
+
+also do not see who defends keeps and towers, and what dangers
+
+Darkness is Coming
+
+you wish, just for variety.
+
+lurk in the ruins.
+
+You start with a Day round. At the end of the Round, roll two mana
+
+Night Arrival
+
+If using this, we recommend you roll the mana dice until there is no
+
+dice. If any of them is black, night fal s and it is Night until the end
+
+gold and no black at the start.
+
+You may start with a Night round. Note this is more diffi cult: not
+
+of the game. If not, continue with another Day round, and rol
+
+only it is harder to use mana and travel through forests, but you
+
+again at its end.
+
+If your group is not too competitive, or if both new players and
+
+No Interactive Skil s
+
+Friendly Mana
+
+experienced ones are playing together, you may use one or more
+
+of these rules.
+
+You may remove Skil s that aff ect other players – those with this
+
+You may agree that during the Day, a player cannot use a gold die
+
+icon (also note the skill description has a darker background
+
+as mana of certain color if there is an unused die of that color in the
+
+No Interactive Spel s
+
+color on the Skill Description card).
+
+Source. i.e. if there is a red die, you cannot use a gold die to power
+
+You may remove Spell cards that hinder other players: Mana
+
+No Player versus Player Combat
+
+a red card, you have to use the red one. Also, you cannot reroll or
+
+Meltdown, Mana Claim, Mind Read, and Energy Flow (109-112).
+
+reset a gold die during the Day, as long as there is another non-gold
+
+You may forbid players at acking each other. If a player ends their
+
+die in the Source.
+
+movement on a space with another player’s fi gure (except for cities
+
+or the portal), the Forced Withdrawal rule applies for them.
+
+
+
+
+
+This is a kind of side quest. You may add it to any scenario to spice
+
+– If it was gold, also add one brown enemy to the usual
+
+More Rampage!
+
+it up.
+
+green or red token. When fi ghting this enemy, you have to
+
+For an even more extreme version of this variant:
+
+This kingdom is under heavy raids. Ter orized people are very
+
+fi ght both. The space is considered to contain a rampaging
+
+suspicious and do not trust anyone.
+
+enemy as long as there is at least one of these tokens. You
+
+• Your characters start with -4 Reputation (i.e. They have -2
+
+penalty to interaction).
+
+• Your characters start with -2 Reputation (i.e. They have -1
+
+get Reputation +1 for each enemy token defeated.
+
+penalty to interaction).
+
+• At the end of each Night, do the same, except this time cold
+
+• At the end of each Day or Night, you roll a die for each defeated
+
+rampaging enemy as above. However the rampaging enemy
+
+• At the end of each Day, roll a mana die for each space where
+
+colors (white, blue or black) count, and you add one extra
+
+token is added always, and if a warm (during Day) or cold
+
+a rampaging enemy was defeated. If a warm, living color was
+
+brown enemy when black is rol ed.
+
+(during Night) color is rol ed, you also add the brown one.
+
+rol ed (red, green or gold), draw a new enemy to that space.
+
+In this variant, another player not only oversees your combat,
+
+– If it is blue, the enemy has +1 to Armor in the At ack phase.
+
+Note: This variant is recommended especial y for two player
+
+but they can also make some small decisions. The combat is less
+
+– In all the above cases, the enemy is worth 1 more Fame for
+
+games. When using it, it pays to watch the other player’s gaming
+
+predictable, and in some cases, it may become a true duel of wits.
+
+being defeated.
+
+style. Sometimes, you can prevent the opponent from shooting
+
+• This variant rule applies whenever a player starts a fi ght with
+
+– If the color is black (or even green or gold, if you made a
+
+the enemy by set ing it to white, sometimes you can cause serious
+
+a single enemy (no mat er whether it is a rampaging one, or a
+
+mistake), the enemy has no bonus, but there is also no extra
+
+problems by increasing a nasty special at ack, and sometimes you
+
+monster in dungeon, or the only defender left in the city after
+
+Fame for it.
+
+can even cause the enemy to survive because of the +1 Armor it
+
+previous assaults etc.).
+
+• The player who set the color reveals it at the start of the phase
+
+gets (especial y when resistant). On the other hand, sometimes the
+
+• When this happens, the player who played before that player
+
+it has an eff ect. So, at the start of the Siege and Ranged At ack
+
+player would just use a big enough At ack or Block anyway and
+
+takes a spare mana die and secretly selects a color on it. They
+
+phase, they either reveal the white die, or say “It is not white”.
+
+increasing it by 1 would not change the outcome. Thus, you would
+
+hide it with their hand, so the fi ghting player does not see the
+
+Then at the start of the Block phase they either reveal the red
+
+just give them more Fame.
+
+color.
+
+die or say “It is not red”. At the start of At ack phase, if not
+
+– If it is white, the enemy has +1 to Armor in the Siege and
+
+already revealed, they just reveal the die, no mat er what the
+
+Ranged At ack phase.
+
+color is.
+
+– If it is red, the enemy has +1 to its At ack.
+
+If you feel you would like to have more chance to tune your deck
+
+– One point for each Advanced Action card.
+
+Drafting at the Start
+
+during the game, you may use one of the fol owing variants. We do
+
+– One point for every two crystals.
+
+not recommend them for your fi rst few games. Also, when using
+
+This variant encourages long term planning. You plan some
+
+– As many points as its level for each Unit (Wounded Units
+
+these rules, your Hero’s strength rises faster, so you might want to
+
+upgrades for your Hero ahead of time, and can adjust your
+
+count as half, rounded down).
+
+adjust the game diffi culty by increasing the city levels.
+
+decisions during the game to suit your plan.
+
+• To this score, add 3 points for every level you are above the
+
+Note: If using one of these variants, and especial y with 4 players,
+
+• After the characters are distributed (but before the map is set,
+
+player who is of lowest level, and announce the result.
+
+or when cards that al ow you to gain more Advanced Action
+
+the dice rol ed and the off ers revealed), deal four cards from the
+
+cards enter the game early, there is a chance you might run out • Then, starting from the player who had the lowest result (if tied, Advanced Action deck randomly to each player.
+
+of Advanced Action cards. In that case, the monastery off er is
+
+the one with the lower Fame, if still tied, the one who played
+
+• Each player chooses one of these cards and sets it aside, passing
+
+aff ected fi rst (do not deal cards there if there are none left). If there
+
+later in the last round), each player may (but does not have to)
+
+the remaining ones clockwise to the next player.
+
+are not enough cards to replenish the Advanced Action off er, just
+
+take one of the displayed Advanced Action cards and add it to
+
+• Continue until each player has three cards set aside. Shuffl e the
+
+use as many as you can. If there are none, the player who has to
+
+their deck. At the same time, they also has to throw away one
+
+ones no one picked back into the Advanced Action deck.
+
+take a card gets nothing.
+
+of their Action cards. The new card has to either be of the same
+
+color or share at least one type (icon in the upper left corner) as
+
+• Players keep the cards secretly in a safe place (ideal y away
+
+Action Upgrades
+
+the card thrown away.
+
+from the playing table, so they do not get shuffl ed into their
+
+decks accidental y).
+
+This variant not only lets you tune your deck during the game, it
+
+• Then, the card or cards no one picked are put to the bot om of
+
+• At the end of each Day round, when players are shuffl ing their
+
+also gives a slight advantage to those that are behind.
+
+the Advanced Action deck.
+
+decks, each player chooses one of these cards and shuffl es it
+
+• At the end of each Night except the fi nal one (i.e. twice during
+
+• Players should shuffl e their decks well before the next Round.
+
+into their deck.
+
+the standard 6-Round scenarios), reveal as many Advanced
+
+Note: You might like this variant if you prefer a slower pace of
+
+• Note: You may use these rules even when the scenario has
+
+Action cards as the number of players plus 1.
+
+game. It al ows you to take a break once or twice during the game
+
+fewer than six rounds. Players just do not use all the cards they
+
+• Then, players should examine their decks, and score their (depending on the number of rounds), to examine and review your picked.
+
+strength. Use the fi rst three lines of the Achievements Scoring:
+
+deck, and to think what it needs to work bet er. Also, if you agree,
+
+– Two points for each Artifact or Spel .
+
+players may take a look at the decks of other players now; during
+
+the game itself, there may be not enough time for it.
+
+
+
+
+
+The city levels for a given scenario are shown in the scenario
+
+descriptions. Once you are experienced, you may increase the city
+
+
+
+levels, especial y when using rules for a cooperative city assault.
+
+Soon, you will see that even a city of level 11 can be conquered by
+
+a single player, if they have real y strong cards and an army suitable
+
+for a city assault.
+
+Megapolis
+
+If you fi nd out that even the highest level of cities is not enough of
+
+a chal enge for you, or if you just want to spice things up, you may
+
+turn one of the cities into a Megapolis. Note: This can only be done
+
+in scenarios with three or less cities.
+
+• Once you have agreed on the levels of regular cities, also agree
+
+on the level of a Megapolis: it can be any number from 2 to 24.
+
+It does not have to be higher than 11.
+
+• The Megapolis should be always the last city revealed in the
+
+• Treat this pair of cities as one big city:
+
+game.
+
+– You reveal the entire gar ison of the Megapolis from any
+
+• If conquered, treat the Megapolis as one big city that has two
+
+• When a Megapolis is revealed, place its fi gure and take its City
+
+space adjacent to any of its spaces.
+
+spaces. A player puts their fi gure onto the cor esponding card
+
+card as usual. Then randomly choose one of the City cards not
+
+– You can assault the Megapolis from any space adjacent to
+
+to mark which part they are in. They may move from one part
+
+used yet, and put it to the right of the fi rst City card. Also, take
+
+any of its spaces.
+
+to another during movement (for the standard city Move cost
+
+the city fi gure of that color, and put it on the tile, one space right
+
+of 2), or leave it by entering a space adjacent to the part they
+
+from the fi rst city. The terrain (and, in the case of the Green
+
+– You face the entire gar ison of the Megapolis. They are al
+
+are cur ently in. Also, to chal enge a rampaging enemy when
+
+city, also the symbol) on the space covered by the city fi gure is
+
+fortifi ed, and benefi t from combat bonuses of both cities
+
+in a city, the player has to be on the space adjacent to that
+
+ignored.
+
+simultaneously.
+
+enemy.
+
+• Set the level of each city as half of the Megapolis level. If the
+
+– In case of a cooperative city assault, players adjacent to
+
+– No mat er in which part of the city their Hero is, the player
+
+number is odd, round up for the city on the left, and round
+
+any space of the Megapolis can be invited. Randomize and
+
+may use purchase options of both cities during interaction.
+
+down for the city on the right. (So, the level of the Megapolis is
+
+randomly deal all enemies, no mat er who stands next to
+
+– During scoring, a Megapolis counts as only one city. Note:
+
+the sum of the both city levels.) Draw gar ison tokens for both
+
+which part of the city.
+
+Scoring does not take city level into account.
+
+cities, and add them together as the Megapolis gar ison (it does
+
+– The Megapolis is conquered once all defenders are • If you decide to play a scenario with two Megapolis, add a not mat er which was drawn for which city).
+
+eliminated. Determine a City leader as normal.
+
+random city to the fi rst revealed city tile. The other two cities
+
+will go to the second city tile, even if it happens to be the color
+
+you added to the fi rst Megapolis.
+
+• Players: 2 to 4 (plus a solo variant)
+
+Special Rules
+
+
+
+
+
+Scoring
+
+
+• Type: Slightly competitive
+
+• A player scores 1 Fame whenever they reveal a new tile, no
+
+Apply standard Achievements scoring. Whoever has the most
+
+• Length: Three rounds (2 days and 1 night)
+
+mat er which type.
+
+Fame, wins. If tied, the players share the victory.
+
+• Purpose: Training scenario. Strongly recommended whenever
+
+• No Player vs. Player combat is al owed (unless you agree
+
+
+
+
+
+Solo Variant
+
+
+any player plays the game for the fi rst time, as it provides a
+
+otherwise).
+
+natural way to learn the game rules and get familiar with them.
+
+• For the fi rst game, there should be at least one Unit in the off er
+
+If you want to try your fi rst mission solo, play with 8 countryside
+
+tiles (as in a 2-player game), but adjust the game length to four
+
+On your fi rst mission, you will be sent to an unknown part of the
+
+with the village icon on the left side of the card. If not,
+
+rounds (2 days and 2 nights).
+
+Atlantean kingdom, your task is to locate its Capital. That’s al . Al
+
+shuffl e the cards and deal them until this is true.
+
+the Fame, any knowledge and treasures you manage to get during • Elite Units are not used in this scenario.
+
+Use a Dummy player (see page 15), and special rules for Tactic
+
+your mission are yours to keep.
+
+selection from the Solo Conquest mission (page 19). When
+
+• You should not reveal Spells and Advanced Action cards until
+
+scoring, award no titles.
+
+For a detailed description of this scenario, see the Game
+
+they are needed for the fi rst time.
+
+Walkthrough. Here is just a summary:
+
+However, if you just want to become familiar with the mechanics,
+
+
+
+
+
+Scenario End
+
+
+you may also ignore the Dummy player in your fi rst game, and
+
+Map (for 2, 3, or 4 players)
+
+When a player reveals a city, all players (including themselves)
+
+enjoy the experience with one hero and no pressure.
+
+• Map Shape: Wedge with no limitations
+
+have one last turn. If the Round ends during this, the game ends
+
+• Countryside tiles: 8, 9, or 11, sorted by numbers
+
+immediately.
+
+• Core city tiles: 1
+
+• Core non-city tiles: 2
+
+• Cities: Cities cannot be conquered nor entered in this scenario.
+
+
+
+
+
+• Players: 2 to 4
+
+Scenario End
+
+
+
+
+
+Variants
+
+
+• Type: Competitive
+
+When all cities are conquered, all players (including the one who
+
+If experienced, you can increase the level of the cities. But beware
+
+• Length: Six rounds (3 days and 3 nights)
+
+conquered the last city) have one last turn. If the Round ends
+
+– even with the suggested set ings, this is a long scenario.
+
+• Purpose: Standard game scenario, in which you use all the
+
+during this, the game ends immediately.
+
+
+
+
+
+Team Game
+
+
+game features. Can be long, especial y with 4 players or when
+
+
+
+
+
+Scoring
+
+
+players are not experienced yet.
+
+If playing with four, you may decide to play this as a team game
+
+Apply standard Achievements scoring. In addition, also score for
+
+(see the General Principles section).
+
+Your task is to fi nd and conquer all cities in three days and three conquered Cities, as described on the other side of the Scoring nights. Each of you will be on your own, and as usual, you want
+
+In this case, you may either keep four cities in the game, or you may
+
+card.
+
+to get as much Fame, knowledge, and loot as possible. Luckily for
+
+decide to encourage cooperative city assaults by using only two
+
+you, conquering cities is a great way to get Fame.
+
+• A player scores 7 Fame for each city they are the leader of.
+
+city tiles, and set the level of cities to 10 or higher. Or, you can use
+
+• A player scores 4 Fame for each city they are not the leader of two Megapolis instead (see the Variants section).
+
+Map (for 2, 3, or 4 players)
+
+but has at least one of their shield tokens on the City card.
+
+• Map Shape: Wedge (2 or 3 players), or Ful y Open (4 players)
+
+• Whoever scores the most Fame for this gets an additional +5
+
+• Countryside tiles: 8, 9, or 11
+
+Fame as the Greatest City Conqueror (+2 Fame if tied).
+
+• Core city tiles: 2, 3, or 4 (the same number as there are players)
+
+If you conquered all the cities, your mission was successful.
+
+• Core non-city tiles: 1, 2, or 3 (one less than players)
+
+Whether you did or not, whoever has most Fame wins the game.
+
+• Cities: Each revealed city is level 4.
+
+• Players: 2 to 4
+
+Special Rules
+
+
+
+
+
+Scoring
+
+
+• Type: Competitive
+
+• You start with 1 Fame. Whenever you cross a line on the Fame
+
+You score Achievements and conquered Cities (on both sides of
+
+• Length: Four rounds (2 days and 2 nights)
+
+track, you get 1 extra Fame.
+
+Scoring card), as with the standard Conquest scenario.
+
+• Purpose: Shorter scenario that shares most of the mechanics • You start with +2 Reputation (i.e. you have a bonus of +1 for Variants
+
+with the standard game, but is faster.
+
+interaction right from the start).
+
+You can adjust the level of the cities according to your preferences.
+
+Again, your task is to conquer all cities. You have only two days and • There is one more die in the Source and one more Unit in the two nights this time, so you were imbued with extra power. And
+
+off er than usual.
+
+again, whoever scores most Fame is the winner.
+
+
+
+
+
+Scenario End
+
+
+Map (for 2, 3, or 4 players)
+
+When all cities are conquered, all players (including the one who
+
+• Map Shape: Wedge (2 or 3 players), or Open limted to 4
+
+conquered the last city) have one last turn. If the Round ends
+
+columns (4 players)
+
+during this, the game ends immediately.
+
+• Countryside tiles: 6, 7, or 9
+
+• Core city tiles: 2, 3, or 4 (equal to the number of players)
+
+• Core non-city tiles: 1, 2, or 3 (one less than players)
+
+• Cities: Each revealed city is of level 3.
+
+• Players: 1
+
+Special Rules
+
+
+
+
+
+Variants
+
+
+• Type: Solo
+
+• When taking Tactics, you always choose fi rst. The Dummy
+
+You may adjust the city levels to set up the right chal enge for you.
+
+• Length: Six rounds (3 days and 3 nights)
+
+player then takes one random card from those remaining.
+
+You may also use a Megapolis.
+
+• Purpose: Solitaire game. Also suitable for a player who wants
+
+• At the end of each Day or Night, remove both used Tactic cards
+
+
+
+
+
+Other Solo Missions
+
+
+to understand the game before explaining it to others.
+
+from the game. That means, each Tactic card is picked exactly
+
+This is a standard solo mission. If you wish though, you may play
+
+Yes, that’s true – you are alone now. But the Council still needs
+
+once during the game.
+
+any other mission as solo, just use similar setup modifi cations and
+
+these cities to be conquered. Good luck!
+
+
+
+
+
+Scenario End
+
+
+Special rules as this mission.
+
+
+
+
+
+Map
+
+
+When all cities are conquered, you have one last turn (the Dummy
+
+• Map Shape: Wedge
+
+player does not).
+
+• Countryside tiles: 7
+
+
+
+
+
+Scoring
+
+
+• Core city tiles: 2
+
+If you succeed in defeating all cities, you are victorious. If not, you
+
+• Core non-city tiles: 2
+
+have failed. In both cases you may count your score, to see how
+
+• Cities: the fi rst revealed city is of level 5, the second revealed
+
+good you were.
+
+city is of level 8.
+
+Take your Fame as the base. Then apply standard Achievements
+
+• Dummy Player: There is one standard Dummy player (see the
+
+scoring, except no titles are awarded.
+
+General Principles section).
+
+Then score for your goal and for the time to reach it. See the other
+
+• Cards and Skills: Remove the four competitive Spells (109-
+
+side of the Scoring card:
+
+112) from the Spell deck, and the one interactive Skil , marked
+
+• Score 10 points for each city you conquered.
+
+with this icon , from the player’s Skill deck.
+
+• Score an additional 15 points, if you conquered all cities.
+
+• If you fi nished the game one or more Rounds before the limit,
+
+score 30 points for each such Round.
+
+• Score 1 point for each card in the Dummy player’s Deed deck
+
+(that was not yet fl ipped this Round).
+
+• If the End of the Round was not announced yet in your last
+
+Round, score an additional 5 points.
+
+
+
+
+
+• Players: 2 or 3
+
+
+
+
+
+Special Rules
+
+
+Then score for your goal and for the time to reach it. See the other
+
+• Type: Cooperative
+
+• When taking Tactics, the Dummy player takes a random Tactic
+
+side of the Scoring card:
+
+• Length: Six rounds (3 days and 3 nights)
+
+fi rst, then the players choose theirs.
+
+• Score 10 points for each city you conquered.
+
+• Purpose: Standard cooperative scenario – the ultimate
+
+• At the end of the Day or Night, agree and remove one of the
+
+• Score an additional 10 points if every player is a leader of at
+
+chal enge for those who want to beat the game together.
+
+Tactics used by the players (not the Dummy player) from the
+
+least one conquered city.
+
+Your task is to conquer all cities. You have to work as a team, and
+
+game. This does not mat er on the last day and the last night.
+
+• Score an additional 15 points if you conquered all cities.
+
+you will also be rewarded as a team, according to your weakest • Team Rules apply, except you are all one team. (see the General • If you fi nished the game one or more Rounds before the Round link and best achievements.
+
+principles section).
+
+limit, score 30 points for each such Round.
+
+Map (for 2 or 3 players)
+
+
+
+
+
+Scenario End
+
+
+• Score 1 point for each card in the Dummy player’s Deed deck
+
+• Map Shape: Fully open
+
+When all cities are conquered, all players except the Dummy
+
+(that was not yet fl ipped this Round).
+
+• Countryside tiles: 8, or 10
+
+player have one last turn.
+
+• If the End of the Round was not announced yet in your last
+
+Round, score an additional 5 points.
+
+• Core city tiles: 3, or 4 (one more than players)
+
+
+
+
+
+Scoring
+
+
+• Core non-city tiles: 2, or 3 (equal to number of players)
+
+If you succeed in defeating all cities, you are all victorious. If not,
+
+
+
+
+
+Variants
+
+
+• Cities: The cities are of level 5, except for the fi nal one revealed,
+
+you have all failed. In both cases you may count your score, to see
+
+You may adjust the city levels to set up the right chal enge for you.
+
+which is of level 8 (2 players) , or 11 (3 players)
+
+how good you were.
+
+In a 2 player game, the last city may also be a Megapolis – see the
+
+• Dummy Player: There is one standard Dummy player (see the
+
+You have one score as a team. As a base score, take the lowest
+
+Variants section.
+
+General Principles section).
+
+Fame of all players. Then apply standard Achievements scoring,
+
+You may also agree on a scoring variant: for Achievements, only
+
+• Cards and Skil s: Remove the four competitive Spel s from the
+
+except:
+
+the lowest score counts. This encourages balanced development
+
+Spell deck (109-112), and and the one interactive Skil , marked
+
+• In each category, you score only the player with highest score
+
+of all Heroes instead of specialization. (For the Greatest Beating
+
+with this icon , from the player’s Skill deck.
+
+(or most negative points in case of Greatest Beating).
+
+Achievement, the biggest penalty is scored again.)
+
+• No titles are awarded.
+
+• Players: 2 or 3
+
+Map (for 2 or 3 players)
+
+
+
+
+
+Additional Special Rules
+
+
+• Type: Cooperative
+
+• Countryside tiles: 7 or 8
+
+• You start with 1 Fame. Whenever you cross a line on the Fame
+
+• Length: Four rounds (2 days and 2 nights)
+
+• Core city tiles: 2 or 3 (equal to number of players)
+
+track, you get 1 extra Fame.
+
+• Purpose: Shorter, cooperative scenario, that shares most of the
+
+• Core non-city tiles: 1 or 2 (one less than players)
+
+• You start with +2 Reputation (i.e. you have a bonus of +1 for
+
+mechanics with the standard one, but is easier and faster.
+
+• Cities: In order in which they are revealed, the cities are of level
+
+interaction right from the start).
+
+Again, your task is to conquer all cities. You have only two days
+
+5 and 8 (2 players), or 5, 8, and 11 (3 players).
+
+• There is one more die in the Source and one more Unit in the
+
+and two nights this time, so you were imbued with special powers.
+
+off er than usual.
+
+All the rules and setup conditions for Full Cooperation apply, with
+
+these modifi cations:
+
+• Players: 2 to 4
+
+Special Rules
+
+
+
+
+
+Scenario End
+
+
+• Type: Competitive
+
+• When a mine is revealed, put one green (if on a Countryside tile)
+
+When all map tiles are revealed and all mines are liberated, al
+
+• Length: Four rounds (2 days and 2 nights)
+
+or red (if on a Core tile) enemy token on it, face up. Also, add one
+
+players (including the one who conquered the last mine) have one
+
+• Purpose: A shorter scenario similar to the standard one, but
+
+brown enemy token, face down. These are enemies controlling
+
+last turn. If the Round ends during this, the game ends immediately.
+
+with diff erent goals. Fight in the tunnels!
+
+the mine (one is hidden in the deeps). Ar ange them in a way
+
+
+
+
+
+Scoring
+
+
+Mines in this friendly kingdom are occupied by enemies! Without
+
+that the reverse of the brown one is visible, too, to distinguish
+
+If you liberated all mines, the mission was successful.
+
+a supply of crystals, Mages cannot serve the land. Go there and
+
+them from rampaging enemies.
+
+regain them.
+
+• To liberate a mine, you may enter it from its space (as an Action).
+
+In any case, apply standard Achievements scoring. In addition:
+
+Fight both enemies. Night rules apply as in a Dungeon (but you
+
+• A player scores 4 Fame for each of their mines in Countryside
+
+Map (for 2, 3, or 4 players)
+
+can use your Units). If you do not defeat both, the remaining
+
+and 7 Fame for each mine on Core tiles.
+
+• Map Shape: Wedge (2 or 3 players), or Open limited to 4
+
+token(s) stay on the space. They can be at acked again later.
+
+• Whoever scores the most Fame for this gets an additional +5
+
+columns (4 players)
+
+• Whoever defeats the last enemy liberates the mine. They mark
+
+Fame as the Greatest Liberator.
+
+• Countryside tiles: 8, 9, or 11 (remove only tiles with no mines
+
+it and gain +1 Reputation (+2, if on a Core tile).
+
+on them).
+
+• Until liberated, mines produce no crystals. Once liberated, they
+
+• Core city tiles: 1 (always the red city)
+
+produce as usual (the production starts immediately, so the
+
+• Core non-city tiles: 1, 2, or 3 (the one without a mine is always
+
+conqueror gets one crystal on the turn they liberated the mine).
+
+amongst the removed ones).
+
+• At the start of Day or Night, each player gains one crystal from
+
+• Cities: The city is friendly. Each player puts one Shield token on
+
+every mine they already conquered, no mat er how far away it
+
+it, but no-one is its leader.
+
+is on the map. Just a gift from the grateful miners.
+
+• Note: If there are not enough brown tokens, use some
+
+substitute for the brown monsters that are on the map but not
+
+revealed yet. Draw a new brown monster when it is about to be
+
+revealed.
+
+
+
+
+
+• Players: 2 to 4
+
+Special Rules
+
+
+
+
+
+Scenario End
+
+
+• Type: Slightly competitive, or competitive
+
+• When ending your movement on a magical glade, you may
+
+When all players have performed the incantation during the
+
+• Length: Four rounds (2 days and 2 nights)
+
+activate it – mark the glade with your Shield token. There
+
+second Night (in that case, each player has one more turn), or at
+
+• Purpose: A shorter scenario similar to the standard one, but
+
+may be multiple tokens on each glade, but only one from each
+
+the end of the second Night.
+
+with diff erent goals. How big a chal enge dare you encounter?
+
+player.
+
+
+
+
+
+Scoring
+
+
+Have you noticed the mysterious obelisks with engraved symbols • Once during the fi rst Night, in any of your turns, you may Do the standard Achievements scoring. Whoever has the most on the magical glades around this kingdom? Go and investigate!
+
+perform an incantation. You may not be at an inhabited space
+
+and it counts as your Action for that turn. It summons one
+
+Fame, wins the game.
+
+Map (for 2, 3, or 4 players)
+
+monster for each glade you have your Shield token on – draw
+
+
+
+
+
+Variants
+
+
+• Map Shape: Wedge (2 or 3 players), or Open limited to 4
+
+that many brown enemies and fi ght them.
+
+You may play a more competitive variant: only one (with 2 players)
+
+columns (4 players)
+
+– The ones you defeat bring you twice as many Fame.
+
+or two (with 3 or 4 players) Shield tokens can be placed on each
+
+• Countryside tiles: 8, 9, or 11 (remove only tiles with no
+
+– The ones you do not defeat disappear after the combat (but
+
+glade. If a glade is already at its limit, choose and replace one from
+
+magical glades on them).
+
+the Wounds they did do not).
+
+another player.
+
+• Core city tiles: 1 (always the green city)
+
+– Regardless how many of them you defeated, at the end of
+
+With fewer players, you may also play an Epic, 3 days and 3 nights
+
+• Core non-city tiles: 1, 2, or 3 (one less than the player number).
+
+your turn you get one random crystal for each monster you
+
+version. Use all Countryside and Core non-city tiles. Remove the
+
+• Cities: The city is friendly. Each player puts one Shield token on
+
+summoned (roll a die for each, like in a monster den).
+
+Shields after the second Night, too. During the third Night, you
+
+it, but no-one is its leader.
+
+• At the end of the fi rst Night, remove all Shield tokens from the
+
+summon one brown and one red enemy for each magical glade
+
+glades. Players have to mark them again, if they want to use
+
+you have marked, and get three crystals for each pair summoned.
+
+them for an incantation the second night.
+
+• During the second Night, you may do the same, except this
+
+time you summon red enemies. The Fame for defeated ones is
+
+doubled again, and this time you get two random crystals for
+
+each enemy.
+
+• Players: 2 to 4
+
+Special Rules
+
+
+
+
+
+Scenario End
+
+
+• Type: Competitive
+
+• Whenever a tile with a village is revealed, the player who
+
+When all map tiles are revealed and all dungeons and tombs are
+
+• Length: Five rounds (3 days and 2 nights)
+
+revealed it chooses any accessible non-swamp space adjacent
+
+conquered, all players (including the one who conquered last tomb
+
+• Purpose: A shorter scenario similar to the standard one, but
+
+to that village (it can even be on a neighboring tile) that has no
+
+or dungeon) have one last turn. If the Round ends during this, the
+
+with diff erent goals. Let’s go underground.
+
+site on it. From now on, there is a secret dungeon entrance on
+
+game ends immediately.
+
+We thought we already control ed this land. We were wrong!
+
+this space. Put a face down brown enemy token on the space to
+
+
+
+
+
+Scoring
+
+
+There is a vast system of underground tunnels under the kingdom.
+
+mark it.
+
+If you conquered all the dungeon and tombs, the mission was
+
+We do not know who dug these tunnels and why, but we do not • A secret dungeon entrance works like any other dungeon (see successful.
+
+care. Go, and seize control of them!
+
+its description card). If you conquer it, mark the space and
+
+claim your reward. If you fail, discard the monster token and
+
+In any case, apply standard Achievements scoring, except:
+
+Map (for 2, 3, or 4 players)
+
+put another random brown enemy on that tile.
+
+• When scoring Adventures, also count the secret dungeons and
+
+• Map Shape: Wedge (2 or 3 players), or Open limited to 4
+
+• The same applies for monasteries except you put a red enemy
+
+tombs. All dungeons and tombs give 4 points instead of 2.
+
+columns (4 players)
+
+token to an adjacent empty space to mark there is a secret
+
+• Instead of the Greatest Adventurer title, Greatest Dungeon
+
+• Countryside tiles: 8, 9, or 11 (remove only tiles with no
+
+tomb.
+
+Crawler title is awarded, and it is worth +5 points (+2 if shared).
+
+dungeons on them).
+
+• The secret tomb works the same way as regular tombs.
+
+• Core city tiles: 1 (always the Blue city)
+
+• Conquered dungeons and tombs (both regular and secret ones)
+
+• Core non-city tiles: 1, 2, or 3 (always include the desert tile
+
+cannot be entered again to fi ght for more Fame in this scenario.
+
+with monastery and tomb).
+
+• All conquered tombs and dungeons (including the secret ones)
+
+• Cities: The city is friendly. Each player puts one Shield token on
+
+are connected.
+
+it, but no-one is its leader.
+
+– When on a conquered dungeon or tomb space during
+
+movement, you may move to any other conquered dungeon
+
+or tomb space.
+
+– These two spaces do not have to be of the same type (you
+
+may travel from a regular dungeon to a hidden tomb etc.)
+
+– To do so, you have to pay 2 Move points plus 1 Move point
+
+for each space you traveled.
+
+– When measuring the distance, you have to go through
+
+revealed spaces, and you have to avoid lakes and swamps. If
+
+it is not possible, you cannot travel there.
+
+
+
+
+
+• Players: 2, or 4 (two teams)
+
+Special Rules
+
+
+
+
+
+Team Rules
+
+
+• Type: Very competitive
+
+• Deal Regular (silver) Units only during the fi rst half of the game.
+
+• If playing with four, Team Rules apply (see the Variants section).
+
+• Length: Four rounds (4 players), six rounds (2 players)
+
+Deal both Regular and Elite Units during the second half (from
+
+• Especial y note this rule (from the Variants section): A player
+
+• Purpose: A very competitive scenario full of opportunities for
+
+Round 3 in a four player game, or from Round 4 in a three
+
+may enter a keep owned by their al y, and they can recruit Units
+
+Heroes to fi ght each other. Victory points for control ed sites
+
+player game).
+
+there. When in, or close to an al ied keep, their Hand limit is also
+
+instead of Fame!
+
+• The Units that can be recruited in monasteries can also be
+
+increased, but only for the keeps they own themselves, if any.
+
+You are sent to this problematic province by the Council of the
+
+recruited in mage towers. The Units that can be recruited in
+
+• The same applies to mage towers and extra mana.
+
+Void. . wel . . to be exact. . by the . . um. . righteous members of
+
+villages may also be recruited in keeps.
+
+the Council of the Void. . to seize control over it. Just beware, there • There is no reputation loss for assaulting keeps and towers in The Winner is another faction of treacherous Council members that wants to
+
+this scenario.
+
+The scenario is played until end of the Round limit, or until one
+
+control the region. Do not al ow them!
+
+• The mage towers work diff erently than normal; in this scenario
+
+side admits the other side has won. Each owned keep counts as
+
+3 Victory points. Each owned mage tower counts as 2 Victory
+
+Map (for 2, 3, or 4 players)
+
+they work similar to keeps.
+
+points. The player or team who has the most points wins the
+
+• Map Shape: Predefi ned.
+
+– When you conquer a mage tower, you get no Spel . You can
+
+game. If tied (i.e. if some sites were left unconquered, as there are
+
+See the picture. Use the
+
+still buy Spells there later.
+
+25 points available in the game), no one is the winner.
+
+B side of the starting
+
+– When you conquer a mage tower, it becomes yours, like a
+
+tile, three revealed
+
+keep. Other players can assault it, like a keep: they fi ght a
+
+
+
+
+
+Variants
+
+
+Countryside tiles, and
+
+randomly drawn fortifi ed violet enemy, for half of the Fame,
+
+• For a more strategic game, you may reveal the map tiles from
+
+predefi ned positions
+
+rounded up.
+
+the very start (if you will not miss the thrill of exploring).
+
+where another 2
+
+– If you start your turn in or next to your mage tower, you get
+
+• You can also play this scenario with 3 players, but it can suff er
+
+Countryside and 4 Core
+
+one gold mana (during Day) or black mana (during Night)
+
+from the “if two fi ght each other, the third one benefi ts”
+
+tiles can be revealed (you
+
+for every mage tower you control on the map.
+
+syndrome. If you want to anyway, we recommend to play four
+
+may put them there, face
+
+• When close to both your keep and mage tower, you benefi t
+
+rounds only, as in a 4 player game.
+
+down, when set ing up the game).
+
+from both!
+
+• Countryside tiles: 5 (all the ones with forts and mage towers).
+
+• During the second Day and Night, you draw two random gray
+
+• Core city tiles: 1 (always the White city)
+
+(for keeps) or violet (for mage tower) enemy tokens when
+
+• Core non-city tiles: 3 (all the ones with forts and mage
+
+at acking a keep or tower owned by another player. The total
+
+towers).
+
+fame for defeating them is added together and then halved
+
+• City: The city was friendly, but it closed its gates. You are not
+
+(round up).
+
+al owed to enter it.
+
+• During the third Day and Night (in a 2 player game), the same
+
+• Units: Remove level IV Units (the ones that can be recruited in
+
+applies, except you draw three instead.
+
+a city only) from the Elite Units deck.
+
+• Players: 2 to 4
+
+Special Rules
+
+
+
+
+
+Team Variant
+
+
+• Type: Very competitive
+
+• The portal closes at the end of the Day 1 (whoever is on the
+
+If playing with four, you may play this scenario in teams. All the
+
+• Length: Four rounds (2 days and 2 nights)
+
+portal at that time would be eliminated from the game). From
+
+Team Rules apply (see the General Principles section).
+
+• Purpose: A competitive scenario suitable for those who prefer
+
+now on, the portal works as an empty plain space – only
+
+At the start of the game, each team chooses randomly (or by
+
+“last man standing” types of games over the end game scoring.
+
+one player can be there, and combat can be initiated there decision, if you prefer) a Shield token of one of its members.
+
+This is an ultimate test of your power. You are sent to an unknown
+
+(including Forced Withdrawal rules).
+
+This player is the chosen one – the one that has to return. Their
+
+part of the kingdom and the portal closes after you go through it. The Winner
+
+teammate has to help, especial y by blocking the other team.
+
+After two days and two nights, the portal opens again for a short The scenario ends as soon as the second Night is over. Whoever The opposing team should not know which player has been while. Only the hero who is at the portal at that moment can return stands on the portal space at that moment wins the game. If no- chosen. Store both Shield tokens (one from each team) secretly in home.
+
+one stands there, there is no winner. There is no scoring, and Fame
+
+a safe place.
+
+Map (for 2, 3, or 4 players)
+
+does not mat er.
+
+At the end of the second Night, reveal these Shield tokens. If one of
+
+them belongs to a player that cur ently stands on the portal, their
+
+• Map Shape: Wedge (or any other you agree)
+
+Note: After End of the Night is announced, initiating Player vs.
+
+team has won the game. If no player stands on the portal, or if a
+
+• Countryside tiles: 7, 8, 10
+
+Player combat is not al owed. Thus, if the portal is occupied at the
+
+player whose Shield token was not chosen stands there, no one
+
+• Core city tiles: 1, 2, or 3 (one less than players)
+
+moment when end of the second Night is announced, the player
+
+occupying it wins.
+
+has won the game.
+
+• Core non-city tiles: 1, 2, or 3 (one less than players)
+
+• Cities: Each revealed city is of level 3.
+
+
+
+
+
+Variants
+
+
+You may play an Epic version that lasts 3 Days and 3 Nights. Add
+
+one tile of each type to the game, and increase the level of cities
+
+to 4.
+
+MAGE KNIGHT ULTIMATE EDITION Rulebook editing: Gaming Rules! - Paul Grogan & Phil Pet ifer
+
+A GAME BY VLAADA CHVÁTIL
+
+Playtesting: Playtesters: Filip, David, Hanka, Miloš, Aneken, Vítek, Kreten, Fanda,
+
+Michal, Flygon, Paul, Falco, Glee, Rumun, Monča, Ese, Yuyka, Jéňa, Bianco, Jirka
+
+Original Game Design: Vlaada Chvátil
+
+Bauma, and many others from Czech Republic, US and UK.
+
+www.wizkids.com
+
+Development Team: Vlaada Chvátil, David Korejtko, Filip
+
+Special thanks to: Filip Murmak for enthusiasm and valuable help from the very fi rst
+
+Murmak, Phil Pet ifer, Paul Grogan
+
+WizKids/NECA, LLC
+
+moment they learned the game to the moment it went to print. David Korejtko for 603 Sweetland Ave.
+
+Il ustrations: J. Lonnee, Milan Vavroň, Octographics.net
+
+Hillside, NJ 07205 USA
+
+many hours of playtesting and balancing. Paul Grogan, Philip Pet ifer, and friends
+
+Graphic Design: Chris Raimo, Filip Murmak, Scot Hartman
+
+for endless days (and nights) of rules proofreading and language cor ections. Bryan
+
+Kinsella and Wilson Price from WizKids for their help and valuable advice. WizKids
+
+and Czech Games Edition for their support with extensive playtesting.
+
+© 2018 WizKids/NECA, LLC. WizKids and related marks and logos are trademarks of WizKids. All rights reserved.
+
+22
+
+
+
+
+
+GAME
+
+COMBAT WITH ENEMIES
+
+PLAYER VERSUS PLAYER
+
+Choose scenario and variants.
+
+
+
+
+
+Ranged and Siege Attack phase
+
+
+COMBAT
+
+
+Players choose Heroes.
+
+
+– Perform none, one or more at acks. You may defeat one
+
+Defender declares their intention:
+
+
+
+
+
+Setup the game.
+
+
+or more enemies with each.
+
+– If they at end the at ack ful y, they may do all as in their
+
+Play the Rounds, until Round limit or end conditions.
+
+– Play Ranged and Siege At acks of total value equal to or
+
+turn, including end of turn processing, they are protected
+
+
+
+
+
+Determine the game outcome.
+
+
+higher than the chosen enemies Armor to defeat them
+
+(Siege at acks only if some of these enemies are fortifi ed).
+
+until their next turn, but they lose their next turn.
+
+– Gain Fame for each defeated enemy (but do not Level up
+
+– If not, they may not use mana or Skil s, and their reaction
+
+ends immediately after the end of combat.
+
+ONE ROUND
+
+yet) and discard its token.
+
+Block phase
+
+
+
+
+
+Ranged and Siege Attacks phase
+
+
+Prepare the Round (not on the fi rst Round):
+
+– Perform none, one or more blocks. You may block one
+
+– Players take turns, starting with the defender, playing
+
+– Flip Day/Night board and refresh the Source.
+
+enemy with each block.
+
+Ranged and Siege At acks, until both forfeit their chance.
+
+– Create a new Unit off er.
+
+– Play Block of total value equal to or higher than the
+
+– The player at acking plays any amount of Ranged and
+
+– Refresh Advanced Action and Spell off ers.
+
+chosen enemy at ack to block it.
+
+Siege At acks (Siege only if the defender is fortifi ed).
+
+– Players Ready their Units and fl ip back Skill tokens.
+
+
+
+
+
+Assign Damage phase
+
+
+– The other player may play Blocks to reduce the at ack. It is
+
+– Players reshuffl e their decks and draw new cards.
+
+– For each enemy that was not defeated or blocked, assign
+
+reduced by 1 for every 2 points of Block.
+
+
+
+
+
+Players choose Tactics
+
+
+damage equal to its At ack value (in any order).
+
+– The remaining at ack is assigned as damage by the
+
+at acker to the opponent’s Units and Hero. Damage
+
+– Lowest Fame (the later in Round Order, if tied), goes fi rst.
+
+– First, you may assign damage to Unwounded units. Give
+
+equal to Armor has to be assigned to wound a Hero or an
+
+– Rear ange the Round Order tokens.
+
+it a Wound and reduce the damage by an amount equal to
+
+Unwounded Unit.
+
+Players play turns in order, until someone announces the End of
+
+the Unit’s Armor.
+
+
+
+
+
+Melee Attacks phase
+
+
+the Round.
+
+– Then, assign the rest to your Hero. For each Wound you
+
+– Players take turns playing At acks, starting with the
+
+– Other players then have one last turn.
+
+take to your hand, reduce the damage by Hero’s Armor.
+
+
+
+
+
+Attack phase
+
+
+aggressor, until someone is forced to retreat or until both
+
+– Perform none, one or more at acks. You may defeat one
+
+forfeit their chance.
+
+ONE TURN
+
+or more enemies with each.
+
+– The player at acking plays any amount of At acks
+
+(including Ranged and Siege ones, or a card played
+
+If your Deed deck is empty, you may forfeit your turn to – Play any At acks (including Ranged and Siege ones, or sideways).
+
+announce the End of the Round.
+
+a card played sideways) of total value equal to or higher
+
+than the chosen enemies Armor to defeat them.
+
+– The other player may play Blocks to reduce the at ack. It is
+
+– If your hand is also empty, you have to do this.
+
+– Gain Fame for each defeated enemy (but do not Level up
+
+reduced by 1 for every 1 point of Block.
+
+Regular turn: Optional movement (and/or map revealing), then
+
+yet) and discard its token.
+
+– The remaining At ack is assigned as damage (see above),
+
+optional (sometimes mandatory) action:
+
+and/or converted to Move points to force the player to
+
+– Combat with enemies (assault to a fortifi ed site, provoking
+
+withdraw to a neighboring safe space, and/or used to steal
+
+or chal enging rampaging enemies, entering an adventure
+
+used Artifacts or Banners assigned to a Wounded Unit (5
+
+site).
+
+damage per Artifact).
+
+– Interaction with locals (recruiting, healing and buying
+
+If the opponent is forced to retreat, then gain 1 Fame if they
+
+cards for Infl uence).
+
+have more Fame than you, plus 2 for each level they are higher
+
+– Player vs. Player combat (if on the same space as
+
+than you.
+
+anopponent).
+
+Resting: no movement, no action.
+
+– Standard rest: discard one non-Wound and any number
+
+of Wound cards.
+
+– Slow recovery (if you have Wound cards only): discard
+
+one Wound card.
+
+Any turn:
+
+– Play any special and healing (if not in combat) eff ects.
+
+– Use up to one die from the Source.
+
+End of the turn:
+
+– Return (and rerol ) the mana dice used. Next player may
+
+play now.
+
+– Do Forced Withdrawal, if you are not on a safe place.
+
+– Discard played cards, return all mana except crystals.
+
+– Claim your combat rewards, and process Level ups, if any.
+
+– Discard any number of cards from your hand (at least one
+
+if no cards were played this turn.).
+
+– Draw cards up to your (modifi ed) Hand limit.
+
+23
+
+
+
+
+
+Offensive
+
+Defensive
+
+Unit Resistances
+
+Fortifi ed – Only Siege At acks can be used against
+
+Combat with enemies:
+
+Fire Attack – Only Ice and Cold Fire Blocks are
+
+this enemy in the Ranged and Siege At acks phase
+
+If the Unit is assigned damage from an at ack it is resistant to, the
+
+effi cient when blocking this (others are halved).
+
+(no at acks at all if it also defends a fortifi ed site).
+
+damage is reduced by its Armor fi rst (without taking Wounds). If
+
+any damage remains, continue as normal (wound the Unit and
+
+Ice Attack – Only Fire and Cold Fire Blocks are
+
+reduce the damage by its Armor again).
+
+effi cient when blocking this (others are halved).
+
+Physical Resistance – All physical At acks (incl.
+
+cards played sideways) are ineffi cient (halved).
+
+Player vs. Player:
+
+If the Unit is resistant to at least one element included in the
+
+Cold Fire Attack – Only Cold Fire Blocks are effi cient
+
+opponent’s at ack, the opponent has to spend twice as much
+
+when blocking this (others are halved).
+
+Fire Resistance – All Fire At acks are ineffi cient
+
+damage to wound that Unit.
+
+(halved).
+
+Summon Attack – At the start of the Block phase,
+
+The enemy ignores any non-At ack eff ects of red
+
+Physical Resistance – Makes the Unit less
+
+draw a random Brown token for this enemy. It
+
+cards or Unit abilities powered by red mana.
+
+vulnerable to physical At acks of enemies and
+
+replaces the enemy in the Block and Assign Damage
+
+physical At acks of an opponent.
+
+phases, then it is discarded.
+
+Ice Resistance – All Ice At acks are ineffi cient
+
+(halved).
+
+Fire Resistance
+
+
+
+
+
+Swift
+
+
+– Makes the Unit less vulnerable to
+
+– To block this enemy, you need twice as much
+
+The enemy ignores any non-At ack eff ects of blue
+
+Fire At acks of enemies and Fire At acks of an
+
+Block as its At ack value.
+
+cards or Unit abilities powered by blue mana.
+
+opponent.
+
+It also ignores non-At ack eff ects of opponent’s red
+
+Brutal – If unblocked, it deals twice as much damage
+
+Both Fire and Ice Resistance – Also all Cold Fire
+
+cards or Unit abilities powered by red mana.
+
+as its At ack value.
+
+At acks are ineffi cient (halved).
+
+Ice Resistance – Makes the Unit less vulnerable
+
+Poison – If a Unit gets Wounded because of an at ack
+
+Elusive – An elusive enemy has an increased
+
+to Ice At acks of enemies and Ice At acks of an
+
+from an enemy with Poison, it is given two Wound
+
+Armor value. The lower value is used only in the
+
+opponent.
+
+cards instead of one.
+
+At ack phase, and only if all of the enemy at acks
+
+It also ignores non-At ack eff ects of opponent’s blue
+
+For each Wound a Hero takes into their hand from
+
+are successful y Blocked. Any Armor modifi cations
+
+cards or Unit abilities powered by blue mana.
+
+a Poisonous at ack, they also puts one Wound into
+
+apply to both values.
+
+their discard pile.
+
+Both Fire and Ice Resistance – Also counts as
+
+Paralyze – If a Unit gets Wounded because of an
+
+Unfortifi ed – All site fortifi cations are ignored for
+
+resistance to Cold Fire At acks of enemies and
+
+at ack from an enemy with Paralyze, it is immediately
+
+such an enemy.
+
+Cold Fire At acks of an opponent.
+
+destroyed (removed from the game).
+
+If a Hero takes one or more Wounds into their hand
+
+Arcane Immunity – The enemy is not aff ected by
+
+from a Paralyzing at ack, they must immediately
+
+any non-At ack/Block eff ects. Eff ects that directly
+
+discard any non-Wound cards from their hand.
+
+aff ect enemy at acks still apply.
+
+Assassination – Damage from this at ack cannot
+
+be assigned to Units; if unblocked, it has to be al
+
+Defend – Enemies with the Defend ability wil
+
+assigned to the hero.
+
+defend themselves or other enemies when you
+
+at ack them.
+
+Cumbersome – In the Block phase, you may spend
+
+Move points; for each Move point spent, the at ack
+
+is reduced by 1 for the rest of the turn. An at ack
+
+Multiple Attacks
+
+reduced to 0 is considered successful y blocked.
+
+Each at ack has to be handled (blocked or get their
+
+damage assigned) separately. Eff ects that prevent an
+
+Vampiric – An enemy with the Vampiric ability has its
+
+enemy from at acking prevent all their at acks. An
+
+Armor value increased by 1, for the rest of the combat,
+
+enemy is considered "successful y blocked" if all its
+
+for each unit its at acks wound and for each wound its
+
+at acks are blocked.
+
+at acks cause to be added to a player’s hand.
+
+You MAY Announce End of the Round
+
+YES
+
+
+
+
+
+YOUR TURN
+
+
+Is your
+
+
+Before your
+
+Before your
+
+Deed deck
+
+turn or
+
+Your previous
+
+Movement
+
+Action
+
+turn or
+
+empty?
+
+In another
+
+turn Skill
+
+End of Turn
+
+Special and
+
+Special and
+
+In another
+
+player’s turn
+
+tokens expire
+
+Is your
+
+sequence
+
+healing eff ects
+
+
+
+
+
+OR
+
+
+healing eff ects
+
+
+player’s turn
+
+eff ects
+
+Round Order
+
+eff ects
+
+token face down?
+
+One Rest action
+
+
+
+
+
+YES
+
+
+Flip your Round Order token
+
+
+24
+
+
+
+
+

@@ -1,2 +1,2 @@
 # bgames
-borad games notes
+bgames: board games notes

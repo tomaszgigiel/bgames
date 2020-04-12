@@ -1,0 +1,1657 @@
+<h1>Vlaada Chvatil</h1>
+<h1>Mage Knight</h1>
+<h1>Ultimate Edition</h1>
+
+<h1>GAME WALKTHROUGH</h1>
+
+<p>The so-called Heroes who plundered the lost city of Dragon's Gate did not know it was they who would cause the end of the world as they knew it. Thinking that the reference to a gate in the city's name was apocryphal, they were surprised to find an actual magical gate beneath the long forgotten city. The Heroes were naive enough to open it, killing them instantly. All Magestone, the most concentrated magical substance in existence - detonated, causing millions of deaths and many of the previous seats of power to fall.</p>
+
+<p>The Breaking as it became known was 32 years ago. Since then, many of the factions were able to reassemble some of their lost power. The once formidable Atlantean Empire struggles to reunite its kingdom in the face of an all-out assault from the Orc Khans. Where once the Orcs were content with raids on the borderlands, the rumors of powerful new creatures, perhaps under the control of the Atlanteans, have made them afraid that their window of opportunity is rapidly closing. Fortresses are falling to rampaging hordes of the Khan army, and there are rumors that the Emperor, fearing an eventual assault on the kingdom's most powerful cities, has been increasing their defenses and asking for assistance from old, and now silent, allies.</p>
+
+<p>In several forgotten tombs beneath the Empire, Draconum chrysalis, now in their final stages of maturation are hatching. The Draconum that will emerge from these ancient incubators are an entirely new evolution, unlike anything the land has ever seen. These long-lost invaders have timed their awakening to coincide with the prophecy that a leader of their kind would emerge at this appointed hour. Until that force is known, they seek to destroy, conquer, and amass power for themselves.</p>
+
+<p>As the land suffers under the Orc raids, and the Draconum break through their underground hatchery, yet a third force has arrived on the scene. The peasants call them Mage Knights - as they proved equally adept at spell and blade. No one knows who sent them, or why. Some celebrate them as Heroes and liberators and are eager to join their armies, as they believe that they can bring about true stability with their might. Most fear them, and close the gates of their cities as the Mage Knights are strange and choose to remain silent on their motives. In just a few days, a handful of Mage Knights have swept through the countryside in what would have taken entire armies months to conquer. The only hint as to their motivation is that they are clearly heading to the capital. Tonight, they will reach its walls...</p>
+
+<p>You are a Mage Knight, sent to invade the Atlantean Empire at the behest of the Council of the Void. In a past you have long forgotten, you traded your independence for powers that rival those of the gods. In exchange, the Council asks only loyalty; and now you are being called on to carry out your mission without questioning their intentions. Your reward for your continued obedience: Fame, power, knowledge, and treasure. Anything you encounter while on your mission is yours to keep, and you are free to work with, or against your fellow Mage Knights as you carry out the Council's commands. Perhaps someday you will regret your decision to join the ranks of the Void, but for now you march towards the silhouette of a city on the horizon.</p>
+
+<h1>I. INTRODUCTION</h1>
+
+<p>The purpose of this book is to explain the game to you in the most natural way. The rules are presented in the order in which you will encounter them in the game, and illustrated by examples and pictures. While reading this, you will be able to imagine how the game plays, or, if you prefer, you can play along as you read. In addition to this book, there is also a Rulebook. It contains all the rules of the game, in systematical order. Contrary to this Walkthrough, there are no images or examples - the Rulebook assumes that you have read the Walkthrough first, and understand all the mechanics. It exists as a fast lookup for some rules, and to explain ambiguities.</p>
+
+<h2>SCENARIOS</h2>
+
+<p>Each game of Mage Knight is played according to one of the scenarios you will find in the Scenario Book at the end of the Rulebook. Do not imagine them as scripts with a strict course of action - scenarios simply set the basic parameters and goals of the game. Each play through is unique, with a randomly built map, different cards to gain, and different enemies to defeat. You can try different scenarios, or you can just play the one that fits your gaming preferences best.</p>
+
+<h4>"The First Reconnaissance"</h4>
+
+<p>Regardless of your preferences, the first scenario you should play (and also the first scenario you should use whenever introducing new players to the game) is "The First Reconnaissance".</p>
+
+<p>This scenario is meant to introduce players to the game in the most entertaining way - by playing it. It is shorter, so it will not take too long even if you are playing slowly to start, and it shows the game concepts and rules in the most natural order. If you try to explain all the rules and play a full scenario from the start, new players could be overwhelmed with information, and a full scenario may take many hours to complete, even if playing with experienced gamers.</p>
+
+<p>"The First Reconnaissance" is your first assignment as a Mage Knight. You have been ordered to travel to an unknown part of the Atlantean kingdom, map it, and locate its capital. For now, that is all the Council of the Void asks of you. Any treasure, knowledge or Fame you gather during this quest is yours to keep.</p>
+
+<p>The first scenario is designed for two to four players, but if you want, you may play it solo. See the "Solo Games" statement in the Scenario Book at the end of Rulebook.</p>
+
+<p>Your goal for this scenario is not competitive; your mission will be successful as long as any player finds the city. However, do not think of this as a cooperative effort - Mage Knights are highly individual, competitive, and naturally suspicious of each other (as everyone with such power should be). Each of them explores the land on their own, trying to amass more Fame and get greater loot than the others.</p>
+
+<h2>RECOMMENDED APPROACH</h2>
+
+<p>First, one person should read this Walkthrough. Let's assume it is you. Once you have finished going through this book, you can (but do not have to) read the Rulebook, to ensure you understand everything well and see the "big picture" of the game. In this book, some situations that will not occur (or will rarely happen) in your first game are not explained.</p>
+
+<p>Whether you have read the Rulebook or not, you will be able to introduce others to the game, and play "The First Reconnaissance" scenario with them, explaining the rules as you play. You should follow this Walkthrough, step by step:</p>
+
+<ul>
+<li>Tell the players the brief story and the goals of the scenario, as explained earlier in this chapter.</li>
+<li>Explain to each player how the game alternates in Day and Night Rounds, each consisting of many player turns, as explained in Chapter II - Overview.</li>
+<li>Show and briefly explain the game components as described in Chapter III - Game Components. Help the players set up their playing area.</li>
+<li>Explain in detail how a typical round plays out, as described in Chapter IV - First Round of the Game.</li>
+<li>Explain the details of a player turn, as explained in Chapter V - Player Turn. In this chapter, all of the basic mechanics are explained. Use a player's starting deck to illustrate examples, similar to the ones in this book. Explain the map tiles and how they are placed. Show the movement costs for different terrain and explain locations visible on the revealed part of the map (showing the reference cards).</li>
+</ul>
+
+<p>Now, start to play! You do not have to explain the rest of the rules, just follow Chapter VI - Let's Start.<p>
+
+<ul>
+<li>When something special happens during the game, look for the appropriate section in this book for an explanation (Chapter VII - Revealing New Tiles or Chapter VIII - Other Important Events).</li>
+<li>At some point during the game (sometime during the second Round is best), you should explain the final scoring (Chapter IX - End of the Game). Follow that chapter when the game ends.</li>
+<li>Once you finish your first scenario, you are ready to progress to a full game, as described in Chapter X - Next Games.</li>
+</ul>
+
+<p>We also recommend that you do not play the first scenario too competitively. Its main purpose is to teach the basics of the game to all players. It can be advantageous to solve the most complicated situations (especially combats) together, playing open handed, so you ensure everyone understands how the mechanics work and what is allowed.</p>
+
+<h3>Player vs. Player Combat</h3>
+
+<p>It is strongly recommended not to use the Player vs. Player combat rules for the first scenario. The players will have enough to do learning the rules of the game and dealing with the enemies on the map. Our experience is such that the Player vs. Player rules are usually unused in the first scenario, so you do not need to explain them. Also, it is much easier to understand how Player vs. Player combat works once you are familiar with all the game mechanics. We leave this to your discretion. In later games, you should definitely include it (unless playing cooperative scenarios or introducing new players) - a true Mage Knight should always watch their back!</p>
+
+<h2>II. OVERVIEW</h2>
+
+<p>In the game, each player controls a Hero known as a Mage Knight. They have their game figure, several types of tokens, and a Deed deck consisting of 16 Action cards. There are a few revealed Map tiles creating the starting area - the magic portal and the surrounding area.</p>
+
+<h4>Rounds and Turns</h4>
+
+<p>The game is played in Rounds. Each Round represents either one Day or one Night. The first Round of a scenario is usually Day, which is then followed by a Night Round, then a Day Round, etc.</p>
+
+<p>The first scenario is limited to three Rounds, i.e. Day, Night, and then Day. You should fulfill its goal (to find the City) before the end of the third Round.</p>
+
+<p>At the start of each Round, each player shuffles their Deed deck and draws five cards (this number may increase later in the game). Then, they choose their Tactic for this Round. Tactics determine the order of play during the Round, and might give some other advantages. Then, in the order determined by the Tactics, the players take their turns.</p>
+
+<p>During their turns, players play some or all of the cards they have in their hands, to perform different activities - to move around the map and explore it (revealing additional Map tiles and adding them to the board), to interact with the local inhabitants, or to combat enemies and assault Atlantean fortifications. At the end of their turn, a player draws new cards from their deck until they have a total of 5 cards in hand. When players are experienced, they should think about how to use their cards and plan their turns in advance, so they are prepared when their turn comes - the game will then flow a lot quicker.</p>
+
+<p>When a player runs out of cards in their Deed deck, they may decide to skip their turn and announce the "End of the Round" instead. Each other player plays one more turn, and then the Round ends and the next Round begins.</p>
+
+<h4>Improving Heroes</h4>
+
+<p>During the game, a Hero will improve in several ways:</p>
+
+<ul>
+<li>A Player can find powerful Artifacts, study new Spells, and learn other useful Advanced Actions - these are represented by new Deed cards that are added to the player's Deed deck. Usually, these cards can be used in the same Round they are gained. They can also be used in subsequent Rounds since they will remain in their deck.</li>
+<li>At inhabited places, a player can recruit local Units such as villagers, soldiers, golems, or even mages. For many of them, Mage Knights are Heroes that can save the land from instability and danger, and it takes just a bit of persuasion to get them to join a Hero and accompany them on the way to glory. Units give additional options to a player, especially in combat.</li>
+<li>For different deeds (mainly for fighting enemies), Heroes win Fame. When a Hero collects enough Fame points, they progresses to the next Fame level. When doing so, they can learn new useful Skills and Advanced Actions, their characteristics improve, and they can command multiple Units.</li>
+</ul>
+
+<h4>End of the Game</h4>
+
+<p>The first scenario ends when a player reveals a Map tile with a city on it and each player has had one more turn (including the player who revealed the City).</p>
+
+<p>Extra Fame is awarded at the end of game for different achievements, and then, whoever collected the most Fame is the winner.</p>
+
+<h2>III. GAME COMPONENTS</h2>
+
+<p>In this chapter, all game components and the setup for the first scenario is described. The large picture on page 3 shows how the components should be prepared for your first game.</p>
+
+<p>In the "Players" section is another picture showing how each player should prepare their playing area.</p>
+
+<h3>MAP TILES</h3>
+
+<p>Map tiles represent the land that the Heroes are exploring. Each tile consists of seven hexagonal spaces.</p>
+
+<p>Before the game, the Map tiles should be separated by their reverse sides:</p>
+
+<h4>Starting Tile (two-sided)</h4>
+
+<p>The starting tile is two sided. Each side displays a magic portal and a coastline - the coastline is different on each side, and defines the shape of the map for a given game. The spaces which represent the sea cannot be occupied by Heroes. For the first scenario, we will need the side marked by a small "A" in the lower corner.</p>
+
+<h4>Countryside Tiles (green back)</h4>
+
+<p>There are 11 tiles representing the less developed countryside of the land. For the first scenario, they are not revealed randomly. Sort them by the number in the lower corner and create a face down pile with number 1 on the top.</p>
+
+<ul>
+<li>When playing with two players, remove the three tiles that are at the bottom of the pile and return them to the box.</li>
+<li>When playing with three players, remove two tiles from the bottom of the pile.</li>
+<li>When playing with four players, do not remove any tiles.</li>
+</ul>
+
+<h4>Core Tiles (brown back)</h4>
+
+<p>These 8 tiles represent the most developed part of the land, with big cities and advanced challenges. Four of them contain a city in their center, four of them are non-city tiles, but they all have the same reverse side.</p>
+
+<p>To prepare this scenario, separate non-city and city Core tiles into two piles, and shuffle each of them. Randomly take one city and two non-city tiles, and shuffle these three together. Put the Countryside (green) pile on top of this pile. Thus, you have one pile of tiles, and the city you are looking for will be somewhere in the last three on the bottom of the pile.</p>
+
+<p>Advanced Action deck</p>
+<p>Enemy and Ruin token piles</p>
+<p>Spell deck</p>
+<p>Wound pile</p>
+<p>Artifact deck</p>
+<p>Space for Common Skill offer</p>
+<p>Spaces for Advanced Action offer</p>
+<p>Fame track</p>
+<p>Reputation track</p>
+<p>Fame and Reputation board</p>
+<p>Spaces for Spell offer</p>
+<p>Tile deck</p>
+<p>Regular Unit deck</p>
+<p>Round Order</p>
+<p>Move costs</p>
+<p>Source</p>
+<p>Day/Night board</p>
+<p>Night Tactic cards</p>
+<p>Site Description and Scoring cards</p>
+<p>Spaces for Unit offer</p>
+<p>Space to display Advanced Action cards later (for Monasteries)</p>
+<p>Mana die</p>
+<p>Bank</p>
+<p>Mana tokens</p>
+<p>Map</p>
+<p>Tiles revealed at start</p>
+<p>Day Tactic cards</p>
+
+<h4>Initial Position</h4>
+
+<p>Reveal the first two tiles (1 and 2) and add them to the starting tile (A) according to the diagram.</p>
+
+<p>Note: Tiles have symbols in six of their corners. If a tile is placed correctly, these symbols connect with like symbols on neighboring tiles, eventually forming a complete circle or star.</p>
+
+<p>All tiles should be oriented in a way so that their number is in the same direction as the letter A on the starting tile.</p>
+
+<p>These three tiles form the starting area of the map - the magic portal, some villages, a mine, etc. During the game, players will reveal other parts of the map, adding more tiles.</p>
+
+<p>Note that there is a coastline on the starting tile. Imagine this coastline extends indefinitely along both sides, forming the border of the map. No tiles may be placed behind this coastline. Thus, during the game, the map will look like the diagram to the right.</p>
+
+<p>Take into account the expanding size of the game map when placing the first tiles to allow for enough free space on the table in the directions the map will be expanded.</p>
+
+<h3>ENEMY AND RUIN TOKENS</h3>
+
+<p>There are tokens representing various things on the map: round tokens for enemies and monsters and hexagonal tokens representing the content of ancient ruins. At the start of the game, sort them into seven face down piles and randomize them.</p>
+
+<h4>First Rampaging Enemies<h4>
+
+<p>With the initial setup of the map, there are two "Orc Khan" symbols. Draw two tokens from the pile with the same symbol on the reverse and put them, face up, on the marked spaces.</p>
+
+<p>Enemies rampaging the land - Marauding Orcs and Draconum:</p>
+
+<p>Monsters living in dungeons and other dark places:</p>
+
+<p>Units garrisoned in keeps, mage towers and cities.</p>
+
+<p>Tokens representing what is hidden in the ruins:</p>
+
+<h3>DEED CARDS</h3>
+
+<p>The term "Deed cards" refers to the different types of cards that can become part of a player's deck during the game. All Deed cards have identical card backs, so that they will be indistinguishable when shuffled together.</p>
+
+<p>At the start of the game, different types of Deed cards are in different piles, so they need to be sorted by their front side. We strongly recommend players place these piles exactly as shown in the Setup diagram. Once you get used to this layout, you will have no problem locating any required pile, even though they have identical card backs.</p>
+
+<p>The types of Deed cards are as follows:</p>
+
+<h4>Basic Action Cards</h4>
+
+<p>Each Hero has their own starting deck of 16 Basic Action cards. They are marked with their Shield symbol in the upper right corner.</p>
+
+<p>Each player's set of Basic Action cards is the same, except two cards have been replaced by two unique cards in each deck. The art for these cards show a portrait of the Hero that the card belongs to. For all purposes these cards are treated like any other Basic Action.</p>
+
+<h4>Advanced Action Cards</h4>
+
+<p>There are 28 Advanced Action cards. They are stronger than the Basic Action cards. Over the course of the game, these Advanced Action cards are gained and added to a player's deck. You can distinguish Advanced Actions from Basic Actions by the golden frame around the text and the lack of any icon in the upper right corner.</p>
+
+<p>Please note that some Advanced Actions will not be used in the first scenario. You should only use cards numbered 65 through 80 for this first game; cards 81 through 92 should be removed from the deck and returned to the box. shuffle the cards you are using and create a face down pile. In other scenarios you will be using all of the Advanced Action cards.</p>
+
+<h4>Spell Cards</h4>
+
+<p>Spell cards represent powerful Spells a player can learn during the game. They have a violet frame and are separated into top and bottom parts, each with different names. The lower part represents the ultimate version of the spell that can only be cast during Night Rounds.</p>
+
+<h4>Artifact Cards</h4>
+
+<p>Artifacts are the most powerful items a player can gain during a scenario. They have a gold frame and text box, and two different effects. The effect written on the darker portion of the text box represents an ultimate one-time power that destroys the Artifact after use.</p>
+
+<h4>Wound Cards</h4>
+
+<p>Wound cards are used to mark Wounded Units and also go into a player's hand when their Hero is Wounded. Wound cards count towards a player's current Hand size and maximum Hand limit, so taking too many Wounds will clog up your hand and make it harder to take an effective turn. All Wounds have an identical dark red front side, so you can place them as a face up pile on the table.</p>
+
+<p>Terminology note:</p>
+
+<p>Whenever any text refers to an "Action" card, it is referring to both Basic and Advanced Action cards.</p>
+
+<p>Whenever any text refers to "any" or "a" card, it is referring to Action, Spell or Artifact cards, but never a Wound card unless stated explicitly. Thus, the term "discard a card" means discard any Deed card except for a Wound card.</p>
+
+<h3>OTHER CARDS</h3>
+
+<p>Other card types can be clearly distinguished by their reverse side:</p>
+
+<h4>Regular and Elite Unit Cards</h4>
+
+<p>There are two decks of Unit cards, Regular Units (with silver card backs), and Elite Units (with gold card backs). In the first scenario, we will only need the regular (silver) ones. shuffle them and place the pile face down on the designated spot. Leave the Elite Units in the box.</p>
+
+<p>To create the Unit offer, reveal as many Regular Unit cards as there are players, then add 2 more (e.g. for a 4 player game, reveal 6 Regular Units), as depicted in the Game Setup diagram.</p>
+
+<p>Note: For the first game, there should be at least one Unit in the offer with the village icon on the left side of the card. If not, shuffle the cards and deal them until this is true.</p>
+
+<h4>Tactic Cards</h4>
+
+<p>There are two decks of Tactic cards: Day Tactics and Night Tactics. Sort them by their card backs. Put the Night Tactic cards in a face down pile next to the Day/Night board, and the Day Tactics in the center of the table. You do not need to shuffle them.</p>
+
+<h4>Site Description Cards</h4>
+
+<p>There are 14 Site Description cards. They depict all the map locations, and briefly describes all the rules related to that site. As soon as a new site is revealed for the first time, find the corresponding card and read what that site means and the options it offers to the players. The Site Description card remains on the table, so every time a player considers visiting the site, it is available for easy reference.</p>
+
+<p>At the start of the game, find the cards for the sites that are in the starting area of the map: Village, Magical Glade, Crystal Mines, and Marauding Orcs. They will help you when explaining these locations.</p>
+
+<h4>City Cards</h4>
+
+<p>There are four City cards, one for each city. You do not need them for the first game - return them to the box.</p>
+
+<h4>Achievement Scoring Card</h4>
+
+<p>This summarizes the end game scoring rules. You do not need to show it to the players now, it is better to explain once they have played at least one Round of the game.</p>
+
+<h3>PLAYERS</h3>
+
+<p>There are four Heroes in the game. Each of them has their own Shield symbol; all the components for that Hero are marked with this symbol.</p>
+
+<p>For your first game, a player may take whichever Hero they like, or just distribute them randomly. They take all the components relating to their Hero.</p>
+
+<p>We recommend storing all components belonging to one Hero, including their deck of Basic Action cards, in one plastic bag. If playing with less than four players, return the unused components back into the box.</p>
+
+<h4>Hero Card</h4>
+
+<p>The card with the Hero portrait lays in front of the player for the entire game to help identify who controls which Hero. It also works as that player's Inventory - during the game, a player stores their Level tokens and any crystals they gain here. See the Mana section for more details.</p>
+
+<p>Note: The three crystals shown at the bottom of the hero card are only relevant when using the hero as a dummy player in a cooperative or solo game.</p>
+
+<h4>Figure</h4>
+
+<p>The game figure represents your Hero in play. At the start of the game, it is in front of you on the table - the Hero has not entered the map yet. On your first turn, place it on the portal space and you can start to explore the map.</p>
+
+<h4>Round Order Token</h4>
+
+<p>Each Hero has a Round Order token. These tokens show the order in which players take turns during the Round. For now, randomize them and place them in a column to the left of the Day/Night board, as depicted on the Setup diagram.</p>
+
+<h4>Level Tokens</h4>
+
+<p>Each Hero has six octagonal Level tokens, marked with their symbol on the reverse side. Five of them have a small pair of numbers, 1-2, 3-4, 5-6, 7-8, 9-10, on the bottom. Sort them by these numbers in a face up pile, so the token marked 9-10 is on the bottom, and the token marked 1-2 is visible on the top of the pile. Place the pile on the marked area on your Hero card. The sixth Level token has an empty front side. Put it in your Units area with the symbol side up. This will be your first Command token.</p>
+
+<p>A Level token with the symbol side up is called a Command token, and it represents your Command limit - at the start of the game, you only have one Command token, so you can only control one Unit. The top token of the Level pile shows your Hero stats - Armor of 2 and Hand limit of 5. These are your stats for Fame levels 1 and 2 (as indicated by the "1-2" on the bottom of the token).</p>
+
+<p>When you gather enough Fame to progress to level 3, you remove the top token from the Level pile, flip it over to the symbol side, and put it next to your first Command token. Your Command limit increases to two (you have two Command tokens now, so you can command up to two Units), and also your Hero stats change (you revealed the tile marked "3-4", which indicates a higher Armor).</p>
+
+<h4>Shield Tokens</h4>
+
+<p>Place your Shield tokens in a pile. During the game, two of them will be used to show your position on the Fame and Reputations tracks, and the rest will be used to mark your successes on the map - Fortified sites you have conquered, adventures you have completed, and in later scenarios, your participation in conquering a city.</p>
+
+<h4>Skill Tokens</h4>
+
+<p>Each Hero has their own set of 11 Skill tokens. These represent the natural directions their talent may develop in.</p>
+
+<p>Two of these skills are interactive skills. One of these interactive skills is a cooperative skill (with the symbol) and is used in cooperative and solo scenarios only. The other interactive skill is a competitive skill (with the symbol) and is used in competitive scenarios only.</p>
+
+<p>You may either remove the one not needed before the game or, if drawn during the game, simply discard and replace it with another token from the stack.</p>
+
+<p>Whichever you decide to do, Randomize the tokens being used and place them in a face down pile.</p>
+
+<h4>Skills Description Cards</h4>
+
+<p>Each Hero has 2 two-sided Skills description cards. Each card depicts 10 skills. The card depicting the competitive skill is used in competitive games and the card depicting the cooperative skill is used in cooperative and solo games. Keep the relevant card somewhere close, you will need it once you advance to the second level and gain your first Skill.</p>
+
+<h4>Deed Deck</h4>
+
+<p>As described in the Deed Cards section, each player has their own deck of 16 cards. shuffle them and place them on a face down pile - they form your Deed deck.</p>
+
+<p>Then, draw five cards from your Deed deck. This is your starting hand. Note the number of cards in your hand is one of the Hero characteristics that is depicted on your top Level token. Once you advance to level 5, your Hand limit increases to 6.</p>
+
+<h4>Player Area</h4>
+
+<p>The following diagram shows how the player area should look before the game begins.</p>
+
+<p>Note: The Deed deck is the face down pile to the left, with space for a discard pile far to the right (to prevent mixing these two piles together). Between them is the Units area, the space for recruited Units (the number of Unit slots is determined by the number of Command tokens you have). The Play area is where the player plays their cards and effects during their turn. The Skill pile on the left side contains Skills not in the game yet - once the player gains them, they put them to the right.</p>
+
+<p>Stack of Command tokens</p>
+<p>Hero card</p>
+<p>Inventory</p>
+<p>Play Area</p>
+<p>Space for Skill tokens</p>
+<p>Shield tokens</p>
+<p>Pile of Skill tokens</p>
+<p>Deed deck</p>
+<p>Command token</p>
+<p>Unit area</p>
+<p>Player's hand</p>
+<p>Discard pile (face up)</p>
+<p>Hero figure</p>
+<p>Skill Description card</p>
+
+<h3>FAME AND REPUTATION BOARD</h3>
+
+<h4>Fame Track</h4>
+
+<p>The larger track shows a players' current Fame. Each row represents one Fame level.</p>
+
+<p>At the start of the game, all players have 0 Fame - they put one of their Shield tokens on the 0 space of the Fame track. They are on the first row, so they are of the first Fame level.</p>
+
+<p>Whenever a player gains Fame during the game, they move their Shield token along this track by the given number of spaces. If the token moves to the next row, the player's Fame level increases. (To progress to Fame level 2, a player needs to gain at least 3 Fame; to progress to Fame level 3, a player needs a total of 8 Fame, etc.)</p>
+
+<p>At the start of each row, there is either a Skill token or a Level token depicted. When a player progresses to a row marked with a Skill token, they are rewarded with one Skill token and one Advanced Action card (additional explanation later). If their token progresses to a line marked with a Level token, they flip their top octagonal Level token into a new Command token, increasing their Command limit and Hero stats (see Players - Level tokens on page 5).</p>
+
+<p>The Skill token and Level token lines alternate, so on every even numbered Fame level the player gains a new Skill and Advanced Action, and on every odd numbered level their Command limit and Hero stats increase.</p>
+
+<h4>Reputation Track</h4>
+
+<p>The smaller track, in the right upper corner of this board, is the Reputation track. While your Fame rises all the time, your Reputation can both rise and fall - it depends on whether you gain your Fame through noble deeds, or by conquering and pillaging.</p>
+
+<p>At the start of the game, all players put one of their Shield tokens on the central space of the Reputation track - local people have no opinion of them. When doing noble deeds (such as killing Orc Marauders and Draconum that terrorize the land), a player's token progresses towards the brighter area. When acting violently, the token progresses toward the red area.</p>
+
+<p>Your reputation affects the Influence you have with local people (see the Interaction in a Village section on page 9).</p>
+
+<h3>DAY/NIGHT BOARD</h3>
+
+<p>The two-sided Day/Night board shows whether it is Day or Night. For this scenario, it starts with the Day side up and remains like this for the entire first Round. Then, when the Round ends, it flips over to the Night side.</p>
+
+<p>On the left side of this board, the Move costs for each type of terrain are shown with large numbers. The smaller blue numbers on the forest and desert show that these terrains have different Move costs at Night. The number in the lower left shows that the cost of moving onto a city space is 2.</p>
+
+<p>The empty area on the right side of the board is called the Source. We will talk about it later when discussing mana.</p>
+
+<h3>MANA</h3>
+
+<p>There are six different colors of mana in the game, 4 basic and 2 special. There are 3 different ways in which mana can be paid, either by using a mana token, a mana crystal, or a mana die from the Source.</p>
+
+<h4>Basic Mana Colors</h4>
+
+<p>There are four basic colors of mana in the game, each related to one element.</p>
+
+<p>Red is the energy of fire, its domain is flames, destruction and rage.</p>
+
+<p>Blue is the energy of water, its domain is frost, magic and crystals.</p>
+
+<p>Green is the energy of earth, its domain is nature, protection and healing.</p>
+
+<p>White is the energy of wind, its domain is spirit, speed and mind.</p>
+
+<p>Mana of basic colors can exist in its unstable pure form, or it can be crystallized to a more stable form and stored as crystals.</p>
+
+<h4>Special Mana Colors</h4>
+
+<p>There are also two special colors of magic. These exist only in an unstable pure form, they can be never crystallized and stored.</p>
+
+<p>Gold is the energy of sun. It can only be used during Day, but it can be used as mana of any basic color (thus it can be thought of as a mana "wildcard").</p>
+
+<p>Black is the energy of darkness. It can only be used during Night, and it has no power by itself - instead, it amplifies the power of basic mana colors, allowing the most powerful spells to be cast.</p>
+
+<p>Gold mana makes it easier to cast spells during the Day, while black mana allows for the most powerful spells to be cast at Night.</p>
+
+<h4>Mana Tokens and Crystals</h4>
+
+<p>Take all the mana tokens and create a bank of them, in an accessible place on the table. There are 15 tokens in each of the four basic colors (red, blue, green and white) and 4 in each of the special colors (gold and black).</p>
+
+<p>Mana tokens represent pure mana unless the token is in a player's inventory where they represent crystals instead.</p>
+
+<p>Whenever a card or other effect tells a player to gain a mana token, this is placed in front of a player in their Play area. It can be used at any time during their turn, but if they do not use it, the mana disappears at the end of the turn.</p>
+
+<p>If a card or other effect says to gain a crystal, then a mana token is taken from the bank and placed in the player's Inventory on their hero card. Crystals in a player's Inventory can be turned into mana of the corresponding color at any time during their turn - the player just removes one from their Inventory and then they can use it as a mana token. A player may not turn mana tokens into crystals unless a card or effect specifically allows them to do so.</p>
+
+<p>Note: This is the reason why there are only a few gold and black tokens - while the tokens of basic colors may be stored in a player's Inventory for several turns or even Rounds, gold and black mana exist only during a player's turn. At the end of their turn, the player returns them to the bank, making them available for other players.</p>
+
+<p>Three crystals per color: High concentrations of crystals become unstable, so a player is not allowed to have more than three crystals of the same color in their Inventory at a time. If you are about to gain a crystal of a color that you already have three of in your Inventory, you gain a mana token to your Play area instead. Thus, your Inventory can never contain more than 12 total crystals - up to three of each basic color.</p>
+
+<h4>Mana Dice</h4>
+
+<p>There are eight mana dice included in the game. Each mana die has six sides, each showing one of the six colors of mana. Play with as many dice as there are players, plus 2 (e.g. use 6 dice in a 4 player game etc.), roll them, and put them in the open area on the Day/Night board. This area and the dice in it are called the Source.</p>
+
+<p>At the start of each Round you reroll the dice into the Source.</p>
+
+<p>At least half of them should show a basic color (red, blue, green or white). If they don't, keep rerolling all the black and gold dice (together) until this condition is met.</p>
+
+<p>Keep any unused dice next to the mana token bank, they will be used whenever a card tells you to roll a die.</p>
+
+<p>The dice in the Source represent a common pool of mana, omnipresent in the world and available to all Heroes. Each turn, a player may use one mana die from the Source as a mana of the corresponding color. If they do, they reroll that die and return it to the Source at the end of their turn, to be available for other players. Some effects instruct a player to take a mana die from the Source. This does not count as the one mana die a player is allowed to use each turn.</p>
+
+<p>Thus the colors of mana in the Source change over the course of a Round. Black mana cannot be used during the Day; If a mana die is rolled back into the Source and it comes up black, no one can use it, and it is not rerolled. This is referred to as a depleted mana die - to make this clear, place it in the darker part of the Source area.</p>
+
+<p>Note that there may be some black (depleted) mana dice at the start of the Round. Whenever a player rolls black, another die is depleted. As the Day Round comes to an end, it may happen there are very few or even no mana dice available in the Source (the Night is coming).</p>
+
+<p>When the Day Round is over, Night begins - all dice are rerolled, forming a completely new Source for the Round. Since it is Night, gold mana cannot be used and thus gold dice are set aside as depleted.</p>
+
+<h2>IV. FIRST ROUND OF THE GAME</h2>
+
+<h4>Round Preparation</h4>
+
+<p>You have already prepared the game during the setup so in the first round of the game, you do not need to do anything else.</p>
+
+<h4>Choosing Tactics</h4>
+
+<p>The Day Tactic cards are displayed. In this phase, each player will take one of these cards. (Do not do it now - we will return to Tactics once more rules have been explained). For now, all that is important is that these Tactics determine the order of play for this Round.</p>
+
+<p>Each Tactic card has a large number on it that indicates the player order this Round - the lowest number going first.</p>
+
+<p>After Tactics are chosen, the Round Order tokens near the Day/Night board are reordered, so the Round Order token of the player with the lowest number on their Tactic card will be in the topmost position, the player with highest number in the lowest position.</p>
+
+<h4>Taking Turns</h4>
+
+<p>Once the turn order is determined, players begin taking turns, starting with the player whose Round Order token is in the top position, until someone ends the Round.<p>
+
+<p>During their turn, a player plays some cards from their hand and performs their effects. If they have any Units recruited, they may also activate them to perform their effect. Later, when they have gained some Skills, they may also use them if they are available.<p>
+
+<p>Action cards can be strengthened by spending mana of the indicated color. During each turn, a player may use one mana die from the Source as mana of the color shown. They may also convert their crystals (stored in their Inventory) into mana, or gain mana as the effect of other cards.</p>
+
+<p>Details on how the turn is played are described later.</p>
+
+<p>When a player finishes their turn, the first thing they should do is return any mana dice they used to the Source. When doing so, they roll them and put them back in the Source with their new color showing. Any die that is showing black is placed in the darker area in the top right - this mana die is depleted.</p>
+
+<p>AT THIS POINT, THE NEXT PLAYER MAY START TO PLAY THEIR TURN. Inform the next player they can start their turn, while the current player finishes their turn.</p>
+
+<p>When finishing a turn, the player does the following:</p>
+
+<ul>
+<li>Discard all cards they played face up to their discard pile.</li>
+<li>Return all used or unused mana tokens to the bank. They keep only the crystals stored in their Inventory.</li>
+<li>Draws cards from their Deed deck, up to their Hand limit. This limit is 5 cards at the start of the game (as stated on your Level token), but it can increase as the player gets more Fame during the game, and can be temporarily increased under some circumstances.</li>
+<ul>
+<li>Before drawing new cards, a player may discard any number of non-Wound cards from hand. Wound cards can never be discarded unless some rule or card explicitly permits it.</li>
+</ul>
+</ul>
+
+<h4>Next Player</h4>
+
+<p>The next player starts taking their turn in exactly the same way. Once they have finished and after they have rerolled any mana dice, they inform the next player that they can start playing while they are finishing their turn and drawing cards. Once all players have taken their turn this way, it is then the first player's turn again, etc.</p>
+
+<h4>Ending the Round</h4>
+
+<p>If a player has no cards in their Deed deck at the start of their turn, they may either play with whatever cards they have in their hand, or they may announce the End of the Round. If they do, then their turn immediately ends. Each other player then plays one last turn and then the round is over.</p>
+
+<p>If a player has no cards in their Deed deck and no cards in their hand at the start of their turn, they must announce the End of the Round (unless another player announced it sooner - in that case, they just skip their turn.)</p>
+
+<h2>V. ONE TURN</h2>
+
+<p>On your turn, you can either play a Regular turn or you can Rest.</p>
+
+<p>You won't need to Rest in the first several turns of the game, so we start with a Regular turn.</p>
+
+<p>On your first turn, place your figure on the Magic Portal space of the map. From then on, your figure can start to move and act on the map.</p>
+
+<h4>Regular Turn</h4>
+
+<p>Each Regular turn has two parts. First, you may move your figure one or more spaces on the map. Then, depending on where you end up, you may perform one Action (in most cases, either combat or interacting with locals), or do nothing. On your turn, it is possible to:</p>
+<ul>
+<li>Move to another space, and then fight or interact there.</li>
+<li>Stay where you are, and fight or interact there.</li>
+<li>Move to another space and do nothing there.</li>
+<li>Do nothing.</li>
+</ul>
+
+<p>You cannot, for example:</p>
+<ul>
+<li>Move to another space, fight or interact there, and then move again.</li>
+<li>Fight or interact on your space, and then move.</li>
+<li>Both fight and interact in one turn.</li>
+</ul>
+
+<h3>ACTION CARDS</h3>
+
+<p>All Action cards have a similar design. On each card, there is a:</p>
+<ul>
+<li>Card type (in the upper left corner)</li>
+<li>Card name</li>
+<li>Hero symbol (top right) to see which Hero it belongs to</li>
+<li>Picture</li>
+<li>Basic effect (the text directly under the picture)</li>
+<li>Stronger effect (the text under the basic effect)</li>
+<li>Cost for the stronger effect (the colored gem between the basic and the stronger effect - note the entire card is toned to that color, and whenever a card or effect relates to "Action card color", this is the color being referred to).</li>
+</ul>
+
+<h4>Card Types</h4>
+
+<p>The symbol in the upper left corner determines when this card can be played.</p>
+
+<p>During movement, you can play cards marked with the Move icon, when interacting with locals, you can play cards marked with the Influence icon, and in combat, you can play cards marked with the Combat icon.</p>
+
+<p>During any phase, you may play Special cards - they usually support other actions, or have their own unique effects. Also, Healing cards can be played at any time except during combat.</p>
+
+<p>Occasionally, usually because of another card or effect, you may want to play Move cards at another time other than during movement or Influence cards at another time other than when interacting with locals. This is allowed but there is usually no reason to do so.</p>
+
+<h4>Playing a Card<h4>
+
+<p>To play a card, you reveal it from your hand and put it face up in your Play area. When doing so, you can decide whether you want to use its basic effect or its stronger effect. If you want to use the stronger effect, you have to pay one mana of the corresponding color on the card - you can use a mana die of that color from the Source (you can only use one die from the Source each turn), a crystal or a mana token of that color. You can also use a gold die or gold mana token during Day Rounds, since gold mana can be used as mana of any color.</p>
+
+<p>If you pay mana when you play a card, the stronger effect is applied instead (ignore the basic effect). If you don't, the basic effect applies.</p>
+
+<h4>Stacking Cards</h4>
+
+<p>Most cards have simple effects like Move X (provides X Move points), Influence X (provides X Influence points), Attack or Block X (provides Attack or Block value of X).</p>
+
+<p>You will often want to play multiple cards of the same type together, as their effects are cumulative. Stack played cards with similar effects together, to form a partially overlapping column. The following examples both show ways to achieve Move 6:</p>
+
+<p>In the first example, there are three cards with Move 2 as their basic effect. They have been played together for a total Move of 6. In the second example, one card has been powered by blue mana to provide Move 4, and played with another card with Move 2 as its basic effect.</p>
+
+<h4>Playing Cards Sideways</h4>
+
+<p>It can happen that you really need to do something (such as move, generate Influence, create an attack or block, etc.), but you do not have enough of the right type of cards in hand to do so.</p>
+
+<p>Any card (except Wounds) can be played as Move 1, Influence 1, Attack 1, or Block 1. To do so, just play it sideways on the column. Cards played this way may be never powered by mana.</p>
+
+<p>The following diagram shows five ways to get to Move 5:</p>
+
+<p>Note: In the 2nd example, gold mana is being used to power the Move card (which is the same as if blue mana were used).</p>
+
+<p>In the 4th example, there is no move card, just five cards played sideways as Move 1 - that's right, you can move even when you have no Move cards. Also note there is an Artifact and a Spell card in the stack - any card, no matter how powerful its effect, can be played sideways as Move 1, Influence 1, Attack 1, or Block 1 - except for Wound cards.</p>
+
+<p>The last two examples add up to 6 Move points, since one of the cards is being powered by a green mana. This is okay since you can spend 5 of the Move points generated and let one go unused.</p>
+
+<h4>Special Cards</h4>
+
+<p>As said earlier, Special cards may be played at any time to support cards you are playing. Imagine we need 8 Move points. There are four examples how to achieve it using Special cards. If you take one basic deck and read the text of these Special cards, you will probably find many different ways to achieve this:</p>
+
+<p>In the first example, the Concentration card is powered by green mana and used to play the effect of the Stamina card with a bonus, for Move 6. The March card gives another Move 2 for a total of 8 Move points.</p>
+
+<p>In the 2nd example, the Mana Draw card allows us to use an additional mana die from the Source, so we are able to strengthen both of the other cards.</p>
+
+<p>The 3rd example shows the strengthened part of Mana Draw. We take another die from the source and set it to green. We then gain 2 green mana to use on that turn which powers both of the other cards.</p>
+
+<p>In the last example, we use a red mana to power the strong effect of the Improvisation card to get Move 5. Along with a Stamina card and then any other card played sideways, we get 8 Move points. Note we had to discard another card to play Improvisation.</p>
+
+<p>Note: You do not need to explain all these examples to the players before starting the game. Just make sure you understand them all personally, so you can help players understand and use the cards when they need to.</p>
+
+<h3>MOVEMENT</h3>
+
+<p>Now you know how to play Move cards to provide Move points. Next, let's explain how to spend them to move your figure across the map.</p>
+
+<h4>Move Costs</h4> 
+
+<p>The Move cost of each terrain type is depicted on the Day/Night board, represented by the large number. A red "X" means that this terrain is inaccessible. Ignore the small blue numbers for now; they are for Night Rounds.</p>
+
+<p>To move your figure, you must spend Move points provided by cards you have played. You can move to any space adjacent to your space unless that terrain is inaccessible. You can move as far as you want, as long as you have enough Move points to do so.</p>
+
+<p>The following diagram shows three examples of movement from the starting position, and their Move costs.</p>
+
+<p>Note: When moving into an adjacent space, you pay the Move cost of the space you are entering. The terrain of the space you are leaving does not matter.</p>
+
+<h4>Other Figures</h4>
+
+<p>You can freely pass through a space occupied by another figure but you should not end your move on that space as this would count as an Attack on another player. While this may be useful in some situations, we recommend that you do not use Player vs. Player combat during your first game. (If you decide otherwise, you will have to read the Player vs. Player section of chapter VIII.) If you are not allowing Player vs. Player combat then ending your move on a space with another player is not allowed.</p>
+
+<h4>Portal Space</h4>
+
+<p>If, for any reason, you decide to not to move from the portal, or if you return to the portal on a later turn, remove your figure from the map and place it in front of you on the table. No figure can stay on the portal space once a turn is over. Your figure stays in front of you until your next turn, when you return it to the portal space.</p>
+
+<p>Note: Any number of Heroes can occupy the portal space at a time, since they are removed from the map when they do. Heroes that are taken off the map cannot attack each other.</p>
+
+<h4>Rampaging Enemies<h4>
+
+<p>There are two Orc Khan symbols on the initial portion of the map - two green enemy tokens were put, face up, on the indicated spaces. Orc Marauders are rampaging enemies, that means they can limit your movement in two ways:</p>
+<ul>
+<li>You cannot enter a space occupied by an undefeated rampaging enemy.</li>
+<li>Moving in the vicinity of a rampaging enemy is dangerous! If you move from a space adjacent to a rampaging enemy to another space adjacent to the same enemy, it is provoked and attacks you. This immediately ends your movement, and you have to fight as a mandatory action (see Combat later).</li>
+</ul>
+
+<p>See the following example:</p>
+
+<p>Both red and violet move paths would provoke the wolf riders to attack, since you would be moving from one space adjacent to the wolf to another that is also adjacent. The violet move will not even be finished - the attack immediately ends the movement after the first step, and the unused Move points are lost. The red movement brings you to a village, but then you will have to fight there. Since combat uses your action for the turn, you would not be able to interact in the village this turn.</p>
+
+<p>The green move path can get you to the village without provoking the attack, it just costs you more Move points to go around.</p>
+
+<p>On a subsequent turn, making the move shown by the yellow path is okay. Since you are moving from a space adjacent to an enemy to a space adjacent to another enemy, neither of these enemies are provoked.</p>
+
+<h4>Exploring</h4>
+
+<p>When you are standing on a spot that borders empty table space, and if that empty space is not behind the extended coastline from the Starting tile, you can explore the land. Reveal a new tile and add it to the map. Exploring is not an action, it is done as part of movement.</p>
+
+<p>To explore a new tile, you have to pay 2 Move points. If you do, reveal the top tile from the Tile deck, and add it to the map. The orientation of the tile is determined by the symbols in six of its corners (they have to match the symbols on the already placed tiles), and by the direction of the art on the tile (it has to match the direction of numbers and graphics of the already placed tiles). If there are two tiles that could be revealed from one space, the player has to announce which one they are exploring before they reveal the tile.</p>
+
+<p>Take a look at the diagram. No new tiles may be explored from the spaces marked by black dots (either because they do not border an empty space, or because they border empty spaces behind coastline only).</p>
+
+<p>The purple tile may be revealed only from one space (because the lake is inaccessible). The yellow tile can be explored from three spaces, and orange from two spaces. Note there is one space from which both the yellow and orange tile can be explored - a player standing here may reveal one or, for 4 Move points, both, but they have to clearly say which one they are exploring each time they draw.</p>
+
+<h4>Special Rule for the First Scenario</h4>
+
+<p>"The First Reconnaissance" scenario has one special rule - every time a player reveals a new tile, they gain 1 Fame. It is an exploration mission, after all.</p>
+
+<p>Thus for each tile you reveal, immediately move your Shield token on the Fame track up by one. If it crosses the end of a row, the level of your Hero increases at the end of your turn (see the Level Up section in chapter VIII).</p>
+
+<h4>Continuing Movement</h4>
+
+<p>You may continue movement even after exploring a new tile. You may even play additional cards to add more Move points to those leftover from the cards already played.<p>
+
+<p>For example: A player plays three Move 2 cards, giving them a total of 6 Move points. They move one space into a forest (which costs them 3 Move points), and then explore a new tile for 2 Move points. On the newly revealed tile there are now hills next to their current space. They still have 1 Move point left, so they need to play another 2 Move points worth of cards to move into these hills.</p>
+
+<p>However, you are not allowed to change or modify cards that were played before exploring.</p>
+
+<p>In our example, it is not possible to get those additional 2 Move points by powering one of the already played cards with mana.</p>
+
+<p>So, a player can do as much traveling and exploring during their movement phase, as long as they can pay for it with Move points. It is possible to only explore on your turn, without actually moving, if you start your turn next to an unrevealed place. However, it still counts as movement, so it has to be done before you take an action (combat or interaction), and only on a Regular turn (not when Resting).</p>
+
+<h3>INTERACTION IN A VILLAGE</h3>
+
+<p>At the start of the first game, there are two villages on the initial portion of the map. Villages are inhabited sites, and you can use Influence to interact with the locals there. Check the Village Description card to see what you can do here.</p>
+
+<h4>Influence Points</h4>
+
+<p>You play cards to provide Influence points the same way as you do with Move points. Remember, you can play any non-Wound card sideways as Influence 1.</p>
+
+<p>As with Move points, you total the Influence provided by all cards you play. However, this total is further modifi ed, depending on your Reputation.</p>
+
+<h4>Reputation</h4>
+
+<p>When interacting with locals, check where your Shield token is on the Reputation track. If there is a ‘0' on your space, nothing happens. If there is a positive number, you increase your total Influence by this number. If there is a negative number, your total Influence gets lowered by that amount.</p>
+
+<p>Beware! If your Shield token is on the space of the Reputation track marked with a red "X", the locals refuse to talk to you, and you can't interact at all until you improve your Reputation.</p>
+
+<h4>Spending Influence</h4>
+
+<p>With Influence, you can buy one or more things that are offered at the space you occupy (at a village, you can recruit a village Unit and buy points of Healing). You can buy things of the same or different types. If you buy Healing points, you can combine it with other healing effects (see later Healing).</p>
+
+<p>As with movement, you can alternate playing Influence and spending it. The bonus or penalty from your Reputation, however, counts only once each turn, no matter how many things you buy.</p>
+
+<h4>Recruiting Units</h4>
+
+<p>Players can only recruit the Units that are in the Unit offer.</p>
+
+<p>Take a look at these Units. In the middle-left of each Unit card, there are one or more icons that show where that Unit can be recruited. In a village, only Units marked with a village icon can be recruited (see the Site Description cards - all inhabited sites have an icon in the upper right corner of the Description card). If there is no Unit with that icon in the offer, no Units can be recruited in the village.</p>
+
+<p>The cost for recruiting a Unit is in its upper left corner - that is how many Influence points you have to pay. If you do, you recruit the Unit and put it in your Units area.</p>
+
+<p>Important - Unlike other offers, the Unit offer is not immediately replenished when you recruit a Unit. As players recruit Units, there will be less cards available in the Unit offer. The Unit offer only gets replenished to its full amount at the start of each Round.</p>
+
+<p>When recruiting your first Unit, take the Command token you have available from the start of the game and put it above the Unit you just recruited. This uses up your Command limit - you can't have any more Units until you progress to level 3, when you get another Command token.</p>
+
+<p>You may still recruit however, even if you have no free Command token - but before taking a new Unit, you have to disband (remove from the game) the old Unit. This way, the Command token is available again and it can be assigned to the new Unit.</p>
+
+<h4>Plundering a Village</h4>
+
+<p>When you end your turn on a village, you may decide to plunder it before your next turn. Doing so gives you -1 Reputation, but you immediately draw two cards from your Deed deck, which strengthens your next turn. Plundering does not affect the village - you may still recruit Units or buy Healing here, and if you stay here, you may plunder it again after your next turn. However, your Reputation drops every time you do.</p>
+
+<p>Plundering is not an action, and you actually do it after your turn has ended, during another player's turn. Just announce you are doing it, decrease your Reputation and draw two cards, and then start planning your turn with those cards in hand.</p>
+
+<p>Note: You can only plunder a village once between each of your turns.</p>
+
+<p>Note: You may also plunder a village you are on before your first turn in a round.</p>
+
+<h3>UNITS</h3>
+
+<p>As mentioned above, Units you recruit are stored in your Units area, and each Unit has a Command token (reverse side of a Level token) above it.<p>
+
+<p>Let's take a look at a Unit in more detail:<p>
+
+<ul>
+<li>The number in the upper-left corner you know already - it is the amount of Influence you have to pay to recruit it.</li>
+<li>In the upper-right corner, there is the level of the Unit. This is important when healing a Unit, and also determines the total value of your army at the end of the game.</li>
+<li>The icon or icons under the cost tell you where this Unit can be recruited.</li>
+<li>Then, there is the card art.</li>
+<li>The number on the armor icon is the Armor value of the Unit (see Combat later).</li>
+<li>The text box shows the abilities of the Unit. Read the horizontal line as "or" - so Peasants either help you in combat, when persuading other locals, or in your travels. Each of these options has an icon showing when you can use them. Note: Abilities marked as give you mana or crystals and are considered special effects, so you can play them at any point during your turn.</li>
+<ul>
+
+<h4>Activating a Unit<h4>
+
+<p>You can activate a Unit to use one of its abilities.</p>
+
+<p>To activate a Unit, announce which ability you want to use, then take its Command token and put it on the Unit card. This works the same as if you were playing a card from hand with that effect. After you activate a Unit, it is spent, and it can't be activated again until it is Readied. Keep it in your unit area, with its command token on it.</p>
+
+<p>The diagram to the right shows another way to play Move 6 - the player chose to activate their Peasants to provide Move 2.</p>
+
+<h4>Spent and Ready Units</h4>
+
+<p>You are a Hero, and you can march and fight for several Days and Nights, without a break. But this does not apply to your Units. Each Unit can be activated only once per Round. After you activate a Unit, it is spent, and it can't be activated again until it is Readied.<p>
+
+<p>Let's quickly summarize Units:<p>
+
+<ul>
+<li>If a Unit has its Command token above the card, it is Ready. You can activate it to use one of its abilities. You put the Command token on it, and it becomes spent.</li>
+<li>If a Unit has its Command token on it, it is spent. It cannot be activated. At the start of the next Round (not turn), the Command token is moved above it again, so it is now Ready. Some advanced cards allow you to refresh a Unit and make it Ready immediately, without waiting for the End of the Round. This cannot be done during combat to allow a Unit to act twice in the same fight.</li>
+</ul>
+
+<p>A spent Unit can still be disbanded if you recruit a new Unit in its place. The new Unit will be Ready when you take control of it, regardless of whether the previous Unit was spent or not.<p>
+
+<h4>Advanced Units</h4>
+
+<p>If there is a mana symbol in front of a Unit ability, it means that ability requires a mana of that color to activate, just like the stronger effects on Action cards.</p>
+
+<p>Some Units have a gray, red or blue pentagonal icon below its Armor icon. That means they have physical, fire, or ice resistance (see Combat).</p>
+
+<h3>COMBAT</h3>
+
+<p>You may encounter combat on many occasions in the game. But for now, the only enemies on the revealed part of the map are two groups of Orc Marauders (the green tokens).</p>
+
+<h4>Enemy Tokens</h4>
+
+<p>Let's take a look at an enemy token:</p>
+
+<ul>
+<li>The number at the top is the Armor of the enemy. It basically means, "You need this much attack to defeat this enemy".</li>
+<li>The number to the left is its Attack. This number is how much Block you will need to counter the attack, or how much damage you will take if you do not block. It is on a fi st icon, because the attack is physical. Later, you will encounter enemies with Ice and Fire attacks, which have different attack icons.</li>
+<li>On the right, there may be an icon showing any special abilities of the enemy.</li>
+<li>Some enemies may have a special defensive ability, such as resistances. These icons are next to the Armor icon of the enemy.</li>
+<li>The number at the bottom is the amount of Fame you gain when you defeat this enemy.</li>
+</ul>
+
+<h4>Challenging with Rampaging Enemies</h4>
+
+<p>To initiate combat, you have to be on a space adjacent to the enemy token. You announce you want to challenge the enemy, and the combat begins.</p>
+
+<p>This counts as your action this turn and you can only do one action on your turn. For example, if you end your movement in a village next to an enemy, you have to decide whether you want to interact with the villagers, or challenge the enemy (or do nothing).</p>
+
+<p>Another way that combat can happen is to provoke the enemy by moving around it - the enemy will attack you and combat starts immediately. This also counts as your action for the turn. See the Movement section above for more on this.</p>
+
+<h4>Combat Outcome</h4>
+
+<p>If you manage to defeat the rampaging enemy, the token is discarded to the appropriate discard pile, and its space is now safe. Whether provoked or challenged, you gain +1 Reputation for defeating any Orc Marauders, as the locals appreciate that you rid them of that menace. Move your Shield token up on the Reputation track (unless you are already on the last +5 space).</p>
+
+<h3>COMBAT DETAILS<h3>
+
+<p>Combats are the most complex events in the game, especially when multiple enemies are involved. It would not be fair to let a player handle it by himself when learning the game. Also, someone should look out for the enemy during combat - it is easy for a player to overlook a special ability.</p>
+
+<p>If a combat happens, the player that was playing before the active player (or the player who knows the game best) should become the Combat manager. They make no decisions for the enemies; it is just their duty to see that everything goes according to the rules.</p>
+
+<p>The Combat manager function is handy during your first games, as you get used to the mechanics. Combat managers are also needed in the final phases of advanced scenarios when players will encounter great battles with many enemies at once, and it is not easy to keep track of all the special abilities and bonuses they have.</p>
+
+<h4>Combat Cards and Abilities</h4>
+
+<p>In combat, you mainly use cards and Units that have "Attack X" or "Block X" abilities. If "Attack or Block X" is written on the card, you can use it either as Attack X or as Block X, but not as both. You play these cards the same way as you play Move or Influence cards: you stack multiple cards together to add up their values, you can power them with mana, and you can play non-Wound cards sideways as Attack 1 or Block 1, etc. Play cards for each phase of combat in a separate column.</p>
+
+<p>There are also some advanced types of Attacks like "Ranged Attack X", "Siege Attack X", "Fire Attack or Block X", "Ice Ranged Attack X", etc. Ranged and Siege Attacks are the only attacks that may be used in the Ranged and Siege Attacks phase. Elemental (Fire and Ice) Attacks are useful if you encounter an enemy resistant to the usual physical Attacks (see later). Until then, treat them as any other Attack.</p>
+
+<p>When a card provides "Attack X", it always means regular (non-ranged) physical Attack. A card played sideways to an attack provides Attack 1 (physical, not ranged attack).</p>
+
+<p>There are also Ice and Fire Blocks. Until we encounter enemies with elemental attacks, treat them as any other Block.</p>
+
+<h4>Combat Phases</h4>
+
+<p>Combat has four phases:</p>
+
+<ul>
+<li>Ranged and Siege Attacks phase - In the first phase of combat, you have a chance to eliminate enemies before they get to you, but only if you have Ranged or Siege Attacks. If you eliminate all enemies in this phase, the combat is over.</li>
+<li>Block phase - If any enemies survived the first phase, they will now attack you. You will have a chance to block the attack. If you do, it does no harm to you.</li>
+<li>Assign damage phase - Any enemies that you did not block will now deal damage to you and/or your Units. You can decide how to assign the damage.</li>
+<li>Attack phase - Now, you can attempt to defeat any remaining enemies with regular Attacks (you can combine them with any Ranged and Siege attacks you didn't use in the first phase). Whether you defeat all the enemies or not, the combat is over after this phase.</li>
+</ul>
+
+<p>So, if you can defeat the enemy with ranged attacks, there are no other phases. If not, you either block its attack or suffer damage, and then you have a chance to kill the enemy with any of your remaining attacks.</p>
+
+<h4>Ranged and Siege Attack Phase</h4>
+
+<p>During this phase, only Ranged and Siege Attacks can be played.</p>
+
+<p>The following diagram shows three correct ways to generate Ranged Attack 5, along with two illegal combination attempts.</p>
+
+<p>In the 1st example, we have combined two Ranged attack effects (from an Action card and from a Unit).</p>
+
+<p>In the 2nd example, we use two Units, one of them with Siege Attack. That's right, we can combine Siege and Ranged Attacks. The result is 6, more than we needed. Note: We had to power one of the Units with mana to use its Siege Attack ability.</p>
+
+<p>In the 3rd example, we used the strong effect of the Concentration card. Note the card says that it strengthens ANY type of Attack by 2, so it can be used to strengthen our Ranged Attack.</p>
+
+<p>The 4th example is not valid since you can't play regular attacks in the Ranged and Siege Attacks phase. The same applies for the 5th example, as cards played sideways provide regular Attack 1, not Ranged or Siege Attack.</p>
+
+<p>If you manage to play Ranged and/or Siege Attacks of value equal to or higher than the Armor of an enemy, it is defeated. Discard the enemy and move your Shield token along the Fame track by as many spaces as the number at bottom of the enemy token. If you crossed the end of the row, you gain a Level at the end of your turn (see the Level Up section later). If you defeat all the enemies you are facing in this phase, the combat is over.</p>
+
+<p>If you can't play Ranged and/or Siege Attacks of value equal to or higher than an enemy's Armor, you should not play them at all, as they have no effect. Damage to enemies between phases is nottracked, you either defeat them in one go or nothing happens.</p>
+
+<p>However, Ranged and Siege Attacks can be played in the regular Attack phase, where you can combine them with regular Attacks to defeat your enemies.</p>
+
+<h4>Block Phase</h4>
+
+<p>Any enemies you have not defeated in the Ranged and Siege Attacks phase are now attacking you! If you manage to block an attack, it does no damage to you.</p>
+
+<p>You can play Blocks (including Fire and Ice Blocks) the same way as any other cards. Note you can also play any non-Wound card sideways as Block 1.</p>
+
+<p>The total value of the Blocks played has to be equal to or higher than the Attack value of the enemy you are attempting to block. If you do not fully block the attack, it goes through at its full strength, as if it were not blocked at all so you should not play them.</p>
+
+<h4>Assign Damage Phase</h4>
+
+<p>If you managed to block all enemy attacks, skip this phase. If not, any attacks that went through will do some damage to your Hero and/or to your Units.</p>
+
+<p>An unblocked attack does damage equal to its Attack value. It is up to you how to assign this damage (whether you put some Units in harm's way, or have your Hero take all the damage), but you must assign the entire damage total from unblocked enemies.</p>
+
+<p>First, you may choose one of your Units and announce you want to assign damage to it. It does not matter whether the Unit is Ready or spent, but it cannot be already Wounded.</p>
+
+<p>If you do so, the Unit gets Wounded - take one Wound card from the Wound pile and put it over the Unit - the Wounded Unit cannot be used again or assigned to take further damage until it is healed (see later). The damage total is then reduced by that Unit's Armor value. If the damage total is reduced to zero or less, the phase is over. If not, we continue to assign the remaining damage.</p>
+
+<p>Important: If you assign damage to a Unit, it gets Wounded irrespective of its Armor. The Armor value just tells you how much to reduce the damage total by after assigning the Unit a Wound.</p>
+
+<p>If any damage remains, you may assign it to another Unit. If you have no more unwounded Units, or if you do not want to assign damage to them, you must assign the rest of the damage to your Hero. This works the same way as it did with Units, except it can be done repeatedly - you take one Wound card from the Wounds pile to your hand, and the damage is reduced by the Armor value of your Hero (which is 2 at the start of the game - see your current Level token). If this reduces the damage to zero or less, the phase is over. If not, repeat the process (by taking another Wound card and reducing the damage by your Armor again), until all damage has been assigned. See the Healing section later for how to get rid of the Wound cards in your hand.</p>
+
+<p>Important: If you assign damage to your Hero, you will take a Wound irrespective of your Armor. The Armor value shows how much you reduce the damage by after you have taken a Wound.</p>
+
+<p>Note: When taking damage to your Hero, you can divide the damage value by your Hero's Armor, and round up to quickly determine how many Wound cards you take.</p>
+
+<p>Examples: Let's say you are fighting an enemy with attack value 5. You have not blocked the attack, so you have to assign 5 damage to yourself and/or your Units.</p>
+
+<p>If you appoint a Unit with Armor 5 to take damage, the Unit gets wounded, and the phase is now over since all the damage was assigned. The same would happen if your Unit had Armor 7 - once you assign damage to a Unit, it gets Wounded no matter how the damage compares to the Unit's Armor.</p>
+
+<p>If you appoint a Unit with Armor 4 to take damage, it gets Wounded, and there is still one point of damage left. You can now appoint any other Unit to take the remaining point of damage. It gets Wounded too, and the damage total is reduced to zero by its Armor.</p>
+
+<p>If you do not have any undamaged Units (or do not want to Wound them), the damage must be assigned to your Hero. Let's assume they still have an Armor of 2. Take one Wound card to your hand, and the damage is reduced to 3. Take another Wound, and the damage is reduced to 1. Take a third Wound, and the damage is reduced below zero - the phase is over. If your Hero were level 3, their Armor would be 3, so they would only need to take two Wound cards to absorb the damage.</p>
+
+<p>And finally, you can assign damage to both a Unit and your Hero.</p>
+
+<p>For example, you appoint a Unit with Armor 4 to take damage, and it gets Wounded. 1 point of damage remains, which you assign to your Hero, so you take one Wound to hand and you are done.</p>
+
+<h4>Resistant Units</h4>
+
+<p>If there is this icon next to a Unit's Armor, it means it has physical resistance. When you assign damage to such a Unit, the damage is first reduced by the Unit's Armor. If this reduces the damage to zero or below, the Unit is not Wounded. If not, we continue as normal - the Unit gets Wounded, and the damage is reduced once more by its Armor.</p>
+
+<p>Example: These Guardian Golems have Armor 3 and physical resistance. If you assign 3 or less physical damage to them, nothing happens, as it will be absorbed before it does any harm. If you assign 4 or more damage to them, they will get Wounded.</p>
+
+<p>If, for example, you have 8 total damage to assign, you could assign 6 to the Guardian Golems, they get Wounded, and then 2 damage would be left over to be assigned elsewhere.</p>
+
+<p>Note: Imagine we face an Attack of 5 and the Guardian Golems are the only Unit we have. It would be most advantageous to assign 2 points of damage to our Hero, and let the remaining 3 to be absorbed by the Golem's resistance. This is not possible, though. We have to assign damage to Units first. If we choose our Golems, they absorb all 5 points of damage, and become Wounded.</p>
+
+<h4>Attack Phase</h4>
+
+<p>Now, it is time to finish the enemy. You can play any Attacks of total value equal to or greater than the enemy's Armor to defeat it and gain the Fame.</p>
+
+<p>Note: In this phase, you can also play Ranged and Siege Attacks and combine them with normal Attacks, and you can also play any non-Wound card sideways as Attack 1.</p>
+
+<h4>Special Abilities of Enemies</h4>
+
+<p>The following abilities do not need to be looked at in detail to continue with the game, but can be referred to when the relevant enemy tokens are revealed.</p>
+
+<p>Defensive Abilities</p>
+
+<p>Fortified - only Siege Attacks can be used during the Ranged and Siege Attacks phase against Fortified enemies. This is the difference between Siege Attack and Ranged Attacks.</p>
+
+<p>Against an enemy that is not Fortified, Siege Attacks have the same effect as Ranged Attacks, and they may be mixed together.</p>
+
+<p>As you probably have no Siege Attacks early in the game, you won't be able to destroy Fortified enemies in the first phase of combat. You have to either block their Attack first or take damage, and then you can kill them in the Attack phase. In the Attack phase, any attack works against them (regular, Siege and Ranged), fortifications have no effect anymore.</p>
+
+<p>Physical resistance - these enemies are resistant to physical damage. When attacking them, the total value of your Attacks is halved (round down), except for Fire or Ice attacks. Take a look at these Ironclad Orcs: they have Armor 3, but they have physical resistance. To kill them with physical Attacks, you would need Attack of 6, as the total value of your Attacks is halved. However, an Ice Attack of 3 or Fire Attack of 3 would work, as the resistance applies only to physical Attacks. You can also combine Attacks - for example a Fire Attack of 2 and physical Attack 2 (which may be two cards played sideways), would suffice: The physical Attack is halved, but Fire counts in full.</p>
+
+<h4>Attack Abilities</h4>
+
+<p>Some enemies have special abilities that apply in the Block phase:</p>
+
+<p>Swift - If an enemy is swift, it is harder to block. To block the attack of a swift enemy, you need to play Blocks equal to twice (or more) its Attack value. This means a swift Attack of 3 can either be blocked by Block 6, or you can let it through and it does 3 damage in the next phase.</p>
+
+<p>Brutal - If an enemy is brutal, it is very dangerous. If you fail to block such an attack, it does double damage in the next phase. This means a brutal Attack of 3 can either be blocked by Block 3, or it goes through as 6 points of damage.</p>
+
+<p>Poisonous - If an enemy is poisonous, the Wounds taken from it have side effects. When a Unit gets Wounded by such an enemy, two Wound cards are put over it (and it has to be Healed twice to recover - see Healing section later). If a Hero gets Wounded by a poisonous enemy, for each Wound card that goes to their hand, another Wound card is put in their discard pile. These represent the delayed effect of poison - they do nothing now, but they will show themselves in future rounds.</p>
+
+<p>Paralyzing - it is extremely dangerous to not block the attack of a paralyzing enemy. A Unit wounded by such an enemy is immediately destroyed (remove from the game). If a Hero takes one or more Wounds, the player immediately discards all non-Wound cards from their hand. That means they will be not able to fight back, unless they have some Ready Units to use.</p>
+
+<h4>Summon Attack</h4>
+
+<p>Some enemies have no Attack value - they have the Summon Attack icon instead. These enemies do not attack personally, but they are able to summon a monster to attack you instead.</p>
+
+<p>If you destroy one of these enemies during the Ranged and Siege Attack Phase, ignore the icon as the enemy is already defeated. If not, then at the start of the Block phase, the enemy summons a monster - draw a random token from the brown enemy pile to see what is summoned. The summoned monster then replaces the summoning enemy for the Block and Assign damage phase: that means, you either block its attack, or face the damage it deals. Any special abilities of the summoned monster apply.</p>
+
+<p>Whether you blocked the monster or took damage, the monster disappears - discard its token and do not score any Fame. In the Attack phase, you will be attacking the original enemy again.</p>
+
+<p>When you first reveal an Orc Summoner, you should show a few brown tokens to the players you are teaching. Especially warn them about paralysis, and explain the Knock-out rule (because of Minotaurs), as new players should be aware of the dangers that they may face.</p>
+
+<h4>Knock-out</h4>
+
+<p>If, during one combat, your Hero takes a number of Wounds equal to or greater than their unmodified Hand limit (the number on your Level token), they are immediately knocked out and you discard all non-Wound cards from your hand (like when paralyzed).</p>
+
+<p>Keep track of the number of Wound cards your Hero takes during a combat. (There are some cards that harm the Hero who uses them - these count towards a Knock-out too, if used during combat.) Wounds already in your hand at the start of the combat do not count towards this total.</p>
+
+<p>When explaining this to players, you should show them the Minotaur brown enemy token. Let them work out what it does when unblocked with their starting stats (Armor 2, Hand limit 5).</p>
+
+<h4>Combat Example</h4>
+
+<p>The following diagram shows four ways to deal with a Wolf Riders enemy token. You should be able to understand this example without a detailed explanation.</p>
+
+<ul>
+<li>Ranged Attack 5 (4 would be enough)</li>
+</ul>
+
+<ul>
+<li>Block 6</li>
+<li>Attack 4</li>
+</ul>
+
+<ul>
+<li>Peasants (Armor 3) get wounded</li>
+<li>Attack 4</li>
+</ul>
+
+<ul>
+<li>Player gets 2 Wounds to their hand (Hero has Armor 2)</li>
+<li>Attack 4</li>
+</ul>
+
+<h3>HEALING</h3>
+
+<p>We just saw how easy it is to take Wounds. It is not so easy to get rid of them.<p>
+
+<h4>Wound Cards</h4>
+
+<p>As described earlier, Wound cards in your hand are completely useless and cannot be discarded under normal circumstances. They clog up your hand, counting against your Hand limit.</p>
+
+<p>Even if you manage to discard them (see Resting), they still remain in your deck, so you will eventually draw them again during the next Round.</p>
+
+<p>There are other ways for Wounds to get into your deck, such as poisonous attacks. Also, if you have any Wounds in your hand at the End of the Round, they get shuffled together with your other cards. A deck stuffed with Wound cards is slow and ineffective. That's a good reason to get rid of any Wound cards in your hand as soon as possible - through Healing.</p>
+
+<h4>Wounded Units</h4>
+
+<p>A Wounded Unit cannot be activated or assigned damage again.</p>
+
+<p>It is completely useless until it is Healed (or replaced by a fresh, healthy one).</p>
+
+<h4>Getting Healing Points</h4>
+
+<p>Fortunately, some cards and Unit abilities provide Healing points (Heal X means you get X Healing points).</p>
+
+<p>You can play these effects at any point during your turn, except during combat (it is not possible to heal a Unit wounded during the Assign Damage phase in order to use it in the Attack phase of the same combat). You play them as you would any other cards - they may be stacked together or powered by mana to provide stronger effects. Other cards may not be played sideways for extra Healing points.</p>
+
+<p>Healing points may also be combined with healing bought in a village - see the Interaction in a village section.<p>
+
+<p>As a result, you will have an amount of Healing points: for example, you play a card that provides Heal 1, activate a Unit that provides Heal 2, and buy 3 heals for 9 Influence points in the village - you have 6 total Healing points. Now, you can spend them.</p>
+
+<h4>Spending Healing Points</h4>
+
+<p>For one Healing point, you can get rid of one Wound card from your hand. Return it to the Wound pile. You can only heal Wound cards you have in your hand (not ones in your discard pile or Deed deck).</p>
+
+<p>You can also heal Wounded Units. To do this, you must spend Healing points equal to the level of the Unit (the roman numeral in the upper-right corner of the Unit card). Remove a Wound card from it and return it to the Wound pile. If a Unit has two Wound cards on it (because it was damaged by a poisonous attack), you have to Heal it twice to completely Heal the Unit.</p>
+
+<p>It is up to you how you spend Healing points; you can heal several Wounds from your hand, heal one or more Units, or divide the Healing however you choose.</p>
+
+<h3>RESTING</h3>
+
+<p>You can decide to Rest instead of taking a regular turn, especially when you have some Wound cards in your hand and no way to heal them.</p>
+
+<p>When Resting, you can't move, and you can't take any actions (such as interactions or combat). You are allowed to play Special and Healing cards and effects and may also use a space which provides a benefit at the end of the turn (such as Crystal Mines or Magical Glades.)</p>
+
+<p>In addition, you have to discard one non-Wound card, and any amount of Wound cards. Beware, this is not the same as healing, the cards go to your discard pile; old Wounds show up again later.</p>
+
+<h4>Exhaustion</h4>
+
+<p>A Hero is exhausted when they have nothing but Wound cards in their hand at the start of their turn. In such a case, they reveal their hand, and all they can do with their cards this turn is discard one Wound.</p>
+
+<p>They do not lose their turn however, and may use healing and special abilities of their Units, but as with regular Resting, they cannot move or take an action. If they are on a space that provides a benefit at the end of the turn, they can still use it.</p>
+
+<h3>MAGICAL GLADE</h3>
+
+<p>The Magical Glade has two effects:</p>
+
+<h4>Healing Essence</h4>
+
+<p>If you end your turn here, you can throw away one Wound card from your hand or from your discard pile. Note that this is not regular healing - you cannot use it to heal Units. However, it does allow you to search your discard pile for a Wound card - which is not possible with regular healing.</p>
+
+<h4>Imbued with Magic</h4>
+
+<p>If you start your turn here, you get a gold mana token. Take a token from the bank. You have to use it before the end of the turn, or it disappears.</p>
+
+<p>At Night, you take a black mana token instead. You will learn what they are for when the first Night comes.</p>
+
+<h3>CRYSTAL MINES</h3>
+
+<p>Mines are easy to use - if you end your turn on a mine, you get a crystal of the corresponding color (green in the case of mine that is revealed now). Put it in your Inventory. Note that this happens after you announce the end of your turn, so you can't use the crystal this turn.</p>
+
+<p>You can get more crystals if you stay on a mine for consecutive turns. Note: you can't have more than 3 crystals of the same color in your Inventory at a time.</p>
+
+<p>Also note that if you announce the End of the Round, you do not play your turn, and you get nothing from the mine, neither can you throw away a Wound on a Magical Glade.</p>
+
+<h3>REVERTING</h3>
+
+<p>The game offers many options for how to play your turn. Players should be allowed to change their minds and take back cards or actions. If you insist on holding a player to their moves, and not allowing any take-backs, the game can be much slower as players will have to devote much more time to planning out their turns. It is much easier for a player to try and combine the cards and mana on the table in front of them, play their turn, change their mind, and do it again a different way.</p>
+
+<p>However, there are some things you cannot take back. Whenever you reveal any new information (for example, exploring the map, drawing a card, or revealing a hidden enemy token), you cannot undo that action, or go back and change any actions prior to that event. The same applies for any action that involves a random element (such as a die roll).</p>
+
+<p>Example: You play a Move card powered by a mana die from the Source to reveal a map tile. You see there is a village on the new tile right next to you and you would like to take back the spent mana and instead play more Move cards from hand, so that you can use a different mana die to help you recruit a Unit from the village. However, you cannot undo that previous action now, since you revealed new information.</p>
+
+<p>On the other hand, imagine you used mana to move toward an Orc Marauders, challenge them to a fight, and then realize you need that mana for combat. You can change the combination of cards and abilities you used to move to the space, or even to decide to do something entirely different, since you have not revealed any new information.</p>
+
+<h2>VI. LET'S START NOW</h2>
+
+<p>Players should now know enough to start the game. They understand how to play their turns, and know how to deal with the sites on the revealed part of the map. They can choose Tactics and start to play the first turn. They do not need to know more rules right now.</p>
+
+<h4>Tactics</h4>
+
+<p>Players choose their Tactics in the order determined by the Round Order tokens, which were randomly sorted during setup. The player whose token is last has the first pick. (In subsequent Rounds, the player with lowest Fame picks first, the Round Order tokens are used only to break ties.)</p>
+
+<p>Players pick Tactics after setup, when all relevant information has been revealed: available Units have been revealed, the monsters on the map are known, the mana dice in the Source have been rolled, and each player knows the contents of their starting hand.</p>
+
+<p>Players should take time to read the Tactic cards now - most of them have an effect or ability, and each player will want to pick one that is suitable for their situation. Generally, the higher the number on the card, the bigger the advantage it gives (but the later that player will get to take their turn during the Round).</p>
+
+<ul>
+<li>Some of these effects apply immediately when taking the card: do what is stated on the card. Once the player order is determined, you can flip the card face down so the text does not distract you.</li>
+<li>Some can be used once per Round - keep cards like this face up in front of you. Once you use its ability, flip it face down to mark it as used.</li>
+<li>Some of them give a permanent advantage (each turn). Keep them face up in front of you for the entire Round.</li>
+</ul>
+
+<p>Once all players have their Tactic cards, rearrange the Round Order tokens according to the Tactic numbers, with the lowest number on top. That's the play order for this entire Round.</p>
+
+<h3>Playing</h3>
+
+<p>The player with the topmost Round Order token can start their turn. During the first few turns, all players should watch carefully what the current player is doing, to ensure they understand the rules.</p>
+
+<p>Whenever you reveal a new Map tile, check chapter VII. Revealing New Tiles. There is a more detailed description of the new sites on that tile, and also new rules that might relate to those sites.</p>
+
+<p>When something extraordinary happens, check chapter VIII.</p>
+
+<p>These situations include:<p>
+
+<ul>
+<li>When a player advances to a new level.</li>
+<li>When the Round ends.</li>
+<li>When someone decides it is a good time to attack another player (if you allow it).</li>
+</ul>
+
+<p>When the city is revealed, each player plays their last turn, and the game is over. Proceed with the instructions in chapter IX, End of the Game.</p>
+
+<h3>(-: GOOD LUCK, AND HAVE FUN :-)</h3>
+
+<h2>VII. REVEALING NEW TILES</h2>
+
+<h3>REVEALING THE KEEP (TILE 3)</h3>
+
+<p>Find and read the Keep Description card.</p>
+
+<p>When a keep is revealed, place a gray enemy token face down on its space. If a player moves to a space adjacent to the keep during a Day Round, reveal that token. It remains face up, even at Night. If the token is not revealed before Night comes, it remains face down all Night unless someone assaults the keep.</p>
+
+<p>The gray token represents the garrison of the keep. Unlike rampaging enemies, the garrison just sits behind the walls of the keep. It does not limit movement to adjacent spaces, and you cannot attack them from an adjacent space. To fight them, you have to move onto the space and assault the keep.</p>
+
+<h4>Assault</h4>
+
+<p>When you enter a space with a Fortified site (a keep, mage tower, or city) during movement, you must assault the site (in this case, the keep). Your movement immediately ends, and you have to fight the defenders. This means that you cannot pass through unconquered Fortified sites without interrupting your movement.</p>
+
+<p>Contrary to defeating rampaging enemies, assaulting a Fortified site is not something that is perceived positively by the locals - each assault causes you to get Reputation -1.</p>
+
+<p>Then, a combat is fought. If you defeat the enemy, not only do you get Fame for defeating them, but you also conquer the keep and become the new owner. Put one of your Shield tokens there to mark that you were the player that conquered this keep. Only you can benefit from this keep.</p>
+
+<p>If you fail to defeat the enemy, your assault failed. You return to the space from where you moved to the keep. You can try another assault next turn (but you get another Reputation -1).</p>
+
+<h4>Fortified Enemies</h4>
+
+<p>Enemies in a keep are Fortified, as if they had the "Fortified" symbol on their token. Ranged Attacks cannot target these enemies during the Ranged and Siege Attacks phase. To defeat them, you either have to use Siege Attacks only, or you have to wait until the Attack phase (in the Attack phase, any Attacks can be used against them, including Ranged Attacks).</p>
+
+<p>If the enemy defending a keep also has the Fortified ability on its token, it is Fortified twice - even Siege attacks cannot be used against it during the Ranged and Siege Attacks phase.</p>
+
+<h4>Assault and Rampaging Enemies</h4>
+
+<p>Assaulting is part of movement. If the move that results in an assault fulfills the conditions of provoking rampaging enemies (i.e. when both the space you are assaulting from and site you are assaulting are adjacent to that monster), the provoked enemies will join the battle, and you have to battle both them and the garrisoned enemies. Provoked enemies do not gain the benefits of being Fortified fromthe site you are assaulting and you are not required to defeat the rampaging enemies in order to conquer the keep.</p>
+
+<p>It is recommended that you challenge and defeat any rampaging enemies first and postpone your assault to a later turn, or to move in a way that does not provoke them. If you dare, you can try to fight both - see the Revealing Ruins section of this chapter for how to fight multiple enemies at once.</p>
+
+<h4>Owning a Keep</h4>
+
+<p>If you conquer a keep, put your Shield token on it. Your keeps give you two benefits:</p>
+
+<p>First, you can recruit Units with the keep icon here. This is done through interaction, like at a village. You can't recruit a Unit on the same turn that you conquer a keep, since assaulting the keep uses your action for the turn.</p>
+
+<p>Second, your keeps provide supplies to you. If you end your turn in or adjacent to a keep that you own, your Hand limit is temporarily increased by 1 for each keep you own. This allows you to draw more cards at the end of your turn. For example, if you own three keeps anywhere on the map, your Hand limit is 3 higher than what is printed on your level token (if you end your turn in or adjacent to one of your keeps.)</p>
+
+<h4>Assaulting an Enemy Keep</h4>
+
+<p>Players can assault keeps that have already been conquered. If the keep owner is in their keep, it would be considered to be an attack against that player (see Player vs. Player Attack later).</p>
+
+<p>If the owner of the keep is not there, draw a random gray enemy token when assaulting the keep. This is the garrison and you fight them the same way as when assaulting a neutral keep (they are Fortified). If you defeat them, you only get half of the Fame for these enemies (round up), but the keep is now yours - remove the other player's Shield token and replace it with your own. If you do not succeed, discard the enemy token and a new random gray enemy will be drawn to defend the keep the next time it is assaulted. Return to the space you were attacking from.</p>
+
+<p>Every attempt to assault a keep of another player (whether its owner is present or not) still causes you to get Reputation -1.</p>
+
+<h3>REVEALING A MAGE TOWER (TILE 4)</h3>
+
+<p>Find and read the Mage Tower Description card.</p>
+
+<p>Neutral mage towers behave the same way as neutral keeps, except there is a violet enemy token garrisoned instead of a gray one. As with the keep, this token will be revealed when someone gets close during the Day, but will stay hidden at Night unless a player assaults it.</p>
+
+<p>The rules for assaulting a mage tower are the same as for assaulting a keep, including the fact that defenders are Fortified and you get Reputation -1. Note the mage tower you just revealed is in a desert - during the Day, you need Move 5 to assault it.</p>
+
+<h4>Spell Offer</h4>
+
+<p>When you reveal the first mage tower, you should also prepare the Spell offer - flip over the top three cards of the Spell deck and put them in a column underneath it.</p>
+
+<p>Note: In subsequent games, the Spell offer is revealed at the start of the game, but during the first game, it is better to do it this way so that players will have less cards to examine during setup and you will avoid answering unnecessary questions such as "what are these for and how do I get them?"</p>
+
+<h4>Conquered Mage Towers</h4>
+
+<p>When you conquer a mage tower, put your Shield token on it. Contrary to keeps, this does not mean the tower is yours; it just reminds everyone that you broke the resistance of their garrison.</p>
+
+<p>As a reward for conquering a mage tower, you gain one Spell from the Spell offer at the end of your turn.</p>
+
+<p>Once conquered, the mages are willing to cooperate with anyone - any player can interact in a conquered tower, regardless of who conquered it.</p>
+
+<h4>Recruiting</h4>
+
+<p>It is possible to recruit Units with the mage tower icon here, following the usual Unit recruitment rules.</p>
+
+<h4>Buying Spells</h4>
+
+<p>In addition, you can buy Spells here. You can buy any Spell in the Spell offer. You have to pay 7 Influence points, and also one mana of the same color as the spell you want to buy. It is not easy to buy spells! Remember, you can use only one mana from the Source, so you either have to generate 7 Influence points without using mana, or you have to find a way of using more mana on your turn.</p>
+
+<p>Take the chosen Spell and put it on top of your Deed deck. This means the Spell comes to your hand soon (probably at the end of you turn) and you can use it later this Round.</p>
+
+<p>Then reveal another card from the top of the Spells deck, so there are three Spells in the Spell offer. The newly revealed Spell always goes to the topmost position of the offer column - before adding it, you should shift the other spells down, to fi ll the gap of the one you took.</p>
+
+<h4>Gaining a Spell as a Reward</h4>
+
+<p>As with any other reward for combat, you pick your Spell at the end of your turn. This is to speed up the play of the game - you can take your time to read the Spells in the offer and make your decision while other players take their turns.</p>
+
+<p>A Spell gained as a reward go to the top of your Deed deck, the same as if you bought it through interaction (except you pay no Influence or mana for it). Once you choose, replenish the offer, and shift the remaining cards down as needed.</p>
+
+<p>You claim your rewards before drawing new cards, so the new Spell will likely be drawn right away.</p>
+
+<h4>Casting Spells</h4>
+
+<p>Spells are very powerful cards. Even their basic effect requires mana to use. To cast its stronger effect, you need two mana - one of the Spell color, and one black. That means the stronger effect of a Spell can only be cast at Night, since black mana cannot be used during the Day. Even then it is not easy, since if you use a black mana die from the Source, you will have to provide the other mana from your own reserves.</p>
+
+<p>Even the most powerful Spell cards, however, can be played sideways as Move 1, Influence 1, or Attack or Block 1.</p>
+
+<h4>Violet Enemies</h4>
+
+<p>To assault a mage tower, you have to defeat a violet enemy.</p>
+
+<p>Violet enemies are mostly groups of mages and golems.</p>
+
+<p>Mages often use Fire or Ice Attacks, and both mages and golems are resistant to some elements. When a mage tower is revealed for the first time, show a few violet tokens to the players and explain how they work. Then shuffle them and place one face down as the garrison for that mage tower.</p>
+
+<h4>Colors of Attack</h4>
+
+<p>All enemies you have encountered so far have used physical Attacks (the attack number was on a gray fi st icon). Now, you will face Fire and Ice Attacks.</p>
+
+<p>This icon means you are facing a Fire Attack. It works like a regular attack, except that:</p>
+
+<ul>
+<li>The only type of Block that is fully efficient against a Fire Attack is an Ice Block. If you use normal Blocks (including cards played sideways), or Fire Blocks, they are inefficient and their total value is halved (rounded down).</li>
+<li>If assigning damage from a Fire Attack to a Unit, it works the same way, except that a Unit with Physical resistance gets no benefit. Against a Fire Attack, only Units with Fire resistance are resistant (Fire resistance against Fire Attacks works just like Physical resistance versus physical Attacks).</li>
+</ul>
+
+<p>Ice Attacks work just like Fire Attacks, except that only Fire Blocks are fully efficient against them (the others are halved), and only Ice Resistance applies when assigning damage to a Unit.</p>
+
+<p>Remember: The best way to counter an elemental attack is to play Blocks of the opposite element, or (if you do not block it) to have Units resistant to the same element.</p>
+
+<p>Example: Imagine we are facing an Ice Attack of 5. To block it we can play a total of Fire Block 5, or any combination of Block 10 (regular or Ice). We can also combine Fire and non-Fire Blocks - for example, if we play Fire Block 3, and then Block 4 (including cards played sideways). The non-Fire Block gets halved to 2, but this is still just enough.</p>
+
+<p>If we do not block it and we want to assign the damage to a Unit, the best way is to use a Unit with Ice resistance. If it has at least Armor 3, it will absorb all the damage (3 damage will be soaked up by the resistance and then the rest will Wound the Unit) - and if it has Armor 5 or more, it will be not even be Wounded by the attack!</p>
+
+<h4>Enemy Resistances</h4>
+
+<p>You have already encountered Physical resistance on an enemy.</p>
+
+<p>Now we encounter enemies that are resistant to Fire, Ice, or even multiple types of Attack.</p>
+
+<p>All resistances work the same way - the total value of all Attacks the Unit is resistant to get halved, rounded down. For example, to defeat the Ice Golems shown here, Fire Attack of 4 would be enough by itself. But if you use physical and/or Ice Attacks, you would need an Attack total of at least 8 to defeat it.</p>
+
+<h4>Resistance to Special Effects</h4>
+
+<p>Ice and Fire resistances on enemy tokens have an additional effect - they are also immune to special combat effects of that color.</p>
+
+<p>Whenever a red card (or a Unit ability paid for with red mana) says that something happens to an enemy, enemies with Fire resistance cannot be chosen as targets for this effect. Whenever a red card (or red text on a Unit) applies an effect to "all enemies", enemies with Fire resistance are not affected by it.</p>
+
+<p>The same applies for blue cards (or Unit abilities paid for with blue mana) and Ice resistant enemies.</p>
+
+<p>This applies to special combat effects only, not for Attacks. Note the difference:</p>
+
+<ul>
+<li>Attack 4 is physical Attack, even if it is on a red card, and it works fully against enemies resistant to Fire.</li>
+<li>Fire Attack 4 is a Fire Attack, and its efficiency is halved when used against enemies resistant to Fire.</li>
+<li>"Destroy target enemy" or " all enemies get Armor -1" are special effects, and if they are on a red Action card, or a red Spell card, they do not affect enemies resistant to Fire at all.</li>
+<li>The Demolish Spell's first effect (Ignore site fortifications this turn) works against enemies resistant to Fire as it targets the site fortifications, not the enemy itself. The second effect (Enemies get Armor -1) does not affect enemies resistant to Fire.</li>
+</ul>
+
+<h2>REVEALING A MONASTERY (TILE 5)</h2>
+
+<p>Find and read the Monastery Description card.</p>
+
+<p>Any player can recruit Units with the monastery icon and get healed here. In this respect, a monastery is kind of like an improved village.</p>
+
+<h4>Training</h4>
+
+<p>When a monastery is revealed, you immediately draw one card from the Advanced Action deck and put it in the Unit offer (not the Advanced Action offer). This is the monk's knowledge and it can be learned at any monastery.</p>
+
+<p>You can learn one of these Advanced Actions through interaction - the cost is 6 Influence points. If you buy it, put it on top of your Deed deck (you will probably draw it at the end of your turn).</p> 
+
+<p>You can buy multiple Advanced Actions this way in a single turn, provided there are multiple available (in case there are a few monasteries on the board) and you can generate enough Influence to pay for them.</p>
+
+<p>Advanced Actions in the Unit offer do not get replenished until the start of the next Round.</p>
+
+<p>If any Advanced Actions are left in the Unit offer at the End of the Round, they are discarded to the bottom of the Advanced Actions deck, and a new Advanced Action is added to the Unit offer for each monastery on the map (excluding any that have been burned down).</p>
+
+<h4>Burning the Monastery</h4>
+
+<p>While in a monastery, you may decide to try to burn it down as your Action for the turn (if you haven't already taken your action for the turn - and especially not after interacting in the monastery!). To do so, announce your attempt. You immediately get Reputation -3.</p>
+
+<p>There is always someone willing to defend the monastery - draw a random violet enemy token, and fight it. Your Units will not help you in this combat, as they feel what you are doing is very wrong - you can neither activate them and use their abilities, nor assign damage to them.</p>
+
+<p>If you win the combat, you gain an Artifact at the end of your turn (see later), and the monastery is burned to ashes. Mark the space with one of your Shield tokens. From now on, it has no function, as if it is an empty space. (You do not remove the Advanced Action added to Unit offer by this monastery, as it still can be learned elsewhere, but you do not add a new Advanced Action for this monastery at the start of the next Round.)</p>
+
+<p>If you fail, nothing happens, and only the position of your Reputation token (and perhaps a few Wounds in your hand) reminds you of what you attempted to do.</p>
+
+<h4>Gaining Artifacts</h4>
+
+<p>Gaining an Artifact always happens at the end of your turn, so you do not slow down the game.</p>
+
+<p>Draw two cards from the Artifacts deck, and look at them. Choose one of them and put it on top of your Deed deck. Return the other Artifact card to the bottom of Artifacts deck.</p>
+
+<p>If you would ever gain more than one Artifact during your turn, draw that many cards from the Artifact deck, plus one. Put the ones you wish to gain on top of your deck in any order, and return the remaining one to the bottom of the Artifact deck.</p>
+
+<h4>Using Artifacts</h4>
+
+<p>Newly gained Artifacts are put on top of your deck, so you will have them in your hand very soon. There are several ways that Artifacts can be used:</p>
+
+<ul>
+<li>The upper part of the Artifact describes its basic effect. Play this just like you would any other card. At the end of your turn, you discard it with the other cards played during the turn.</li>
+<li>Or, you may decide to invoke the ultimate ability of the Artifact by playing the lower effect. Doing so destroys the Artifact, and it is thrown away after use.</li>
+<li>Even a mighty Artifact may be played sideways as Move 1, Influence 1, or Attack or Block 1, and then normally discarded at the end of the turn.</li>
+</ul>
+
+<h5>Banners</h5>
+
+<p>Banners are special types of Artifacts. Their ultimate ability works the same - you can throw it away for the described effect.</p>
+
+<p>The upper part works differently. It does nothing by itself, but you can assign the Banner to any Unit. The Unit then gets the bonuses or effects indicated on the banner. Some banner abilities can only be used once each Round - flip them face down when they are used. Flip them face up at the start of the next Round.</p>
+
+<p>When a Banner is assigned to a Unit, it remains assigned to it until the End of the Round. At the End of the Round, you may decide either to keep the Banner with the Unit for the next Round, or you can shuffle it back into your Deed deck. If you disband the Unit or if it gets destroyed, put the Artifact in your discard pile. You can use it again if you draw it (most likely in a later Round).</p>
+
+<p>Each Unit can hold only one Banner. If you want to assign a Banner to a Unit that already has one, discard the Banner it is holding and replace it with the one you wish to assign.</p>
+
+<p>Note: while it is assigned to a Unit, you cannot use the Artifact's ultimate ability.</p>
+
+<h3>REVEALING A MONSTER DEN (TILE 6)</h3>
+
+<p>Find and read the Monster Den Description card.</p>
+
+<p>This is the first adventure site we have encountered.</p>
+
+Unlike rampaging enemies or Fortified sites (keeps or mage towers), players may completely ignore an adventure site, even when on that space. As long as you do not announce that you are entering the monster den, you can treat the space as if it were empty.
+
+You may announce that you are entering the monster den as your action for the turn (if you have not already taken another action - like fighting a rampaging enemy). If you do, draw a brown enemy token and fight it.
+
+If you win, mark the space with a Shield token to remember it was you who accomplished this adventure. The monster den is conquered and has no other meaning for the rest of the game. As a reward, you get two random crystals (as with any reward, you claim it at the end of your turn). Roll a spare mana die (not one that is active in the Source) twice, to see what you get. If you roll gold, you may choose which basic color to take (even at Night). If you roll black, you get Fame +1 instead of the crystal for that roll.
+
+If you do not defeat the enemy, you remain in the space. Return the undefeated enemy token face up to the Monster Den space. It should not be confused with active enemies (rampaging monsters or garrisoned Units that have been revealed), but if you prefer, you could return it face down. If you do, then anyone can look at the token at any time.
+
+Remember: A monster den, as well as any other adventure sites we will mention later, share a common rule: you may ignore them, i.e. you may move through their space or end your turn on that space without fight, even if there is an undefeated enemy token on that space, if you wish.
+
+Also note: You gain Reputation when defeating rampaging enemies. You lose Reputation when assaulting Fortified sites. And you neither gain nor lose Reputation when entering an adventure site - locals do not care about it.
+
+REVEALING A DUNGEON (TILE 7)
+
+Find and read the Dungeon Description card. No enemy tokens are placed here (for now).
+
+This is another adventure site, so like the monster den, you can ignore a dungeon even if you are on its space. You may enter it as your action for the turn.
+
+When entering a dungeon, draw a random brown enemy token to fight. However, there are two conditions for this combat:
+
+- You must fight it alone, since any Units you control refuse to enter the dungeon with you - they are waiting upstairs. You can't use their abilities or assign damage to them for this combat.
+- In a dungeon, Night rules apply, even if it is a Day Round. This means that you cannot use gold mana, but you can use black mana to cast the stronger effect of Spells. (Read the Night rules to everyone now if you revealed this tile before the end of the first Day.)
+
+If you defeat the enemy, mark the dungeon with a Shield token to remember it was you who accomplished this adventure. At the end of your turn, claim your reward. Roll a mana die. If gold or black is rolled, gain a Spell; if any other color is rolled, gain an Artifact. (See Gaining Spells in the Revealing a Mage Tower section and Gaining Artifacts in the Revealing a Monastery section - both these sections you should know already.)
+
+If you fail, nothing happens. Discard the enemy token. Next time someone enters the dungeon, a new enemy will be drawn for that player to fight.
+
+Conquered Dungeons
+
+Even if a dungeon is marked with a Shield token (it was conquered, explored and looted by a player), it can be explored again (by the same or a different player). If you do, you fight a random brown enemy under the same combat conditions, but you do not mark the dungeon and you gain no reward; just the Fame for defeating the monster, as always.
+
+REVEALING RUINS (TILE 8)
+
+Find and read the Ruin Description card.
+
+Ruins are another adventure site where you may move into the space and choose to ignore the site or enter it. But beware, Ruins can contain... well... anything; including the most challenging adventures that can be found in the land.
+
+When revealed, place a yellow ruins token there. If it is Day, place the token face up - if it is Night, place it face down. A face down token does not get revealed until the start of a Day Round, or until someone moves into the space.
+
+Ruins contain two different types of adventure for you to complete:
+
+Ancient Altar
+
+You encounter an ancient altar of some forgotten god. In this case, the token depicts three mana of a particular color. You may activate the altar by paying three mana of that color. If you do, gain 7 Fame immediately, discard the ruins token and mark the space with a Shield token to remember it was you who accomplished this adventure. If you cannot or do not want to pay the three mana, nothing happens.
+
+Enemies With Treasure
+
+There may be a secret and well-guarded treasure hidden in the ruins. In this case, the ruins token depicts two enemy tokens and a reward.
+
+When entering such a ruin, you have to draw the depicted enemies and fight them. If you fail to defeat both enemies, nothing happens. The undefeated enemies remain on the space (you may keep them face up, but keep the ruins token at least partially visible, so they do not get confused with rampaging enemies or garrisons). Defeated enemies are not replaced.
+
+Whoever defeats the last enemy removes the ruins token and marks the space with a Shield token. At the end of their turn, they claim the depicted reward.
+
+Note: Orcs and Draconum enemies encountered in ruins are not worth reputation when defeated.
+
+Rewards
+
+The rewards may include:
+- Artifact card - A real treasure! You already know how to gain an Artifact (see the Revealing a Monastery section).
+- Spell card - A magic tome was hidden there. You gain a Spell the same way you did when conquering a mage tower (see the Revealing a Mage Tower section).
+- Advanced Action - The defeated enemies guarded some secret knowledge here. Take one Advanced Action from the Advanced Action offer (not one of the ones in the Unit offer from a monastery) and replenish the offer (shifting the cards down and adding the new one to the top).
+- Set of four crystals - A magic treasure! You gain one crystal of each basic color to your Inventory.
+- Unit - You rescued prisoners and they will gladly join you. You may recruit any one Unit from the offer, without paying its cost and regardless of where it can be usually recruited. You still have to have a free Command token available, or disband one of your existing Units to make room. Note: While you usually claim your rewards at the end of the turn before you resolve a Level up, you may switch the order here. If the Fame for defeating enemies caused you to gain a new level and thus a new Command token, you can use this new Command token to recruit the Unit.
+
+Fighting Multiple Enemies
+
+Ruins are most likely your first opportunity to fight two enemies at once (another would be a situation when rampaging enemies get provoked by an assault - see the Assault section in Revealing a Keep above for more on this). In later scenarios, you can even fight three or more enemies at once.
+
+Attacking
+
+During the Ranged and Siege Attacks phase, and in the Attack phase, you have more options:
+
+- You can play one big attack to eliminate multiple enemies at once. To do so, your Attack has to be equal to or greater than the total Armor of all chosen enemies. This may be advantageous, especially if you have powerful cards that generate more Attack than is required to eliminate any one enemy (since any extra attack spent against an enemy is lost). Essentially you are treating multiple enemies as if they were one enemy with much more Armor.
+
+- But beware - if any of the chosen enemies has Physical, Fire or Ice resistance, all your Attacks of the corresponding type will be halved, even if the other enemies in the group you are attacking do not have that resistance.
+- If you group a Fortified and an unFortified enemy together as the target of a single large attack, you will be limited to only using Siege attacks against that group.
+
+- You can play multiple attacks in a phase. This way, you can fight enemies individually, or in small groups, or one enemy individually and the remainder as a group, etc. This may be advantageous especially when:
+
+- Some of the enemies have resistances and some do not. Instead of mixing all your attacks together (which would reduce all resisted attacks by half), you can eliminate a resistant enemy by playing only attacks that it is not resistant to.
+- Some of the enemies are Fortified and some are not. Thus, during the Ranged and Siege Attack phase, you can only use Siege Attacks to attack Fortified enemies, but you can use both Ranged and Siege Attacks to attack the non-Fortified enemies.
+
+Blocking
+
+In the Block phase, you have a chance to block any enemies you have not defeated. You can block none, one, or more enemies in any order, but you cannot group multiple enemies together to block them with one powerful block. If you want to block more than one enemy, you have to resolve blocks against each individually.
+
+Assigning damage
+
+Now, you have to assign the damage from all enemies that were not defeated or blocked. You can do it in any order, but you have to assign the damage from all unblocked enemies. As with any attack, you can choose to assign damage to your Units or your Hero.
+
+But remember:
+
+- No Unit can be assigned damage twice in one combat, even if it survived the first assignment of damage without being Wounded because it had a resistance.
+
+On the other hand, you could, for example:
+
+- Activate a Unit with a Ranged attack or a Block ability in the first two phases of combat to help deal with one enemy, and then assign damage from an unblocked enemy to that same Unit during the Assigning damage phase.
+
+- Assign damage to a Ready Unit, and if it survives combat Unwounded because it has resistances, activate it in the Attack phase.
+
+In ruins, you may encounter red and white enemy tokens. These represent the most dangerous enemies you will find in the game.
+
+Some of them have Cold Fire Attack . Only Cold Fire blocks are efficient against these attacks, and no unit is resistant to this type of attack, unless it has both Ice and Fire resistance.
+
+For an overview of all combat abilities, check the last page of the rulebook.
+
+REVEALING TILES 9 - 11
+
+On these tiles you should encounter nothing new, just combinations of the things you have already seen.
+These tiles contain lots of opportunities to gain some extra Fame as the game is coming to an end!
+
+REVEALING CORE TILES
+
+If you reveal the tile with a city, each player (including you) will play one more turn, and then the game ends. You may put the corresponding city figure on its space, to mark it, but ignore its dial for now. Treat that space as inaccessible.
+
+If you revealed a non-city Core tile, the game continues. Core tiles contain the same elements as Countryside ones, with a few exceptions. However, these are very similar to those you have already seen, except they have stronger enemy combinations and greater rewards - the spawning grounds is an adventure site similar to a monster den, the tomb is an adventure site similar to a dungeon, and Draconum are rampaging enemies similar to Orc Marauders. Note that descriptions of similar sites are on the opposite sides of each Site Description card.
+
+VIII. OTHER IMPORTANT EVENTS
+
+LEVEL UPS
+
+If a Hero gains enough Fame that their Shield token on the Fame track crosses the end of a row, they advance to the next level. A Hero cannot Level up past level 10. If a Hero's Fame increases past the end of the last row on the Fame board, continue tracking the Fame by moving them back to the first spot on the Fame track, but that player gets no more Level up bonuses.
+
+Level ups are not handled immediately; you do so after you announce the end of your turn, but before you draw new cards. This way another player can play while you are resolving your Level up. If you gain multiple levels during a single turn, you resolve them all now, one at a time.
+
+There are two types of Level ups - check the symbol on the left of the row to which your Shield token advanced to see which type you should resolve.
+
+Advanced Cards offer
+
+When the first player gains a level, reveal three cards from the Advanced Actions deck and display them in a column as the Advanced Action offer.
+
+Note: In subsequent games, this offer is revealed at the start of the game, but during the first game, it is better to do it this way, so players do not need to examine three more cards they do not know how to gain yet.
+
+Skill Level Ups
+The second row on the Fame track has this symbol. It means that you get one Skill token and one Advanced Action card when advancing to level 2.
+
+The first player to advance to level 2 reveals two Skill tokens from the top of their Skill pile. They should check their Skill description card to see what they do.
+
+Then, they choose one of these Skill tokens and put it in front of themself, the other one going to the Common skill offer. Starting with the next turn, they may use it.
+
+Additionally, the player chooses one of the three cards in the Advanced Action offer. They put it on top of their Deed deck, and then replenish the offer with a new card. The cards in the offer are shifted down and the new one is always added to the top.
+
+When another player reaches level 2, they resolve their Level up in exactly the same way. However, they now have the option to choose a Skill token from the Common Skill offer (the first player to Level up did not have this option because the Common Skill offer was empty).
+
+Learning from other players
+
+After a player reveals their two Skill tokens, they may refuse them both and instead take one Skill token from the Common Skills offer, i.e. one that another player did not choose and put there when leveling up. If they do, they put the chosen Skill token in front of themself and puts both of the tokens they refused into the Common Skill offer. They may not choose a Skill of their own that they previously chose not to take.
+
+
+Additionally, they take one Advanced Action card. However, they cannot choose freely from the offer this time; they can only take the one that is in the lowest position in the Advanced Action offer.
+
+Command Level ups
+
+If you advance to a level marked with this symbol, you have no choices to make - you just remove the top tile from your Level pile, flip it over and place it as a new Command token in your Unit area. This way, your Command limit increases (you have a new Command token at your disposal) and either your Armor or Hand limit increases (there are new values on your visible Level token).
+
+Using Skills
+
+Skills are very powerful, as they increase your options each turn, and you don't have to draw them in your hand to use. Choose the Skills that complement your cards, Units, and overall strategy well.
+
+Skill types
+
+See the Skill Description cards for information about each Hero's Skill tokens.
+
+There are three types of Skills.
+
+If there is a flipping arrow on a Skill token, it means this Skill can only be used once each Round. Once you use it, you flip it face down. It cannot be used again until the start of the next Round (when you will flip it back up so that you can use it again). Note that some Skills (such as those that let you draw extra cards) may be used during another player's turn. Note: with the Motivation skill, you do not have to wait until your next turn to use it. You may use it on another player's turn, so you can prepare for your turn in advance. You cannot however use it after your last turn in a Round.
+
+These are interactive Skills that when used, last until the beginning of your next turn, and also affect other players. When you want to use a Skill like this, put it in the center of the table, announce the ability, and describe the effect to the other players. At the start of your next turn, take it back and flip it face down - it cannot be used again this Round.
+
+If neither of the above icons is on a Skill token, it can be used once each turn. Put them in your Play area after you use them to mark them as used, stacking them with the appropriate cards or Units (you can for example stack a Skill providing Move points with other Move cards, or a Skill that changes the color of a mana with the mana it is changing, etc.)
+
+Please note that no Skill can be used more than once each turn.
+
+COOPERATIVE SKILLS
+
+Cooperative Skills replace Competitive Skills in the cooperative and solo games. They are both called interactive skills. Use of such a Skill is always initiated by the player who possesses it. They use its benefit (if any) on their own turn and then:
+
+- In cooperative games, one of the other players (not the player themself) can use its secondary effect. Some of these effects are triggered automatically (when the first mana of a certain color is used, when the first combat happens), whilst some are triggered voluntarily. If the secondary effect is not used before the next turn of the player that played it, or before the End of the Round, it is wasted.
+- In Solo games, the secondary effect can be used by the same player during their next turn (and only then). If it is not, or if it is played during the player's last turn of the Round, it is wasted.
+
+For the purposes of both competitive and cooperative Skills, the regular turn order matters, i.e. they expire when it is your turn to play, even if your Round Order token is face down, and they do not expire earlier if you are taking your turn in advance. However, if you are taking two turns immediately following each other (Right Moment Tactics, Time Bending Spell), interactive Skills used during the first turn expire before the start of the second turn.
+
+END OF THE ROUND
+
+If a player runs out of cards in their Deed deck and they do not want to play anything in their hand (or their hand is empty), they can announce the "End of the Round" at the beginning of their turn. If they do, they do not play their turn. Each other player then takes one last turn for the Round, and then the Round is over.
+
+Preparing a New Round
+
+To prepare a new Round, do the following:
+
+- Flip the Day/Night board over to the other side - the time of day changes.
+- Reroll all mana dice to form the new Source. If you are starting a Day Round, set any black dice to the depleted side of the Source. If you are starting a Night Round, set any gold dice to the depleted side of the Source. (This is important since by starting with a Day Round, new players get used to a gold mana die being a good thing. You have to put it to the "bad side" of the Source to remind them it is not good during Night Rounds.)
+-- Again, at least half of the dice should be of basic colors. Reroll black and gold dice as needed until this condition is met.
+- Take all Unit cards from the Unit offer that were not recruited and put them on the bottom of the Regular Unit deck. If there are also any Advanced Action cards in the Unit offer (see Revealing a Monastery above) put them at the bottom of theAdvanced Action deck.
+- Reveal new cards for the Unit offer. The amount of Units is equal to the number of the players, plus 2. If there are any monasteries on the board (that were not burned) reveal that many Advanced Action cards and add them to the Unit offer. (See Revealing a Monastery above).
+- For the Advanced Action offer, remove the card that is in the lowest position of the offer and return it to the bottom of the Advanced Action deck. Shift the other cards down, and place a new card from the top of the deck in the topmost position of the offer.
+- The Spell offer is refreshed in the same way as the Advanced Action offer above.
+- Each player shuffles all their Deed cards (the ones they had in their hand, discard pile and Deed deck when the previous Round ended), and forms a new Deed deck. If they have any banner Artifacts assigned to their Units, they may (but do not have to) remove any of them from their Units and shuffle them in to their Deed deck. Then they draw cards from that deck up to their Hand limit (indicated on their Level token), and possibly more if they are close to a keep they own (see Revealing a Keep above).
+- Every Unit in the player's Unit area that was spent (i.e. it has
+its Command token on it) becomes Ready. Put its Command token above the card again. Note that even Wounded Units get Readied if they were spent, but they do not get healed.
+- Any Skills that were flipped face down are flipped up again. If any Unit has been assigned a banner Artifact that is face down, flip it face up as well.
+- All players return their Tactic cards. Now, the cards corresponding with the new Round are displayed - there is a different set of Tactic cards for Night.
+
+Choosing Tactics
+
+Players have to choose their Tactics for the next Round.
+
+The player whose token is last on the Fame track gets first choice of Tactics. Then the one who is second to last gets to pick, etc. The player with most Fame chooses last.
+
+In the case of a tie, the player who was playing later in the previous Round (i.e. their Round Order token was lower in the order) gets priority for picking.
+
+After all players have chosen a Tactic, rearrange the Round Order tokens next to the Day/Night board to reflect the new turn order.
+
+Playing the Next Round
+
+The player at the top of the turn order (with lowest Tactic number) starts the new Round. Turns are played according to the same rules, except that if it is a Night Round, Night rules now apply.
+
+NIGHT RULES
+
+Terrain Costs
+
+There are two changes in the Move costs of terrain:
+
+At Night, it is more difficult to travel through forests. So beware, it is not good to be surrounded by deep forests when a Night Round starts. On the other hand, it is easier to travel through deserts at Night. If you want to cross large deserts, it may be advantageous to position yourself to do so at Night.
+
+Visibility
+
+During the Day, you were able to see what is at a ruins location anywhere on the map, and also what enemies defend keeps and mage towers if someone was close enough (see the corresponding chapters above).
+
+Ruins tokens are placed face down at Night, and stay face down until someone moves onto its space (or when the next Day Round begins). You can still decide whether to enter them or not after the ruins token is revealed.
+
+However, you do not know who or what defends a keep or mage tower until you assault it. Sometimes it may be better to wait until Day, when you will have more information. (This does not apply to cities. They never sleep and are revealed when adjacent, even at Night. But we do not care about cities for now, since we are only concerned with finding them, not conquering them.)
+
+You also still see rampaging enemies. In fact, you do not need to see them - you can just listen to what horrifi ed villagers say about their malicious attacks.
+
+Magic
+
+During Night, gold mana cannot be used, even if it is produced by some means other than the Source. Gold dice in the Source are depleted.
+
+On the other hand, black mana can be used to power the stronger effect of Spell cards. See Revealing a Mage Tower - Casting Spells on page 14. At night, black mana does not work as a wild card like gold mana during the day.
+
+PLAYER VS. PLAYER COMBAT
+
+As described earlier, we strongly advise against allowing Player vs. Player combat in your first game. However, if you want to use it, you should read both this chapter (where the main principles of the combat are described) and the appropriate section of the Rulebook (where it is explained in detail, step by step).
+
+Initiating a Combat
+
+To initiate Player vs. Player combat, you have to attack another player. You may do so as your Action on your turn - just move into another player's space and announce you are attacking them.
+
+Exceptions: you cannot attack a player that is in a Magic portal or a city (this is not applicable for the first game, since players won't be entering cities). Multiple figures can occupy these spaces without fighting.
+
+Also, you may not attack any player after the End of the Round has been announced - in this case, you can't end your movement on another player's space (if this happens accidentally see End of the Turn - Forced Withdrawal on page 11 of the Rulebook).
+
+Tactical note: When you have no cards in your hand (and your Units are spent), you are a pretty easy target for a Player vs. Player attack. If the End of the Round has been announced, you are safe, and you can easily spend all your cards. But imagine this scenario - you have five cards in your hand, but no cards in your Deed deck.
+
+Now, you have to decide - if you announce the End of the Round, you cannot use these last five cards. But if you don't and play them all, you will be an easy target until your next turn, when you will have a chance to announce the End of the Round again. Watch your opponents and consider their plans carefully (especially when they are close to you on the map).
+
+Reaction of the Defender
+
+The attacked player (we call them the Defender) announces whether they want to fully attend the attack (that means they take their full turn in advance, and use all benefits that would provide), or whether they just consider it to be an annoying disturbance (and thus do not sacrifice their entire turn to fight the opponent).
+
+Read the appropriate part of Rulebook for more details.
+
+Tactical note: The second option is usually used if the attacked player is sure the attack will be not very serious and does not want to be diverted from their plan. It can also be used if they think the aggressive player is stronger and that they intend to keep attacking. By holding on to some Move cards, they can try to get away from the aggressor during their next turn. If they attend the attack fully, they use up their turn to do so, and they will have no chance to escape or do anything else before it is the aggressor's turn again.
+
+Combat Phases
+
+There are only two phases of Player vs. Player combat.
+
+- Ranged and Siege Attacks phase - players take turns performing Ranged and Siege Attacks, starting with the Defender. These attacks can be used to Wound the enemy Hero or their Units. The phase ends when no player wants to use such attacks.
+- Melee Attacks phase - players take turns performing any Attacks, starting with the Aggressor. Contrary to the Ranged and Siege Attacks phase, these Attacks do not necessarily have to be used to assign damage - players may also use them to force the opponent out of the space, or to steal their Artifacts. This phase (and the entire combat) ends when one player is forced out of the space, or if no player wants to continue to use attacks (in which case, the Aggressor has to withdraw).
+
+See the appropriate part of Rulebook for more details.
+
+Differences Between Player vs. Enemy and Player vs. Player Combat
+
+To help you understand Player vs. Player combat better, we summarize the two main differences here:
+
+Blocking
+
+When fighting enemies on the map, you either block the entire attack, or it goes through at full strength; there is nothing in between. In Player vs. Player combat however, you are allowed to partially block an attack; this reduces the amount of damage it would deal.
+
+Note: Blocks performed in the Ranged and Siege Attacks phase are halved (round down). It is difficult to block these attacks - this way, they are similar to the attacks of enemies with the Swift ability.
+
+Assigning damage
+
+When fighting enemies on the map, the player assigns the damage from their attacks. That means, they decide whether and which Units will be hit, and how much damage goes to their Hero. On the other hand, the damage is rounded to their disadvantage, i.e. even one point of damage can Wound a Unit with high Armor.
+
+In Player vs. Player combat, the attacking player gets to assign the damage they deal. However, damage is rounded to the advantage of the defending player - the attacker has to have enough damage if they want to Wound a Unit or player (or do any of the other allowed effects), and it may happen that some damage remains unused (as there is not enough for the attacker to do anything with it).
+
+IX. THE END OF THE GAME
+
+The first scenario is almost over when the city tile is revealed. Each player (including the one who revealed the city) plays one more turn, and then the game is finished. During this time, Player vs. Player combat is not allowed. Once the game is concluded, it is time to assign some extra rewards. Players will score extra Fame for different achievements - continue to move their Shields on the Fame track, but ignore any Level ups now. Each category also awards special titles for even more Fame.
+
+Before determining achievements, players should take all their cards (from their hand, discard pile and Deed deck) and sort them by types, to see what cards they ended the game with.
+
+Final scoring is summarized on the Achievement Scoring card, which is available for any player to examine over the course of the game. The other side of this card is not used in "The First Reconnaissance" scenario.
+
+The Greatest Knowledge
+
+Each player scores 2 Fame for each Spell, and 1 Fame for each Advanced Action in their deck. The player who scores the most Fame this way gets 3 extra Fame for achieving the Greatest Knowledge. If two or more players are tied, each gets 1 Fame (except if the tie is between players who scored no Fame in this category).
+
+The Greatest Leader
+
+Each player scores Fame equal to the total level of all their Units. Wounded Units are counted only as half, rounded down (thus a Wounded level 1 Unit is worth no Fame). The player who scored the most Fame this way gets 3 extra Fame for being the Greatest Leader (1 if tied).
+
+The Greatest Adventurer
+
+Each player scores 2 Fame for each Shield token they have on an adventure site. The player who scored the most Fame this way gets 3 extra Fame for being the Greatest Adventurer (1 if tied).
+
+The Greatest Loot
+
+Each player scores 2 Fame for each Artifact in their deck or on their Units, and 1 Fame for every two crystals in their Inventory. Again, the player who scored the most Fame this way gets 3 extra Fame for achieving the Greatest Loot (1 if tied).
+
+The Greatest Conqueror
+
+Each player scores 2 Fame for each Shield token they have on a keep, mage tower or monastery. The player who scored the most Fame this way gets 3 extra Fame for being the Greatest Conqueror (1 if tied).
+
+The Greatest Beating
+
+Each player loses 2 Fame for each Wound card in their deck (not on their Units). The player who lost the most Fame this way loses an additional 3 Fame for receiving the Greatest Beating (-1 if tied, except if the tie is between players that have no Wounds).
+
+WHOEVER HAS MOST FAME NOW IS THE WINNER OF THE FIRST SCENARIO. CONGRATULATIONS!
+
+X. NEXT GAMES
+
+So, you finished your first scenario. We hope you enjoyed it, and are eager to see more: you probably noticed that the game has much more to offer than you have experienced so far.
+Next time, you should try a different scenario, using the full rules of the game.
+
+FULL RULES
+
+We have only explained the rules that are necessary for the first scenario up to now. The full rules are described in the rulebook. You should read it - it is much easier to read once you have one game under your belt, and know how the game is played.
+
+For your convenience, we point out the most important rules that have not been explained yet, with references to the Rulebook.
+
+No Fame for Revealing
+
+Note that the rule for receiving 1 Fame whenever you explore a new map tile is for the first scenario only. In the other scenarios, you have to really fight to get the Fame.
+
+Elite Units
+
+In your first game, you used only Regular units (with silver backs).
+
+Elite units (the ones with gold backs) are available in the other scenarios, but not from the start of the game. See One Round of the Game - page 4, paragraph 2c.
+
+Map Building Limitations
+
+There are different shapes of map for different scenarios and numbers of players (see the Scenario Book), but for all of them, there are a few limitations that prevent the map becoming a weird shape with narrow sections. See Movement - page 7, paragraph 5e.
+
+Challenging Extra Enemies
+
+If you dare, you can challenge more rampaging enemies at once if there are more next to your space, or you can challenge rampaging enemies adjacent to a Fortified site you are assaulting. See Combat with Enemies - page 8, paragraphs 1a, 1d and 1e.
+
+Note: You cannot challenge extra enemies if you are entering an adventure site.
+
+Player vs. Player Combat
+
+If you not have done it yet, see the Player vs. Player section on page 19 of this booklet, and page 12 of the Rulebook.
+
+Cities
+
+Conquering cities is the ultimate goal in many scenarios. To understand how they work, you should:
+
+- Read the section in the Rulebook detailing what happens when a city is revealed (see Movement - page 7, paragraph 5g), how to conquer it (see Combat with Enemies - page 10, City Assaults) and what it offers once conquered (see Interacting with Locals - page 8, paragraphs 3a and 4e).
+- To understand it better, take a look at the City cards and city figures.
+- It is all summarized on the Site Description card for a city (you should have it nearby as reference during your first few games).
+
+Cooperative City Assault
+
+Unless you say otherwise, more players can agree to assault a city at the same time. Read the Cooperative City Assaults section of the Rulebook to see how it works.
+
+SCENARIOS
+
+The scenarios are described in the Scenario Book, which is at the end of the Rulebook. If you have enough time, you might try the Full Conquest or Full Cooperation scenario, to see the game in its full epic scale. These scenarios (or their shorter Blitz variants) can be played repeatedly, as the random map ensures they will be completely different each time. Moreover, you may adjust their difficulty and use any number of variant rules described later to give extra replayability.
+
+Then, there are plenty of other scenarios. Scenarios belong to one of three groups: competitive, very competitive, and cooperative.
+
+Competitive scenarios
+
+Competitive scenarios are the standard ones, similar to "The First Reconnaissance" (except they will probably get more rough, once you include the Player vs. Player combat rules).
+
+Each scenario has a goal and a limited number of rounds in which to achieve it. Regardless of whether the goal was achieved or not, the winner will be the player who has the most Fame after the Final Scoring.
+
+Very Competitive Scenarios
+
+If you do not care about Fame, and if you want to prove who is the best on the battlefield, then you may use one of the scenarios marked as very competitive.
+
+There is no scoring in these scenarios: instead, the winner is decided by specific criteria described in the scenario description. Be prepared as these scenarios may be pretty rough!
+
+Cooperative Scenarios
+
+In these scenarios, players cooperate to achieve the common goal (to conquer the cities). They either share the victory as a group, or they all fail. You may adjust the city levels for an easier or tougher challenge.
+
+Cooperative scenarios still give you a way to calculate your score at the end so that you may replay the scenario to try and score more points . All players have one score.
+
+A special type of Cooperative scenario is the Solo mission that is played by one player only.
+
+VARIANTS
+
+The scenarios and the overall gameplay can be further altered by Variants you can find in the Scenario Book, which is at the end of the Rulebook. Some of them may adapt the game more to your liking, or you can use them just to add variety to your games.
+
+NOW, IT IS YOUR TURN TO EXPLORE THE WORLD OF THE MAGE KNIGHT BOARD GAME.
+
+www.wizkids.com
+WizKids/NECA, LLC
+603 Sweetland Ave.
+Hillside, NJ 07205 USA
+© 2018 WizKids/NECA, LLC.
+WizKids and related marks and logos are trademarks of WizKids. All rights reserved.
