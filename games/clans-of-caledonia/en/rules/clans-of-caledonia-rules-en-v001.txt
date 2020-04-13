@@ -1,3 +1,7 @@
+clans-of-caledonia-rules-en-v001.txt
+https://karma-games.com/wp-content/uploads/2019/08/Caledonia_Rules_EN_v63_3mmBleed-min.pdf
+www.karma-games.com/clans-variants
+
 Clans of Caledonia is a strategic economic game set in 19th-century Scotland.
 
 During this period, Scotland made the transition from a predominantly agricultural economy to an industrialised one, heavily reliant on trade and export. As a consequence, food production increased to support the growth in population, cheap cotton imports increasingly replaced linen, and raising sheep gained importance. When European wine and brandy production was ravaged by a plague of insects in the late 19 th century, Scotch whisky was drafted as a substitute for cognac. The whisky industry exploded into life, turning it into the premium alcoholic beverage in Europe.
@@ -90,12 +94,14 @@ Market Board
 Flip the Market board to the appropriate side for the number of players and place the transparent Price markers on the encircled starting prices. Place the six types of Goods tokens (Wool, Milk, Grain, Bread, Cheese and Whisky) and their tiles below the Market in separate piles.
 
 Export Board
-Place the Export board beside the map, with the side face-up showing the icon matching the number of players. Then, shuffle the Scoring tiles and choose five randomly. Place these face-up in a random order in the five slots on the edge of the Export board. Shuffle the Export contracts and create a face-down draw pile. Put one Export contract from the draw pile face-up on each box on the Export board (in a solo and 3 player game, one box remains empty). Place the players' Glory tokens and the Import tokens (Cotton, Tobacco and Sugar cane) off the board. On the 1-2 player side, the dice icons are only relevant for the solo game (see page 8).
+Place the Export board beside the map, with the side face-up showing the icon matching the number of players. Then, shuffle the Scoring tiles and choose five randomly. Place these face-up in a random order in the five slots on the edge of the Export board. Shuffle the Export contracts and create a face-down draw pile. Put one Export contract from the draw pile face-up on each box on the Export board (in a solo and 3 player game, one box remains empty). Place the players' Glory tokens and the Import tokens (Cotton, Tobacco and Sugar cane) off the board.
+On the 1-2 player side, the dice icons are only relevant for the solo game (see page 8).
 
 -2-
 
 Player Starting Items
-Each player chooses a colour and takes one Player board and all of the game tokens of their colour. Then each player performs the following actions:
+Each player chooses a colour and takes one Player board and all of the game tokens of their colour.
+Then each player performs the following actions:
 
 1. Place all of your tokens on the corresponding locations on your Player board, four of each of the following: Sheep, Cows, Cheese Dairies, Bakeries, Fields and Distilleries.
 
@@ -112,7 +118,8 @@ Each player chooses a colour and takes one Player board and all of the game toke
 7. Take one Export box tile and place it next to your Player board with the side face-up showing the icon matching the number of players.
 
 Turn Order
-Determine a starting player randomly. The turn order in the first round is clockwise. Put all players' Turn order tokens accordingly on the Turn order track on the Export board. In subsequent rounds the turn order is determined by the order in which players pass.
+Determine a starting player randomly. The turn order in the first round is clockwise.
+Put all players' Turn order tokens accordingly on the Turn order track on the Export board. In subsequent rounds the turn order is determined by the order in which players pass.
 
 Clans
 Randomly draw one more Clan tile than the number of players (e.g. four Clan tiles in a 3 player game). Then, randomly draw as many Starting tiles as Clan tiles and randomly allocate one next to each Clan tile.
@@ -326,9 +333,11 @@ Game with 2 players: 8VP for the player with the most fulfilled Export contracts
 
 In case of a tie, evenly divide the VP of the respective tiers among the tied players (round down if necessary).
 
-Example: Tobacco was imported the least and Cotton the most. Thus, each unit of Tobacco is worth 5VP, each Sugar cane is worth 4VP and each Cotton is worth 3VP. You have imported three Tobacco, two Sugar cane and six Cotton. So you earn 5 × 3 = 15VP for your Tobacco, 4 × 2 = 8VP for your Sugar cane, and 3 × 6 = 18VP for your Cotton.
+Example: Tobacco was imported the least and Cotton the most. Thus, each unit of Tobacco is worth 5VP, each Sugar cane is worth 4VP and each Cotton is worth 3VP.
+You have imported three Tobacco, two Sugar cane and six Cotton. So you earn 5 × 3 = 15VP for your Tobacco, 4 × 2 = 8VP for your Sugar cane, and 3 × 6 = 18VP for your Cotton.
 
-Example: In a 3 player game, there is a tie between two players for first rank. They equally share points for the first two ranks (12VP + 6VP = 18VP), so they both receive 9VP. The third player does not gain any VP. In a 2 player game, each tied player receives 4VP.
+Example: In a 3 player game, there is a tie between two players for first rank.
+They equally share points for the first two ranks (12VP + 6VP = 18VP), so they both receive 9VP. The third player does not gain any VP. In a 2 player game, each tied player receives 4VP.
 
 -7-
 
@@ -446,6 +455,8 @@ Manfred-von-Richthofen-Strasse 13
 12101 Berlin
 Germany
 www.karma-games.com
+???
+???
 
 -9-
 
@@ -498,7 +509,8 @@ Clan Campbell
 
 Colen Campbell was a pioneering Scottish architect and architectural writer, credited as a founder of the Georgian style.
 
-You get better at building factories of Processed goods the more often you build them. The first factory of each type is £3 cheaper, the second and third factory of each type is £4 cheaper and the fourth factory of each type is £5 cheaper. So you have an incentive to specialise in producing a lot of Processed goods.
+You get better at building factories of Processed goods the more often you build them. The first factory of each type is £3 cheaper, the second and third factory of each type is £4 cheaper and the fourth factory of each type is £5 cheaper.
+So you have an incentive to specialise in producing a lot of Processed goods.
 
 Strategy: Produce a lot of one type of Processed good that is in high demand Export contracts. Selling your Processed goods is a good source of income too.
 Example: If you build three Bakeries and one Distillery, in the first Bakery costs £8 - £3 = £5, the 2nd and the 3rd Bakeries cost £8 - £4 = £4. The Distillery is £3 cheaper and costs £10 - £3 = £7.
@@ -523,9 +535,12 @@ Strategy: Use your Shipping reach and Port bonus tiles!
 
 Clan MacDonald
 
-Clan MacDonald is a Highland clan and one of the largest Scottish clans. Their district was the Inner Hebrides, an archipelago off the west coast of mainland Scotland. Their clan motto is per mare per terras ('by sea and by land'). The chiefs of the clan held the title 'Lord of the Isles'.
+Clan MacDonald is a Highland clan and one of the largest Scottish clans.
+Their district was the Inner Hebrides, an archipelago off the west coast of mainland Scotland.
+Their clan motto is per mare per terras ("by sea and by land"). The chiefs of the clan held the title "Lord of the Isles".
 
-Your smaller Clan tile is used for the clan draft and your bigger Clan tile is put on top of the Miner/Woodcutter area of your Player board. Your Technology area remains empty because you cannot perform the Technology upgrade action.
+Your smaller Clan tile is used for the clan draft and your bigger Clan tile is put on top of the Miner/Woodcutter area of your Player board.
+Your Technology area remains empty because you cannot perform the Technology upgrade action.
 
 -11-
 
@@ -543,7 +558,7 @@ Strategy: Use your rowing ability to increase your reach and for your Settlement
 Clan MacEwan
 
 William McEwan opened the Fountain Brewery in Fountainbridge, Edinburgh, in 1856.
-McEwan's is well known for 80/-, a Heavy beer, that was first brewed in the late 19th century and is still sold today.
+McEwan's is well known for 80/- (eighty shillings), a Heavy beer, that was first brewed in the late 19th century and is still sold today.
 
 Your clan ability centers around brewing beer, for which you need hops and grain. Each time you fulfil an Export contract which gives you Hops, you may immediately discard up to 1 Grain for each unit of Hops on the Export contract. You gain £9 for each unit of Grain discarded. You can discard a maximum of 3 Grain per Export contract. You can gain at maximum £27 from your clan ability per Export contract. You can choose to use your clan ability before or after taking any Direct export bonuses.
 
@@ -567,14 +582,17 @@ Clan Robertson is one of the oldest clans of Scotland. Their clan district is ca
 Each time you place a unit in a river delta (a space that is adjacent to a river just flowing into a loch) you pay £3 less (£2 less in games with 1-2 players) off the total cost. This applies to placing your initial two Workers as well.
 
 Strategy: You obviously want to start at or near to river deltas and expand as much into river delta spaces as possible. Slaughtering livestock on river deltas allows you to expand on river deltas more often.
-Example: In a 4 player game, you build a Bakery (cost £8) on a river delta spaces river delta space with cost £1. The final cost is £8 + £1 - £3 = £6.
+
+Example: In a 4 player game, you build a Bakery (cost £8) on a river delta space with cost £1. The final cost is £8 + £1 - £3 = £6.
 
 Clan Stewart
 
 Clan Stewart is a Highland clan. It produced powerful monarchs such as Mary Stuart and Queen Anne.
 
 You start with three additional Merchants (five total) and river-crossing Shipping level for free.
-Furthermore, each time you trade one or multiple units of a type of Good at the Market you gain a bonus of £1. If you buy Goods, you receive the bonus of £1 before paying. If you use the Neighbourhood bonus and buy multiple types of Goods in one turn, you gain £1 for each type of Good you are buying.
+Furthermore, each time you trade one or multiple units of a type of Good at the Market you gain a bonus of £1.
+If you buy Goods, you receive the bonus of £1 before paying.
+If you use the Neighbourhood bonus and buy multiple types of Goods in one turn, you gain £1 for each type of Good you are buying.
 
 Strategy: Try to fully use the market and the Neighbourhood bonus in particular.
 Example: If you buy 3 Milk and 3 Whisky through the Neighbourhood bonus, you receive £1 for each type of Good, so £2 in total.
