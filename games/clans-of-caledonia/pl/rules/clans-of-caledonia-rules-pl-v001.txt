@@ -2,7 +2,7 @@ clans-of-caledonia-rules-pl-v001.txt
 https://karma-games.com/wp-content/uploads/2019/08/FINAL-Polish-rules-Clans-of-Caledonia-min.pdf
 www.karma-games.com/clans-variants
 
-Klany Kaledonii to strategiczna gra ekonomiczna osadzona w XIX-wiecznej Szkocji. 
+Klany Kaledonii to strategiczna gra ekonomiczna osadzona w XIX-wiecznej Szkocji.
 
 W tym okresie Szkocja przekształciła się z gospodarki głównie rolniczej w gospodarkę uprzemysłowioną, silnie uzależnioną od handlu i eksportu. Wzrosła produkcja żywności, a importowana bawełna coraz częściej zastępowała len. Gdy pod koniec XIX wieku europejską produkcję wina i brandy spustoszyła plaga owadów, szkocka whisky stała się substytutem koniaku. Przemysł alkoholowy eksplodował, przekształcając whisky w najwyższej klasy napój alkoholowy w Europie.
 
@@ -87,7 +87,7 @@ Kafelki Mapy
 Mapa gry składa się z 4 dwustronnych modułów Map oznaczonych zarówno modułem (A-D), jak i stroną (1-2), oferujących 16 różnych konfiguracji Mapy. Losowo wybierz stronę dla każdego modułu Mapy i skonstruuj mapę gry, upewniając się, że skały pokazujące literę modułu są w porządku alfabetycznym zgodnie z ruchem wskazówek zegara i sąsiadują ze sobą na środku mapy (patrz ilustracja obok).
 
 Kafelki Bonusów Portowych
-Potasuj wszystkie płytki kafli portów i losowo wybierz 4. Umieść 1 kafel obok fabryki w każdym rogu Mapy. Rozmieszczenie kafli zależy od liczby graczy. Ikona 1-2 graczy wskazuje miejsce na wyłożenie kafli portów w grze dla 1 lub 2 graczy. Druga ikona wskazuje miejsce podczas rozgrywki dla 3-4 graczy.
+Potasuj wszystkie płytki kafli portów i losowo wybierz 4. Umieść 1 kafel obok fabryki w każdym rogu Mapy, rozmieszczenie kafli zależy od liczby graczy. Ikona 1-2 graczy wskazuje miejsce na wyłożenie kafli portów w grze dla 1 lub 2 graczy. Druga ikona wskazuje miejsce podczas rozgrywki dla 3-4 graczy.
 Odłóż wszystkie niewykorzystane kafle do pudełka.
 
 Plansza Rynku
@@ -172,11 +172,11 @@ Podczas fazy akcji każdy gracz wykonuje dokładnie 1 akcję na turę, zgodnie z
 8. Spasuj
 
 1. Handel
-Kupcy, którzy są w twoim magazynie, a nie na planszy gracza, są gotowi do użycia w akcji Handlu. Możesz ich wysłać na rynek, aby kupić lub sprzedać towary. Umieść tylu Kupców w obszarze kupna lub sprzedaży pojedynczego towaru (oznaczonego odpowiednio strzałkami w górę i w dół) ile jest towarów, które chcesz kupić lub sprzedać. Kupcy ci pozostają na rynku, dopóki nie zostaną odzyskani w kolejnej fazie przygotowania. Następnie płacisz lub otrzymujesz pieniądze zgodnie z aktualną ceną towaru pomnożoną przez liczbę zakupionych lub sprzedanych towarów. Następnie cena handlowa jest korygowana poprzez przesunięcie znacznika ceny zgodnie ze strzałką (w górę przy zakupie lub w dół przy sprzedaży) o tyle pól, ile wyniosła liczba kupionych/sprzedanych towarów.
+Kupcy, którzy są w twoim magazynie, a nie na planszy gracza, są gotowi do użycia w akcji Handlu. Możesz ich wysłać na rynek, aby kupić lub sprzedać towary. Umieść tylu Kupców w obszarze kupna lub sprzedaży pojedynczego towaru (oznaczonego odpowiednio strzałkami w górę i w dół) ile jest towarów, które chcesz kupić lub sprzedać. Kupcy ci pozostają na rynku, dopóki nie zostaną odzyskani w kolejnej fazie przygotowania. Następnie płacisz lub otrzymujesz pieniądze zgodnie z aktualną ceną towaru pomnożoną przez liczbę zakupionych lub sprzedanych towarów. Wszystkie transakcje dokonywane są z wykorzystaniem wspólnych puli towarów. Następnie cena handlowa jest korygowana poprzez przesunięcie znacznika ceny zgodnie ze strzałką (w górę przy zakupie lub w dół przy sprzedaży) o tyle pól, ile wyniosła liczba kupionych/sprzedanych towarów.
 
 Gracze mogą kupować lub sprzedawać tylko jeden rodzaj towaru podczas akcji handlu. Aby handlować różnymi towarami, muszą podjąć tę akcję wielokrotnie.
 
-Zabronione jest posiadanie Kupców od jednego gracza jednocześnie w obszarze kupna i sprzedaży tego samego towaru.
+Zabronione jest posiadanie Kupców od jednego gracza jednocześnie w obszarze kupna i sprzedaży tego samego towaru. Handel wysokich częstotliwości nie był powszechny w XIX-wiecznej Szkocji!
 
 Przykład: Gracz chce kupić 2 jednostki Whisky w obecnej cenie 10£. Umieszcza 2 Kupców nad strzałką w górę w kolumnie Whisky, płacąc 20£. Bierze 2 beczki Whisky z zasobów ogólnych i umieszcza je w swoich zapasach. Cena Whisky wzrasta o 2 pola do 12£.
 
@@ -367,7 +367,7 @@ W grze dla 2 garczy rozgrywka odbywa się na mniejszej mapie. Zaciemnione pola l
 
 Gra solo
 
-W tym wariancie gracz będzie się starał osiągnąć jak najwyższy wynik, grając na mniejszej mapie niż w grze dla 2 osób. Użyj Robotników o różnych kolorach, posłużą oni za neutralne pionki, i umieść je na wszystkich polach aktywnej mapy, których koszt wynosi 1£. Wszystkie te miejsca będą niedostępne dla ciebie przez całą grę. W grze jednoosobowej nie możesz otrzymać premii sąsiedztwa ani bonusów z toru importu towarów na planszy Eksportu.
+W tym wariancie gracz będzie się starał osiągnąć jak najwyższy wynik. Grając na mniejszej mapie niż w grze dla 2 osób. Użyj Robotników o różnych kolorach, posłużą oni za neutralne pionki, i umieść je na wszystkich polach aktywnej mapy, których koszt wynosi 1£. Wszystkie te miejsca będą niedostępne dla ciebie przez całą grę. W grze jednoosobowej nie możesz otrzymać premii sąsiedztwa ani bonusów z toru importu towarów na planszy Eksportu.
 
 Docignij losowo 5 kontraktów i umieść je odkryte na planszy Eksportu przed rozpoczęciem gry.
 Za każdym razem, gdy spasujesz, otrzymujesz premię w wysokości 16£.
@@ -378,7 +378,7 @@ Kość ceny: -3, -2, -1, +1, +2, +3
 
 Dodatkowa faza: Faza Rynku
 
-Na początku rund 2-5. w fazie Przygotowywania i po odzyskaniu Kupców ceny 3 losowo wybranych towarów zostają zmienione. Rzuć kośćmi, aby określić rodzaj towaru i jego cenę. Kość towarów pokazuje rodzaj towaru, którego cena ulega zmianie. Przerzuć kość towaru, jeśli wskazuje towar, którego cena została już zmieniona w tej fazie.
+Na początku rund 2-5 w fazie Przygotowywania i po odzyskaniu Kupców ceny 3 losowo wybranych towarów zostają zmienione. Rzuć kośćmi, aby określić rodzaj towaru i jego cenę. Kość towarów pokazuje rodzaj towaru, którego cena ulega zmianie. Przerzuć kość towaru, jeśli wskazuje towar, którego cena została już zmieniona w tej fazie.
 
 Sprawdź, czy cena tego towaru jest niższa (niskie ceny) lub wyższa (wysokie ceny) w nawiasach na rynku. Nawiasy obok rynku wskazują średni zakres. Ceny powyżej są wysokie, a te poniżej niskie.
 
@@ -472,9 +472,9 @@ Otrzymujesz 10£.
 Zmień cenę jednego towaru o 3 kroki na Rynku przed dokonaniem obrotu tym towarem.
 Weź dowolne 2 jednostki ze swojej planszy gracza (inne niż Pola) i wymień je na dwie dowolne jednostki na mapie (inne niż Pola) bez ponoszenia kosztów. 2 nowe jednostki muszą różnić się od 2 starych jednostek. Nowe jednostki muszą być zgodne z typem gruntu, na którym są rozmieszczone. Jeśli spełnisz warunki, możesz uzyskać premię budowlaną. Podczas tej akcji portowej nie można uzyskać premii za sąsiedztwo.
 Zyskujesz 5£. Jeśli twoje pole eksportowe jest puste, możesz wykorzystać premię budynków (i zapłacić odpowiedni koszt, jeśli zdecydujesz się wziąć kontrakt eksportowy).
-Zapłać 3£, umieść znacznik premii na tym żetonie, a następnie użyj jednego z pozostałych trzech żetonów Portu znajdujących się w grze.
+Zapłać 3£, umieść znacznik premii na tym żetonie, a następnie użyj jednego z pozostałych trzech żetonów Portu znajdujących się w grze. Dzięki temu kafelkowi portu można potencjalnie dwukrotnie użyć efektu innego kafelka portu.
 
-
+Kafle punktowania
 Zdobądź 1 punkt Chwały za każdy podstawowy towar w swoim magazynie.
 Zdobądź 3 punkty Chwały za każde 2 Przetworzone towary w swoim magazynie.
 Zdobądź 1 punkt Chwały za każde z posiadanych na planszy: Owca, Krowa, Serownia, Piekarnia i Gorzelnia oraz 2 punkty Chwały za każde Pole.
@@ -507,12 +507,12 @@ Przykład: Jeśli weźmiesz 2 kontrakty eksportowe w jednej turze w piątej rund
 
 Klan Campbell
 
-Colen Campbell był pionierskim szkockim architektem oraz autorem wielu prac poświęconych architekturze. Przypisuje mu się zapoczątkowanie stylu gregoriańskiego w architekturze.
+Colen Campbell był pionierskim szkockim architektem oraz autorem wielu prac poświęconych architekturze, przypisuje mu się zapoczątkowanie stylu gregoriańskiego w architekturze.
 
-Ten klan nabiera biegłości w budowie fabryk towarów przetworzonych, im częściej je buduje. Pierwsza fabryka każdego rodzaju kosztuje 3£ mniej, druga i trzecia fabryka każdego rodzaju kosztuje 4£ mniej, a czwarta fabryka 1 rodzaju kosztuje 5£ mniej. 
+Ten klan nabiera biegłości w budowie fabryk towarów przetworzonych, im częściej je buduje. Pierwsza fabryka każdego rodzaju kosztuje 3£ mniej, druga i trzecia fabryka każdego rodzaju kosztuje 4£ mniej, a czwarta fabryka 1 rodzaju kosztuje 5£ mniej.
 Ten klan ma więc motywację do specjalizacji w produkcji wielu towarów przetworzonych.
 
-Strategia: Produkuj wiele rodzajów towarów przetworzonych, na które jest duży popyt w kontraktach eksportowych. Sprzedaż towarów przetworzonych jest również dobrym źródłem dochodu .
+Strategia: Produkuj wiele rodzajów towarów przetworzonych, na które jest duży popyt w kontraktach eksportowych. Sprzedaż towarów przetworzonych jest również dobrym źródłem dochodu.
 Przykład: Campbell buduje 3 Piekarnie i 1 Gorzelnię. Pierwsza Piekarnia kosztuje 8£ - 3£ = 5£, druga i trzecia Piekarnia kosztuje 8£ - 4£ = 4£. Gorzelnia jest o 3£ tańsza i kosztuje 10£ - 3£ = 7£.
 
 Klan Cunningham
@@ -529,7 +529,7 @@ Klan Fergusson był historycznie rozpowszechniony w Szkocji, co było dość nie
 
 Umieszczanie początkowych pracowników: Zaczynasz z 3 początkowymi Robotnikami (za których nadal musisz ponieść pełen koszt). Dodatkowo możesz zacząć z poziomem żeglugi 2-jeziora za darmo w grze dla 3-4 graczy (lub z poziomem 1-jeziora w grze 1-,2-osobowej).
 
-Umieszczasz też trzeciego pracownika po tym, jak wszyscy inni gracze ustawili swoich. Początkowi robotnicy muszą być rozstawieni na krawędziach planszy.
+Umieszczasz też trzeciego pracownika po tym, jak wszyscy inni gracze ustawili swoich. Początkowi robotnicy muszą być rozstawieni na krawędziach planszy. Musisz jeszcze zapłacić za wszystkich trzech pracowników i koszty gruntu.
 
 Strategia: Korzystaj z kafelków premii zasięgu i portów!
 
@@ -560,9 +560,9 @@ Klan MacEwan
 William McEwan wybudował Piwniarnię w Fountainbridge-Edinburgh w 1856 roku.
 Klan McEwan jest dobrze znany z 80/- (eighty shillings), ciężkiego piwa, które zostało po raz pierwszu uwarzone pod koniec XIX wieku i jest sprzedawane do dziś.
 
-Zdolność tego klanu skupia się na warzeniu piwa, do którego potrzeba Chmielu i Zboża. Za każdym razem, kiedy wypełnisz kontrakt eksportowy dający ci Chmiel, możesz natychmiast odrzucić 1 Zboże za każdy Chmiel z wypełnionego kontraktu. Otrzymujesz 9£ za każde odrzucone Zboże. Możesz odrzucić maksymalnie 3 Zboża za jeden kontrakt, czyli możesz otrzymać maksymalnie 27£ ze swojej zdolności za wypeniony kontrakt.
+Zdolność tego klanu skupia się na warzeniu piwa, do którego potrzeba Chmielu i Zboża. Za każdym razem, kiedy wypełnisz kontrakt eksportowy dający ci Chmiel, możesz natychmiast odrzucić 1 Zboże za każdy Chmiel z wypełnionego kontraktu. Otrzymujesz 9£ za każde odrzucone Zboże. Możesz odrzucić maksymalnie 3 Zboża za jeden kontrakt. Czyli możesz otrzymać maksymalnie 27£ ze swojej zdolności za wypeniony kontrakt. Możesz zdecydować się na wykorzystanie swoich umiejętności klanowych przed lub po skorzystaniu z jakichkolwiek bezpośrednich bonusów eksportowych.
 
-Strategia: Dobieraj kontrakty eksportowe, które dają ci Chmiel i są łatwe do wypełnienia.
+Strategia: Dobieraj kontrakty eksportowe, które dają ci Chmiel i są łatwe do wypełnienia. Wcześnie wyprodukuj zboże.
 
 Klan MacKenzie
 
@@ -571,7 +571,7 @@ W fazie produkcji zyskujesz 3 £ za każdą jednostkę Whisky, którą produkuje
 
 Ponadto masz piwnicę. Na początku każdej fazy produkcji beczki z Whisky są przenoszone o jedno miejsce w prawo. Beczka Whisky rozpoczynająca fazę produkcji w najdalszej przestrzeni po prawej stronie piwnicy zostaje umieszczona w magazynie. Możesz przenieść dowolną beczkę Whisky z piwnicy do swojego magazynu w dowolnym momencie. Kiedy przenosisz starą Whisky z piwnicy do puli, zyskujesz odpowiednio 7£ lub 15£.
 
-Pod koniec każdej fazy produkcji możesz umieścić 1 świeżo wyprodukowaną beczkę Whisky w piwnicy na lewym miejscu, aby mogła się zestarzeć w późniejszych fazach produkcji.
+Pod koniec każdej fazy produkcji możesz umieścić 1 świeżo wyprodukowaną beczkę Whisky w piwnicy na lewym miejscu, aby mogła się zestarzeć w późniejszych fazach produkcji. Na potrzeby punktowania płytki nr 2 Whisky w piwnicy zdobywa punkty.
 
 Strategia: Dopóki cena Whisky jest średnia lub wysoka, sprzedaż Whisky zapewnia dużo pieniędzy na nowe inwestycje. Kiedy spada cena Whisky, jej starzenie się i/lub eksportowanie jej jest lepsze.
 
@@ -612,7 +612,7 @@ Na koniec gry, każdy gracz otrzymuje 5 PZ za każdą jednostkę importowanego t
 Zaleta: Ten punkt jest mniej wybujały niż standardowy punkt, ale oferuje trochę więcej głębokości niż uproszczony punkt.
 Wada: Wariant ten jest mniej chybiony niż standardowy punktor, ale oferuje nieco więcej głębokości niż uproszczony punktor: Ten punkt usuwa niepewność, która może również pomóc graczom, którzy są w tyle i zmniejsza interakcję.
 
-Trzy przyszłe kontrakty eksportowe Face-Up
+Trzy przyszłe kontrakty eksportowe odkryte
 
 Losowanie nowych kontraktów eksportowych na początku rundy jest w zasadzie jedynym przypadkowym elementem w tej grze. Jeśli nie podoba Ci się nawet najmniejszy element losowy w grach strategicznych, możesz rozważyć zrobienie następujących rzeczy:
 Po uzupełnieniu planszy eksportowej kontraktami na początku rundy, wylosuj trzy kolejne kontrakty eksportowe z górnej części stosu remisowego i umieść je twarzą do góry obok planszy eksportowej. W następnej rundzie użyjesz tych odkrytych kontraktów do ponownego wypełnienia planszy eksportowej. Te trzy kontrakty nie są jeszcze dostępne dla akcji "Weź kontrakty eksportowe". Pozwala to jednak spojrzeć w przyszłość i tym samym zmniejsza niepewność. Nazwijmy więc te trzy kontrakty "przyszłymi kontraktami eksportowymi".

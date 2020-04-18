@@ -1,0 +1,1482 @@
+clans-of-caledonia-rules-en-v001.txt
+clans-of-caledonia-rules-pl-v001.txt
+https://karma-games.com/wp-content/uploads/2019/08/Caledonia_Rules_EN_v63_3mmBleed-min.pdf
+https://karma-games.com/wp-content/uploads/2019/08/FINAL-Polish-rules-Clans-of-Caledonia-min.pdf
+www.karma-games.com/clans-variants
+
+Clans of Caledonia is a strategic economic game set in 19th-century Scotland.
+Klany Kaledonii to strategiczna gra ekonomiczna osadzona w XIX-wiecznej Szkocji.
+
+During this period, Scotland made the transition from a predominantly agricultural economy to an industrialised one, heavily reliant on trade and export.
+W tym okresie Szkocja przekształciła się z gospodarki głównie rolniczej w gospodarkę uprzemysłowioną, silnie uzależnioną od handlu i eksportu.
+As a consequence, food production increased to support the growth in population, cheap cotton imports increasingly replaced linen, and raising sheep gained importance.
+Wzrosła produkcja żywności, a importowana bawełna coraz częściej zastępowała len.
+When European wine and brandy production was ravaged by a plague of insects in the late 19 th century, Scotch whisky was drafted as a substitute for cognac.
+Gdy pod koniec XIX wieku europejską produkcję wina i brandy spustoszyła plaga owadów, szkocka whisky stała się substytutem koniaku.
+The whisky industry exploded into life, turning it into the premium alcoholic beverage in Europe.
+Przemysł alkoholowy eksplodował, przekształcając whisky w najwyższej klasy napój alkoholowy w Europie.
+
+In Clans of Caledonia, players represent unique historical clans competing to produce, trade, and export agricultural goods, as well as their famous whisky!
+W Klanach Kaledonii gracze reprezentują historyczne klany konkurujące o produkcję, handel i eksport produktów rolnych, jak również słynnej w całej Europie whisky!
+
+Players: 1-4
+Gracze: 1-4
+Play time: 30 min per player
+Czas: 30 min na gracza
+Age: 12 and up
+Wiek: 12+
+Game Designer: Juma Al-JouJou
+Autor: Juma Al-JouJou
+Illustrator: Klemens Franz
+Ilustracje: Klemens Franz
+Publisher: Karma Games
+Wydawca: Czacha Games
+www.karma-games.com
+www.czachagames.pl
+
+How-To-Play Videos: karma-games.com/clans-videos/
+
+Rules FAQ: karma-games.com/clans-FAQ/
+
+Other Languages: karma-games.com/clans-rules/
+
+Game Components
+Komponenty
+Wooden tokens
+Drewniane znaczniki
+Goods tokens:
+Zasoby:
+10 Milk
+10x Mleko
+14 Wool
+14x Wełna
+10 Cheese
+10x Ser
+10 Grain
+10x Zboże
+10 Bread
+10x Chleb
+10 Whisky
+10x Whisky
+Cotton
+Bawełna
+Tobacco
+Tytoń
+Sugar cane
+Trzcina cukrowa
+
+Clan components:
+Komponenty klanów:
+16* Cows
+16* Krowy
+16* Sheep
+16* Owce
+16* Bakeries
+16* Piekarnie
+16* Fields
+16* Pola
+16* Distilleries
+16* Gorzelnie
+16* Cheese dairies
+16* Serownie
+32* Workers
+32* Robotnicy
+28* Merchants
+28* Kupcy
+4* Shipping tokens
+4* żetony Żeglugi
+4* Settlement tokens
+4* żetony Siedlisk
+4* Turn order tokens
+4* żetony Kolejności Tury
+4* Glory tokens
+4* żetony Chwały
+
+* in the 4 player colours
+* w 4 kolorach graczy
+
+Cardboard
+Plansze
+4 Map modules
+4 kafle Mapy
+1 Market board
+1 plansza Rynku
+1 Export board
+1 plansza Eksportu
+4 Player boards
+4 plansze graczy
+4 Export box tiles
+4 kafle pola eksportu
+9 Clan tiles
+9 kafli klanów
+4 Glory tiles
+4 kafle chwały
+8 Technology tiles
+8 kafli technologii
+9 Starting tiles
+9 kafli startowych
+12 Goods tiles
+12 kafli zasobów
+9 Scoring tiles
+9 kafli punktowania
+50 Export contract tiles
+50 kafli kontraktów eksportowych
+9 Port bonus tiles
+9 kafli portów
+70 Coins (30 Ones, 20 Fives and 20 Tens)
+70 monet (30 jedynek, 20 piątek i 20 dziesiątek)
+1 MacDonald tile
+1 kafel klanu MacDonald
+16* Port bonus marker tiles
+16* kafli premii portowych
+
+Miscellaneous
+Pozostałe
+6 Transparent price markers
+6 przezroczystych znaczników cen
+2 Dice (Solo Game)
+2 kości (gra solo)
+4 Player aids (English+German)
+4 pomoce gracza
+Scoresheet pad
+notes punktacji
+2 Rulebooks (English and German)
+instrukcja
+
+-1-
+
+Setup
+Przygotowanie
+
+First Play
+Pierwsza gra
+When you play Clans of Caledonia for the first time, please consider playing with a simplified ruleset.
+Kiedy grasz po raz pierwszy, zalecamy rozegranie gry z uproszczonymi zasadami.
+See page 9 for simplification variants.
+Zapoznaj się z różnymi wariantami rozgrywki na podstawie przykładu ze strony 9.
+
+Note: Money and goods are unlimited; if the tokens run out players can use the Goods tiles or other suitable materials.
+Uwaga: Pieniądze i zasoby są nieograniczone; jeśli wyczerpią się znaczniki, możesz korzystać z kafelków zasobów lub innych dowolnych materiałów.
+
+Map Modules
+Kafelki Mapy
+The game map consists of four double-sided Map modules which are labelled both by module (A-D) and by side (1-2), offering 16 different map configurations.
+Mapa gry składa się z 4 dwustronnych modułów Map oznaczonych zarówno modułem (A-D), jak i stroną (1-2), oferujących 16 różnych konfiguracji Mapy.
+Randomly choose a side for each Map module and construct the game map by making sure the rocks showing the module letter are in alphabetical order in a clockwise direction and are adjacent in the middle of the map (see picture).
+Losowo wybierz stronę dla każdego modułu Mapy i skonstruuj mapę gry, upewniając się, że skały pokazujące literę modułu są w porządku alfabetycznym zgodnie z ruchem wskazówek zegara i sąsiadują ze sobą na środku mapy (patrz ilustracja obok).
+
+Port Bonus Tiles
+Kafelki Bonusów Portowych
+Shuffle all the Port bonus tiles and randomly choose four.
+Potasuj wszystkie płytki kafli portów i losowo wybierz 4.
+Place one tile adjacent to a factory at each corner of the map, with its exact location depending on the player number.
+Umieść 1 kafel obok fabryki w każdym rogu Mapy, rozmieszczenie kafli zależy od liczby graczy.
+The 1-2 player icon indicates the space to put the Port bonus tiles in a 1 or 2 player game.
+Ikona 1-2 graczy wskazuje miejsce na wyłożenie kafli portów w grze dla 1 lub 2 graczy.
+The other arrow icon indicates the space for a 3 or 4 player game.
+Druga ikona wskazuje miejsce podczas rozgrywki dla 3-4 graczy.
+Return all unused Port bonus tiles back to the game box.
+Odłóż wszystkie niewykorzystane kafle do pudełka.
+
+Market Board
+Plansza Rynku
+Flip the Market board to the appropriate side for the number of players and place the transparent Price markers on the encircled starting prices.
+Odwróć planszę Rynku na odpowiednią dla liczby graczy stronę i umieść przezroczyste znaczniki cen na zaznaczonych cenach początkowych.
+Place the six types of Goods tokens (Wool, Milk, Grain, Bread, Cheese and Whisky) and their tiles below the Market in separate piles.
+Umieść 6 rodzajów towarów (Wełna, Mleko, Zboże, Chleb, Ser i Whisky) oraz ich kafelki poniżej Rynku w oddzielnych stosach.
+
+Export Board
+Plansza Eksportu
+Place the Export board beside the map, with the side face-up showing the icon matching the number of players.
+Umieść planszę Eksportu obok mapy przedstawiającej tę stronę, na której widać ikonę pasującą do liczby graczy.
+Then, shuffle the Scoring tiles and choose five randomly.
+Następnie potasuj kafle punktowania i wybierz losowo 5.
+Place these face-up in a random order in the five slots on the edge of the Export board.
+Umieść je odkryte w losowej kolejności w 5 wgłębieniach wzdłuż krawędzi planszy eksportu.
+Shuffle the Export contracts and create a face-down draw pile.
+Przetasuj kontrakty eksportowe i ułóż je w zakryty stos.
+Put one Export contract from the draw pile face-up on each box on the Export board (in a solo and 3 player game, one box remains empty).
+Następnie umieść po 1 odkrytym kontrakcie ze stosu na każdym polu na planszy Eksportu (w grze 1- i 3-osobowej 1 pole pozostaje puste).
+Place the players' Glory tokens and the Import tokens (Cotton, Tobacco and Sugar cane) off the board.
+Umieść należące do graczy żetony chwały i znaczniki importu (Bawełna, Tytoń i Trzcina cukrowa) w pobliżu planszy.
+On the 1-2 player side, the dice icons are only relevant for the solo game (see page 8).
+Ikony przedstawiające kostki znajdujące się na stronie planszy przeznaczonej dla 1-2 graczy są istotne tylko w grze jednoosobowej (patrz strona 8).
+
+-2-
+
+Player Starting Items
+Startowe Przedmioty Gracza
+Each player chooses a colour and takes one Player board and all of the game tokens of their colour.
+Każdy gracz wybiera kolor i bierze 1 planszę gracza oraz wszystkie znaczniki w swoim kolorze.
+Then each player performs the following actions:
+Następnie każdy gracz wykonuje poniższe czynności:
+
+1.
+Place all of your tokens on the corresponding locations on your Player board, four of each of the following: Sheep, Cows, Cheese Dairies, Bakeries, Fields and Distilleries.
+Umieść wszystkie swoje znaczniki na odpowiednich polach na planszy gracza, po 4 z następujących: Owce, Krowy, Serownie, Piekarnie, Pola i Gorzelnie.
+
+2.
+Place the eight Workers on the four forest locations (representing Woodcutters) and on the four mountain locations (representing Miners).
+Umieść 8 Robotników na 4 polach leśnych (drwale) i na 4 polach górskich (górnicy).
+
+3.
+Take four Port markers and one Settlement token in your colour.
+Weź 4 znaczniki premii portowych i 1 znacznik Siedliska w swoim kolorze.
+
+4.
+Fill the Merchant track with five cubes, representing Merchants.
+Wypełnij tor Kupca pięcioma sześcianami, które reprezentują Kupców.
+The remaining two cubes go below your Player board as starting stock.
+Pozostałe dwie kostki znajdują się poniżej planszy gracza jako początkowe.
+
+5.
+Place the Shipping token on the first location on the left of the Shipping track.
+Umieść znacznik Żeglugi na pierwszym polu po lewej stronie toru Żeglugi.
+
+6.
+Place the two Technology tiles flipped to the side with the arrow on the upper left-hand side on the respective locations below the Workers.
+Umieść dwa kafelki Technologii odwrócone na bok ze strzałką w lewym górnym rogu w odpowiednich miejscach poniżej Robotników na planszy gracza.
+
+7.
+Take one Export box tile and place it next to your Player board with the side face-up showing the icon matching the number of players.
+Weź jeden kafelek pola eksportu i umieść go obok planszy gracza stroną z ikoną pasującą do liczby graczy.
+
+Turn Order
+Kolejność w turze
+Determine a starting player randomly.
+Gracz rozpoczynający wybierany jest losowo.
+The turn order in the first round is clockwise.
+Kolejność tury w pierwszej rundzie jest zgodna z ruchem wskazówek zegara.
+Put all players' Turn order tokens accordingly on the Turn order track on the Export board.
+Umieść znaczniki tur wszystkich graczy na torze kolejności tury na planszy eksportu.
+In subsequent rounds the turn order is determined by the order in which players pass.
+W kolejnych rundach gracze będą wykonywać tury zgodnie z kolejnością spasowania w poprzedniej turze.
+
+Clans
+Klany
+Randomly draw one more Clan tile than the number of players (e.g.
+Losowo dobierz o jeden kafelek klanu więcej od liczby graczy (np.
+four Clan tiles in a 3 player game).
+4 kafelki klanów w grze dla 3 graczy).
+Then, randomly draw as many Starting tiles as Clan tiles and randomly allocate one next to each Clan tile.
+Następnie losowo wybierz taką samą liczbę kafli startowych co kafli klanów i losowo umieść po jednym obok każdego klanu.
+
+Starting with the last player and going in reverse turn order (counter-clockwise), each player chooses a Clan tile and its corresponding Starting tile and places both in front of themselves.
+Zaczynając od ostatniego gracza i wykonując ruch w odwrotnym kierunku (przeciwnie do ruchu wskazówek zegara), każdy gracz wybiera kafel klanu i odpowiadający mu kafel startowy i umieszcza oba przed sobą.
+The starting player will thus choose last and will choose between the remaining two clans.
+Wobec tego gracz rozpoczynający będzie dokonywał wyboru jako ostatni i wybierze jeden z dwóch klanów.
+The clans are explained in detail in the appendix.
+Klany opisano szczegółowo na końcu instrukcji.
+Players receive both the Goods and the money shown on their Starting tiles.
+Gracze otrzymują towary i pieniądze przedstawione na kafelkach startowych.
+
+2 player game
+gra dwuosobowa
+
+Note: Players may never hide any information.
+Uwaga: Gracze nigdy nie mogą ukrywać żadnych informacji.
+
+Placing the first Workers
+Umieszczanie pierwszych Robotników
+Beginning with the starting player and continuing in a clockwise order, each player places one Worker (Woodcutter or Miner) from the top of their Player board onto an empty hexagonal space on the game map.
+Rozpoczynając od pierwszego gracza i kontynuując zgodnie z ruchem wskazówek zegara, każdy z graczy umieszcza jednego Robotnika (drwala lub górnika), przenosząc go z górnej części planszy gracza na puste, sześciokątne pole mapy.
+Woodcutters must be placed on an empty space with a forest and Miners must be placed on any empty space with a mountain (check the Expand section for more details, page 4).
+Drwale muszą być umieszczani na pustych polach z lasem, a górnicy na pustych polach z górą (więcej informacji w sekcji Ekspansja na stronie 4).
+
+Then in reverse turn order (starting with the player who placed last and continuing in counter-clockwise order), each player places a second Worker.
+Następnie w kolejności odwrotnej (zaczynając od gracza, który umieścił Robotnika jako ostatni i kontynuując w kierunku przeciwnym do ruchu wskazówek zegara), każdy z graczy umieszcza drugiego Robotnika.
+The second Worker does not need to be adjacent to the first placed Worker.
+Drugi Robotnik nie musi być na polu obok pola z pierwszym Robotnikiem.
+Each space can only ever have one unit (Worker, Sheep, Cow, Cheese dairy, Bakery, Field or Distillery) on it at any time.
+Na każdym polu mapy może znajdować się tylko 1 jednostka (Robotnik, Owca, Krowa, Serownia, Piekarnia, Pole lub Gorzelnia).
+
+Each time a Worker is placed (including during the initial setup) players must pay both for the land where they place their Worker and for the Worker itself.
+Przy każdym umieszczeniu na planszy Robotnika (także podczas początkowego rozmieszczenia) gracze muszą opłacić koszt zarówno gruntu, na którym go umieścili, jak i koszt samego Robotnika.
+The cost of land is indicated by numbers on each space on the map, ranging from £1 to £6.
+Koszt gruntu jest przedstawiony na każdym polu mapy, od 1£ do 6£.
+The cost of a Worker is £6 for a Woodcutter and £10 for a Miner (as indicated above the Workers at the top of the Player boards).
+Koszt Robotnika wynosi 6£ za drwala i 10£ za górnika (zgodnie z informacją w górnej części planszy gracza.
+
+Money Icons
+Ikony Monet
+Red numbers on the coin icon indicate a cost that you pay.
+Czerwone cyfry na ikonie monet oznaczają koszt, który ponosisz.
+Black numbers indicate money that you receive.
+Czarne cyfry oznaczają pieniądze, które otrzymujesz.
+
+Example: The space shown contains both forest and mountain.
+Przykład: Przedstawione pole zawiera zarówno las, jak i góry.
+Thus, players can place either a Woodcutter (for £6 + £6 = £12) or a Miner (for £10 + £6 = £16) on this space.
+W związku z tym gracze mogą umieścić na tym polu drwala (za 6£ + 6£ = 12£) lub górnika (za 10£ + 6£ = 16£).
+
+-3-
+
+Game Structure
+Przebieg Gry
+
+There are five rounds and four Phases per round.
+Rozgrywka trwa 5 rund, z których każda dzieli się na 4 fazy.
+Each round contains the following Phases:
+W każdej rundzie fazy dzielimy na:
+
+Phase 1: Preparation Phase - Flip the Scoring tile of the previous round, refill any empty boxes on the Export board and retrieve your Merchants (skip this phase in the first round).
+Faza 1: Faza Przygotowania — Odwróć kafel z punktacją z poprzedniej rundy, uzupełnij wszystkie pola na planszy eksportu i odbierz swoich Kupców.
+Phase 2: Action Phase - Players take Actions until all players have passed.
+Faza 2: Faza Akcji — Gracze podejmują akcje, dopóki wszyscy nie spasują.
+Phase 3: Production Phase - Units on the game board produce Goods and Income.
+Faza 3: Faza Produkcji — Jednostki na planszy produkują towary i pieniądze.
+Phase 4: Scoring Phase - Players receive Glory according to the current round's Scoring tile.
+Faza 4: Faza Punktowania — Gracze otrzymują Chwałę zgodnie z kafelkami punktacji z obecnej rundy.
+
+At the end of the fifth round, final scores are calculated and the player with the most Victory Points (VP) is the winner.
+Pod koniec piątej rundy obliczane są końcowe wyniki, a zwycięzcą zostaje gracz z największą liczbą punktów zwycięstwa (PZ).
+
+Phase 1: Preparation
+Faza 1: Przygotowanie
+Flip the previous round's Scoring tile face-down.
+Zakryj kafelek punktacji z poprzedniej rundy, odwracając go rewersem do góry.
+If needed, refill any empty boxes on the Export board with Export contracts (according to player count).
+W razie potrzeby uzupełnij puste pola na planszy Eksportu kaflami kontraktów eksportowych (zgodnie z liczbą graczy).
+Players retrieve their own Merchants from the Market and place them next to their Player boards.
+Gracze otrzymują swoich Kupców z rynku i umieszczają ich obok swoich Plansz Graczy.
+
+Phase 2: Action
+Faza 2: Akcje
+During the Action phase, each player takes exactly one Action per turn, in turn order.
+Podczas fazy akcji każdy gracz wykonuje dokładnie 1 akcję na turę, zgodnie z kolejnością tury.
+Play continues until all players have passed.
+Faza akcji trwa, dopóki wszyscy gracze nie spasują.
+There are eight possible Actions to choose from, each of which (except for Passing), can be taken multiple times during a round:
+Do wyboru jest 8 możliwych akcji, z których każdą (z wyjątkiem spasowania) można wykonywać wiele razy podczas rundy.
+
+1.
+Trade
+Handel
+2.
+Obtain an Export Contract
+Pozyskaj kontrakt eksportowy
+3.
+Expand
+Ekspansja
+4.
+Upgrade Shipping
+Ulepsz Żeglugę
+5.
+Upgrade Technology
+Ulepsz Technologię
+6.
+Hire a Merchant
+Zatrudnij Kupca
+7.
+Fulfil an Export Contract
+Zrealizuj kontrakt eksportowy
+8.
+Pass
+Spasuj
+
+1.
+Trade
+Handel
+The Merchants that are in your stock, not on your Player board, are ready to be used in a Trade action.
+Kupcy, którzy są w twoim magazynie, a nie na planszy gracza, są gotowi do użycia w akcji Handlu.
+You can send these Merchants to the Market to buy or sell Goods.
+Możesz ich wysłać na rynek, aby kupić lub sprzedać towary.
+Place as many Merchants on the buy or sell area of a single Good (designated by the up and down arrows respectively) as the quantity of Goods you wish to buy or sell.
+Umieść tylu Kupców w obszarze kupna lub sprzedaży pojedynczego towaru (oznaczonego odpowiednio strzałkami w górę i w dół) ile jest towarów, które chcesz kupić lub sprzedać.
+These Merchants remain on the Market board until retrieved in the subsequent Preparation phase.
+Kupcy ci pozostają na rynku, dopóki nie zostaną odzyskani w kolejnej fazie przygotowania.
+You then pay/receive the Good's current price multiplied by the number of Goods bought or sold.
+Następnie płacisz lub otrzymujesz pieniądze zgodnie z aktualną ceną towaru pomnożoną przez liczbę zakupionych lub sprzedanych towarów.
+All trades are made with the common Goods pools.
+Wszystkie transakcje dokonywane są z wykorzystaniem wspólnych puli towarów.
+Afterwards, the traded Good's price is adjusted by moving the Price marker according to the arrow of the area (up when buying or down when selling) by as many steps as the number of Goods traded.
+Następnie cena handlowa jest korygowana poprzez przesunięcie znacznika ceny zgodnie ze strzałką (w górę przy zakupie lub w dół przy sprzedaży) o tyle pól, ile wyniosła liczba kupionych/sprzedanych towarów.
+
+Players may only buy or sell one type of Good during a Trade action.
+Gracze mogą kupować lub sprzedawać tylko jeden rodzaj towaru podczas akcji handlu.
+In order to trade different types of Goods they must take the Trade action multiple times.
+Aby handlować różnymi towarami, muszą podjąć tę akcję wielokrotnie.
+
+It is prohibited to have Merchants from the same player on both the buy and sell area of the same Good.
+Zabronione jest posiadanie Kupców od jednego gracza jednocześnie w obszarze kupna i sprzedaży tego samego towaru.
+High-speed trading was not common in 19th-century Scotland!
+Handel wysokich częstotliwości nie był powszechny w XIX-wiecznej Szkocji!
+
+Example: A player wants to buy two units of Whisky at the current price of £10.
+Przykład: Gracz chce kupić 2 jednostki Whisky w obecnej cenie 10£.
+They place two Merchants above the up arrow of the Whisky column, pay £20.
+Umieszcza 2 Kupców nad strzałką w górę w kolumnie Whisky, płacąc 20£.
+Take two Whisky barrels from the supply, and put them into their stock.
+Bierze 2 beczki Whisky z zasobów ogólnych i umieszcza je w swoich zapasach.
+The Whisky price then increases by two steps to £12.
+Cena Whisky wzrasta o 2 pola do 12£.
+
+2.
+Obtain an Export Contract
+Uzyskaj kontrakt eksportowy
+Pay the current round cost to take any Export contract from the Export board and place it on your empty Export box.
+Zapłać koszt bieżącej rundy, aby wziąć kontrakt eksportowy z planszy Eksportu i umieść go na pustym polu Eksportu.
+The cost is determined by the game round and is indicated next to the Scoring tiles on the Export board.
+Wysokość opłaty określa runda gry i jest wskazywana obok kafli punktowania na planszy Eksportu.
+Note that in the first round, players receive £5 when obtaining an Export contract rather than paying a cost.
+Zauważ, że w pierwszej rundzie gracze otrzymują 5£, gdy uzyskują kontrakt eksportowy.
+You can have only one unfulfilled Export contract on your Export box (exception: Clan Buchanan).
+Możesz mieć tylko 1 niezrealizowaną umowę eksportową na swoim polu eksportu (wyjątek: Klan Buchanan).
+You must fulfil your Export contract before obtaining a new one.
+Musisz wypełnić kontrakt przed uzyskaniem nowego.
+It is not possible to get rid of unfulfilled Export contracts.
+Nie można odrzucić niewykonanego kontraktu.
+
+3.
+Expand
+Ekspansja
+Place one unit (Sheep, Cow, Cheese dairy, Bakery, Field, Distillery, Woodcutter or Miner) from the top of the respective column of your Player board onto any empty space of the map that is neighbouring or within Shipping reach of any of your units.
+Umieść jedną jednostkę (Owca, Krowa, Serownia, Piekarnia, Pole, Gorzelnia, drwal lub górnik) z górnej części odpowiedniej kolumny planszy gracza na dowolnym pustym obszarze mapy, który jest w pobliżu lub w zasięgu żeglugi dowolnej z twoich jednostek.
+Pay for the costs of the unit (coin with red number above the respective unit) and for the space (coin with red number between £1 and £6).
+Zapłać koszt jednostki oraz koszt gruntu (moneta z czerwoną liczbą od 1£ do 6£).
+
+-4-
+
+Neighbouring: adjacent space with no river in between
+Sąsiadowanie: 2 przylegające pola, pomiędzy którymi nie ma rzeki
+Within Shipping reach: a space that you can reach with your current Shipping level
+W zasięgu żeglugi: przestrzeń, do której możesz dotrzeć przy obecnym poziomie Żeglugi
+Land Restrictions: Land types only support specific units:
+Ograniczenia lądowe: typy ziem, na których mogą przebywać tylko określone jednostki:
+Grasslands: Sheep, Cows, Cheese dairies, Bakeries, Fields and Distilleries
+Łąki: Owce, Krowy, Serownie, Piekarnie, Pola i Gorzelnie
+Forests: Woodcutters
+Lasy: drwale
+Mountains: Miners
+Góry: gónicy
+
+If a space contains more than one of these land types, you can place any corresponding unit on it.
+Jeśli pole zawiera więcej niż 1 z tych typów, możesz umieścić na nim dowolną odpowiednią jednostkę.
+In the image shown, a player could deploy any unit on this space because it contains all three land types.
+Na przykładzie obok gracz może rozmieścić dowolną swoją jednostkę na tym polu, gdyż zawiera ona wszystkie 3 typy terenu.
+
+Consequently, if you have deployed all your Woodcutters you cannot expand to a space that contains only forest.
+Jeśli więc wyłożyłeś już wszystkich swoich drwali, nie możesz dokonać ekspansji na pole zawierające tylko las.
+Likewise, if you have deployed all your Miners you cannot expand to a space that contains only mountain.
+Podobnie, jeśli wyłożyłeś wszystkich górników, nie możesz dokonać ekspansji na pole zawierające tylko góry.
+
+Neighbourhood Bonus
+Premia sąsiedztwa
+If you expand into a space neighbouring another player's unit (adjacent and no river in between), you may immediately perform an additional Trade action and buy the type of Good produced by the neighbouring unit from the common stock.
+Jeśli dokonasz ekspansji na pole sąsiadujące z jednostką innego gracza (przylegające pole i nie ma pomiędzy nimi rzeki), możesz wykonać dodatkową akcję handlu i kupić towar tego samego rodzaju, jaki produkuje sąsiadująca jednostka, pobierając go z zasobów ogólnych.
+You cannot buy more than three pieces of the same type of Good per turn (four pieces in a 2 player game).
+Nie można kupić więcej niż 3 sztuki tego samego towaru na turę (4 sztuki w grze dla 2 osób).
+The price of Basic goods (Wool, Grain, Milk) is reduced by £2.
+Cena podstawowych towarów (Wełna, Zboże, Mleko) jest obnizona o 2£.
+The price of Processed goods (Bread, Cheese, Whisky) is reduced by £3.
+Cena towarów przetworzonych (Chleb, Ser, Whisky) jest obniżona o 3£.
+
+Proceed with the purchase as explained under the Trade action (see page 4).
+Kontynuuj zakupy zgodnie z zasadami akcji Handlu (patrz strona 4).
+You need to have the appropriate number of Merchants available to use this bonus.
+Aby skorzystać z tej premii, musisz mieć odpowiednią liczbę Kupców.
+Prices are adjusted the same way as in the Trade action.
+Ceny są korygowane w taki sam sposób, jak w przypadku akcji Handlu.
+
+If you expand into a space neighbouring several opponent spaces with units deployed, you may use the Neighbourhood bonus for each of these units.
+Jeśli dokonasz ekspansji na pole sąsiadujące z kilkoma przeciwnikami, możesz użyć premii za sąsiedztwo dla każdej z tych jednostek.
+You cannot buy more than three pieces of the same type of Good per turn, (four pieces in a 2 player game) even when expanding into a space neighbouring two identical units.
+
+Premię sąsiedztwa można wykorzystać tylko natychmiast po ekspansji.
+The Neighbourhood bonus can only be used immediately after expanding.
+
+Przykład: Jeśli gracz dokona ekspansji na pole sąsiadujące z gorzelnią innego gracza, może kupić Whisky.
+Example: If a player expands into a space neighbouring another player's Distillery, they may buy Whisky.
+Jesli aktualna cena Whisky wynosi 10£, mógłby kupić 3 Whisky (lub 4 w grze dla 2 graczy) z zasobów ogólnych po 7£ za sztukę, umieszczając odpowiednią liczbę swoich Kupców na strzałce w górę przy symbolu Whisky.
+If the current Whisky price is £10, then they could buy three Whisky (or four in a 2 player game) from the general supply at £7 each by placing the appropriate number of their Merchants on the Whisky's up arrow.
+Jeśli obok miejsca, w którym się znajdują, znajduje się również Serownia przeciwnika, to aktualny gracz może również kupić do 3 sztuk (lub 4 w grze dla 2 graczy) Sera ze zniżką, jeśli ma wystarczającą liczbę Kupców, aby tego dokonać.
+If there was also an opponent's Cheese dairy neighbouring the space they expanded into, that current player could also buy up to three Cheese at a discount (or four in a 2 player game) if they had sufficient Merchants to do so.
+
+Premia budynków
+Building Bonus
+Jeśli rozmieścisz swój czwarty budynek danego typu na mapie (Serownię, Piekarnię lub Gorzelnię), a twoje pole eksportu jest puste, możesz od razu dociągnąć 3 kontrakty eksportowe ze stosu.
+If you deploy your fourth building of one type onto the map (Cheese dairy, Bakery or Distillery) AND your Export box is empty, you may immediately draw three Export contracts from the draw pile.
+Weź jedną lub nie bierz żadnej z umów, a niewybrane kontrakty odłóż na spód stosu.
+Take either one or none of the Export contracts, and the unselected Export contracts are returned to the bottom of the draw pile.
+Jeśli podejmiesz umowę eksportową, ponosisz koszt tak, jakbyś wykonał akcję Uzyskanie kontraktu eksportowego.
+If you take an Export contract you pay the costs as if you performed the action Obtain an Export Contract.
+Premię tę nadal uważa się za część akcji Ekspansji.
+This bonus is still considered part of the Expand action.
+
+4.
+Ulepsz żeglugę
+Upgrade Shipping
+Zapłać 4£, aby przesunąć znacznik Żeglugi o jedno pole i zwiększ swój zasięg.
+Pay £4 to move your Shipping marker forward one space to increase your Shipping reach.
+Dzięki temu możesz dokonywać ekspansji przez jeziora i rzeki.
+Doing so allows you to expand across rivers and lochs.
+Bez względu na poziom Żeglugi, gracz nigdy nie może przeskoczyć przez pole lądu, nawet wzdłuż rzeki.
+Regardless of Shipping level, a player may never hop across a land space, not even along a river.
+
+Poziomy Żeglugi:
+Shipping Levels:
+Brak Żeglugi: Nie można dokonywać ekspansji po żadnym rodzaju wody.
+No shipping: You cannot expand across any type of water.
+Przeprawa przez rzekę: Możesz dokonywać ekspansji bezpośrednio przez rzekę na sąsiednie pole.
+River-crossing: You can now expand directly across a river to an adjacent space.
+1-jezioro: Oprócz przeprawy przez rzekę możesz dokonać ekspansji przez 1 jezioro.
+1-loch: Alternatively to river-crossing, you may now expand across one loch space instead.
+2-jeziora: Oprócz przeprawy przez rzekę możesz dokonać ekspansji przez 2 jeziora.
+2-loch: Alternatively to river-crossing, you may now expand across two loch spaces instead etc.
+
+Przykład: Weź pod uwagę czerwonego gracza: bez ulepszonej Żeglugi czerwony może rozszerzyć się tylko do pól oznaczonych [1].
+Example: Consider the red player: with no upgraded Shipping, red can only expand to spaces marked [1]; with River-crossing shipping red can also expand to spaces marked [2]; with 1-loch shipping red can also expand to the space marked [3].
+Posiadając przeprawę przez rzekę, może rozszerzyć się do miejsc oznaczonych [2]; mając poziom 1-jeziora może rozszerzyć się do miejsca oznaczonego [3].
+Red cannot expand to the spaces marked with [X], no matter the Shipping level, because a player can only cross rivers to adjacent spaces-a player cannot expand by leaping over land spaces (not even along a river).
+Czerwony nie może dokonać ekspansji pól [X], bez względu na poziom żeglugi, ponieważ rzeki dają możliwość ich przekroczenia tylko do przyległych pól - gracz nie może dokonywać ekspansji, przeskakując przez pola lądowe (nawet wzdłuż rzeki).
+
+When trying to apply the Neighbourhood bonus, the space marked [*] is neighbouring the blue Cheese dairy.
+Podczas próby zastosowania premii sąsiedztwa miejsca oznaczone [*] sąsiadują z niebieską Serownią.
+The top space marked [2] is adjacent to the blue Cheese dairy but because there is a river in between, it is still not neighbouring.
+Górne pole, oznaczone jako [2], przylega do niebieskiej Serowni, ale jest między nimi rzeka, więc nie sąsiadują ze sobą.
+
+-5-
+
+5.
+Upgrade Technology
+Ulepsz technologię
+
+Players can increase the income from their Workers (Woodcutters and Miners) by upgrading their equipment.
+Gracze mogą zwiększyć dochody swoich pracowników (drwali i górników), ulepszając ich wyposażenie.
+Upgraded Workers produce £2 more in the Production Phase of each round.
+Ulepszeni pracownicy produkują 2£ więcej w fazie produkcji w każdej rundzie.
+To upgrade a Worker technology, pay £10 and flip over the corresponding Technology tile on your Player board.
+Aby ulepszyć technologię Robotników, zapłać 10£ i odwróć odpowiedni kafel technologii na planszy gracza.
+
+If you receive a Bonus Upgrade (see Direct Export Bonuses below) and you choose the Technology upgrade action you pay £5 instead of £10.
+Jeśli otrzymasz ulepszenie w formie premii (zobacz premie bezpośredniego eksportu poniżej) wybierasz akcję ulepszenia technologii w cenie 5£ zamiast 10£.
+
+6.
+Hire a Merchant
+Zatrudnij kupca
+
+Players start with two Merchants in their stock.
+Gracze zaczynają z 2 Kupcami w swoim magazynie.
+To hire a new Merchant, pay £4 and take an additional Merchant from your Player board and add it to your stock.
+Aby zatrudnić nowego, zapłać 4£ i weź dodatkowego Kupca z planszy gracza, dodając go do swojego magazynu.
+From now on, you may use this Merchant for future Trade actions.
+Od teraz możesz używać go do przyszłych działań handlowych.
+
+7.
+Fulfil an Export Contract
+Zrealizuj kontrakt eksportowy
+
+To fulfil an Export contract that is on your Export box, pay the Goods listed on the left half of the Export contract tile.
+Aby zrealizować kontrakt eksportowy, który znajduje się w polu eksportowym, zapłać towary wymienione w lewej połowie pola kontraktu.
+Then you receive the benefits shown on the right half of the tile.
+Następnie otrzymujesz korzyści pokazane na prawej połowie kafelka.
+These benefits include Import goods such as Hops, Cotton, Tobacco or Sugar cane and Direct export bonuses.
+Korzyści te obejmują import towarów takich jak Chmiel, Bawełna, Tytoń lub Trzcina cukrowa oraz bezpośrednie premie eksportowe.
+When a player fulfils an Export contract with the import goods Cotton, Tobacco or Sugar cane, they move the respective token on the Export board track by as many steps as the amount imported.
+Kiedy gracz realizuje kontrakt z importowanymi towarami, przesuwa odpowiedni znacznik na torze planszy Eksportu o liczbę pól odpowiadającą liczbie importowanych towarów.
+If the token reaches or passes a marked step (see image on the right side), the player gains £1 (if they forget to move the import token at the point of fulfilling an Export contract, they do not get the bonus afterwards!).
+Jeśli znacznik osiągnie lub przejdzie oznaczone pole (patrz zdjęcie po prawej stronie), gracz otrzymuje 1£ (jeśli gracz zapomni przenieść znacznik importu w momencie wypełniania kontraktu, nie otrzymuje premii!).
+As soon as the player has fulfilled an Export contract, they place the Export contract tile face-up next to their Export box, which is open again for a new Export contract.
+Gdy tylko gracz wypełni kontrakt eksportowy, kładzie odkryty kafel kontraktu obok pola eksportowego, które ponownie staje się wolne i może przyjąć nowy kontrakt.
+
+Export contracts never require Grain or Milk but may require any combination of the other goods.
+Kontrakty eksportowe nigdy nie wymagają Zboża i Mleka, ale mogą wymagać dowolnej kombinacji innych towarów.
+
+Export contracts that require Meat (Beef or Mutton) can only be fulfilled by slaughtering Cows or Sheep.
+Kontrakty eksportowe, które wymagają mięsa (Wołowiny lub Baraniny) mogą być zrealizowane tylko poprzez ubój Krów lub Owiec.
+A player slaughters their animals, as part of the Fulfil an Export Contract action, by removing the animal from the map and placing it back onto their Player board.
+Gracz zabija swoje zwierzęta w ramach akcji "Wypełnij kontrakt eksportowy", usuwając zwierzę z mapy i umieszczając je z powrotem na planszy gracza.
+Note that this will reduce their Milk or Wool production.
+Zauważ, że zmniejszy to produkcję mleka lub wełny gracza.
+It will also free the space where the animal was and any player will be able to expand there, subject to the normal expansion rules.
+Zwolni to również pole, na którym znajdowało się zwierzę i każdy gracz będzie mógł dokonać tam ekspansji, przestrzegając normalnych zasad ekspansji.
+Slaughtering is only allowed to fulfil an Export contract and does not require a separate turn.
+Ubój jest dozwolony tylko w celu wywiązania się z kontraktu eksportowego i nie wymaga osobnego ruchu.
+
+Direct Export Bonuses
+Bezpośrednia premia eksportowa
+
+There are three Direct export bonuses that players can take in any order to gain an immediate advantage:
+Istnieją 3 bezpośrednie premie eksportowe, które gracze mogą wziąć w dowolnej kolejności, aby uzyskać natychmiastową korzyść:
+
+Money, taken immediately from the supply.
+Pieniądze wzięte natychmiast z zasobów ogólnych.
+
+Free space, which allows the player to immediately take an Expand action without paying the land cost of the space into which they expand.
+Wolna przestrzeń, która umożliwia graczowi natychmiastowe zajęcie danego pola mapy bez płacenia kosztu gruntu.
+The player must still pay the unit cost, and all rules for expanding and Neighbourhood bonuses apply.
+Gracz musi nadal ponieść koszt jednostki i obowiązują go wszystkie zasady oraz premie z sąsiedztwa.
+
+Bonus Upgrade action-choose one of the following Actions:
+Ikona akcji bonusowej - wybierz jedną z poniższych akcji:
+- A Technology upgrade action for the discounted price of £5,
+- Akcja ulepszenia technologii w obniżonej cenie 5£,
+- A Shipping upgrade action at no cost,
+- Akcja ulepszenia żeglugi za darmo,
+- Hire a Merchant from the Player board at no cost.
+- Wynajęcie Kupca z planszy gracza bez żadnych opłat.
+Alternatively, the player may take one of their Merchants back from the Market into their stock instead of hiring a new one.
+Alternatywnie gracz może zdjąć jednego swojego Kupca z rynku zamiast wynajmować nowego.
+
+If a player obtains multiple Bonus upgrade actions they can choose the same or different upgrades.
+Jeśli gracz uzyska wiele akcji bonusowych, może wybrać te same lub różne ulepszenia.
+
+8.
+Pass
+Spasowanie
+On your turn, if you cannot or do not want to take any more Actions, you must Pass and stop taking Actions for the remainder of this round.
+W swojej turze, jeśli nie możesz lub nie chcesz podejmować żadnych dalszych działań, musisz spasować i przerwać wykonywanie akcji w pozostałej części rundy.
+After Passing, move your Turn order token to the leftmost available position of the next round and receive the Pass bonus money indicated (even in the last round).
+Po spasowaniu umieść swój znacznik kolejności na najbliższej dostępnej pozycji następnej rundy po lewej i otrzymaj wskazane pieniądze.
+The order in which players pass determines the turn order for the next round.
+Kolejność, w której gracze przechodzą na ten tor, określa kolejność w następnej rundzie.
+
+Free Action: Using a Port bonus tile
+Darmowa akcja: użycie kafla Portu
+If a Port bonus tile is neighbouring, or within Shipping reach of, any of a player's units, that player may use the corresponding Port bonus in addition to whatever Action they perform on their turn (a Port bonus tile can be used before or after the player's main Action).
+Jeśli kafel Portu sąsiaduje lub znajduje się w zasięgu żeglugi dowolnej jednostki gracza, może on wykorzystać ten Port, niezależnie od akcji, którą wykonuje w swojej turze.
+A player can use the Port bonus immediately or in any future turn (as long as the player's unit is neighbouring or within shipping reach).
+Gracz może wykorzystać Port natychmiast lub w dowolnej kolejnej turze (o ile jednostka gracza jest w pobliżu lub w zasięgu żeglugi).
+Once you use the Port bonus, put a Port bonus marker of your colour next to the used Port bonus tile to indicate you have used it.
+Po skorzystaniu z Portu gracz umieszcza znacznik premii portowej w swoim kolorze obok użytego pola Portu, aby zaznaczyć, że go użył.
+Each player can use each Port bonus tile only once in the game (several players can use the same Port bonus tile, though).
+Każdy gracz może użyć danego Portu tylko raz w grze (kilku graczy może korzystać z tego samego Portu).
+A player may use multiple Port bonus tiles in one turn (see the Appendix).
+Gracz może użyć wielu Portów w jednej turze (patrz strona 10).
+
+Example: The black player passed first, received £16, and will be first in turn order for the next round.
+Przykład: Czarny gracz spasował pierwszy, otrzymuje 16£ i będzie pierwszym graczem w następnej rundzie rozgrywki.
+
+Example: The black player can use the Port bonus no matter their Shipping level because black has a unit neighbouring the Port bonus tile.
+Przykład: Czarny gracz może użyć kafelka Portu, ponieważ sąsiaduje z nim bezpośrednio.
+The red player can also use the Port bonus if red's Shipping reach is 2-loch or higher.
+Gracz czerwony również może wykorzystać Port, jednak musi posiadać aktualnie rozwiniętą żeglugę na 2-jeziora.
+
+-6-
+
+Phase 3: Production
+Faza 3: Produkcja
+
+During the Production phase players receive Income and produce Goods from units that are deployed on the map.
+Podczas fazy produkcji gracze otrzymują dochód i wytwarzają towary z jednostek rozmieszczonych na mapie.
+The amount of money and Goods produced in this phase is indicated by the empty slots on the Player board from which the units have been removed and that now show the Income icon [+].
+Ilość pieniędzy i towary wyprodukowane w tej fazie są oznaczone pustymi miejscami na planszy gracza, z której jednostki zostały usunięte i które teraz pokazują ikonę dochodu.
+
+The Production phase follows this order:
+Faza produkcji przebiega zgodnie z następującym porządkiem:
+
+Each deployed Worker earns you money (each Worker below the first displays the total income for your convenience):
+Każdy zaangażowany Robotnik zarabia pieniądze (każdy Robotnik poniżej pierwszego przedstawia dla wygody całkowity dochód):
+- Each Woodcutter earns £4 (£6 with the Technology upgrade).
+- Każdy drwal zarabia 4£ (6£ z ulepszeniem).
+[?]-> £4 (£6 with upgrade)
+[?] -> 4£ (6£ z ulepszeniem)
+- Each Miner earns £6 (£8 with the Technology upgrade).
+- Każdy górnik zarabia 6£ (8£ z ulepszeniem).
+[?] => £6 (£8 with upgrade)
+[?] -> 6£ (8£ z ulepszeniem)
+
+Produce Basic goods:
+Wyprodukuj podstawowe towary:
+- Each Sheep produces one Wool.
+- Każda Owca produkuje 1 Wełnę.
+- Each Cow produces one Milk.
+- Każda Krowa produkuje 1 Mleko.
+- Each Field produces two Grain.
+- Każde Pole wytwarza 2 Zboża.
+
+Produce Processed goods (optional):
+Wyprodukuj produkty przetworzone (opcjonalnie):
+- Each Cheese dairy may process one Milk into one Cheese.
+- Każda Serownia może przetworzyć 1 Melko w 1 Ser.
+- Each Bakery may process one Grain into one Bread.
+- Każda Piekarnia może przetworzyć 1 Zboże w 1 Chleb.
+- Each Distillery may process one Grain into one Whisky.
+- Każda Gorzelnia może przetworzyć 1 Zboże w 1 Whisky.
+
+The Basic goods spent to produce the Processed goods can come from anywhere: including received during the current Production phase, a previous Production phase, purchased from the Market on a previous turn, etc.
+Podstawowe towary wydawane na produkcję towarów przetworzonych mogą pochodzić z dowolnego miejsca: w tym z otrzymanej podczas obecnej fazy produkcji, poprzedniej fazy produkcji czy zostać zakupione z rynku w poprzedniej turze itp.
+
+Hint: It is recommended that players store their current Goods and money below their Player boards and put the Goods they just produced above their Player board so players can check if they took the correct amount of Goods.
+Wskazówka: Zaleca się, aby gracze przechowywali swoje bieżące towary i pieniądze poniżej swoich plansz garcza i umieszczali towar, który właśnie wyprodukowali powyżej planszy gracza, aby pozostali gracze mogli sprawdzić, czy zabrali oni odpowiednią liczbę towarów.
+
+Hint: Once players are familiar with how the Production phase works they can collect their Income after Passing to speed up the game.
+Wskazwówka: Gdy gracze będą już zaznajomieni z przebiegiem fazy produkcji, mogą zbierać swoje dochody po spasowaniu, aby przyspieszyć rozgrywkę.
+
+Phase 4: Scoring
+Faza 4: Punktacja
+
+In this phase players earn the Glory bonus indicated on the bottom half of the current Scoring tile, if they have fulfilled the requirement in the top half.
+W tej fazie gracze otrzymują premię do Chwały wkazaną w dolnej połowie aktualnego kafelka punktowania, jeśli spełnili wymaganie w górnej połowie.
+Glory is tracked by moving the Glory tokens on the track on the Export board (take or flip a Glory marker when you complete a lap).
+Chwała jest śledzona poprzez przesunięcie znaczników graczy na ścieżce na planszy Eksportu (weź znacznik Chwały, jeśli przekroczysz cały tor punktacji).
+Each Scoring tile is explained in the Appendix.
+Każdy kafelek punktowania jest dokładnie opisany na stronie 10.
+
+Final Scoring
+Punktacja końcowa
+
+Final Scoring takes place after five rounds are completed.
+Końcowe podliczanie punktów odbywa się po zakończeniu piątej rundy gry.
+Fill in the VP for each player on the Scoresheet.
+Wyniki PZ każdego gracza należy zsumować za pomocą notesu punktacji.
+The player with the most VP is proclaimed the greatest Clan Chief of Caledonia and wins the game!
+Gracz z największą liczbą PZ zostaje okrzyknięty najlepszym wodzem Klanu Kaledonii i wygrywa grę!
+
+Glory: 1 VP for each step on the Glory track.
+Chwała: 1 PZ za każdy krok na torze Chwały.
+Basic goods: 1 VP for each Basic Good in your stock.
+Podstawowe towary: 1 PZ za każdy podstawowy towar w swoim magazynie.
+Processed goods: 2VP for each Processed good in your stock.
+Towary przetworzone: 2 PZ za każdy przetworzony towar w swoim magazynie.
+Money: 1 VP for every £10.
+Pieniądze: 1 PZ za każde 10£.
+Leftover money breaks ties on the final score.
+Pozostałe pieniądze rozstrzygają remisy.
+Hops: 1 VP for each Hops imported listed on your fulfilled Export contracts.
+Chmiel: 1 PZ za każdy import Chmielu na wypełnionych kafelkach kontraktów eksportowych.
+Cotton, Tobacco and Sugar cane: 3, 4 or 5VP each according to their rarity.
+Bawełna, Tytoń i Trzcina cukrowa: po 3, 4 lub 5 PZ według ich rzadkości.
+(The rarest Imported Good is the most valuable one!) The Import token that was moved the furthest along the track (because it was imported the most by all players) is the most common Imported Good and is worth 3 VP each, the second most Imported Good is worth 4 VP each and the least Imported Good is worth 5VP each.
+Żeton importu, który został przesunięty najdalej wzdłuż toru (ponieważ został zaimportowany najczęściej przez wszystkich graczy) jest najczęstszym towarem i jest warty 3 PZ za sztukę, drugi najbardziej zaimportowany towar jest warty 4 PZ, a najmniej zaimportowany towar jest warty 5 PZ za sztukę.
+If there is a tie regarding the amount of Imported Goods, Cotton is the rarest, followed by Tobacco, then Sugar cane.
+Jeśli zaistnieje remis w odniesieniu do liczby importowanych towarów, najrzadszym jest Bawełna, a następnie Tytoń i Trzcina cukrowa.
+Players receive points for the number of Imported Goods listed on their fulfilled Export contracts multiplied by the respective VP.
+Gracze otrzymują punkty za liczbę przywożonych towarów wymienionych w wypełnionych kontraktach eksportowych pomnożonych przez odpowiednie PZ.
+
+Export Scoring
+Punkty za eksport
+
+Each player counts the number of their fulfilled Export contracts and gains VP as follows:
+Każdy gracz liczy liczbę zrealizowanych kontraktów i otrzymuje PZ w następujący sposób:
+3 or 4 players: 12VP for the player with the most fulfilled Export contracts, 6VP for the player with the second most.
+3 lub 4 graczy: 12 PZ dla gracza z największą liczbą zrealizowanych kontraktów eksportowych, 6 PZ dla gracza na drugim miejscu.
+Game with 2 players: 8VP for the player with the most fulfilled Export contracts only.
+Gra dla 2 osób: 8 PZ wyłącznie dla gracza z największą liczbą zrealizowanych kontraktów.
+
+In case of a tie, evenly divide the VP of the respective tiers among the tied players (round down if necessary).
+W przypadku remisu równomiernie podziel PZ danego poziomu między remisującymi graczami (zaokrąglając w dół).
+
+Example: Tobacco was imported the least and Cotton the most.
+Przykład: Najmniej importowano Tytoń, a najwięcej Bawełnę.
+Thus, each unit of Tobacco is worth 5VP, each Sugar cane is worth 4VP and each Cotton is worth 3VP.
+Zatem każda jednostka Tytoniu jest warta 5 PZ, każda Trzcina cukowa jest warta 4 PZ, a każda Bawełna 3 PZ.
+You have imported three Tobacco, two Sugar cane and six Cotton.
+Zaimportowałeś 3 Tytonie, 2 Trzciny cukrowe i 6 Bawełn.
+So you earn 5 × 3 = 15VP for your Tobacco, 4 × 2 = 8VP for your Sugar cane, and 3 × 6 = 18VP for your Cotton.
+Więc zarabiasz 5 x 3 = 15 PZ za Tytoń, 4 x 2 = 8 PZ za Trzcinę cukrową i 3 x 6 = 18 PZ za Bawełnę.
+
+Example: In a 3 player game, there is a tie between two players for first rank.
+Przykład: W grze 3-osobowej jest remis między graczami na pierwszym miejscu.
+They equally share points for the first two ranks (12VP + 6VP = 18VP), so they both receive 9VP.
+Dzielimy punkty za pierwsze 2 miejsca (12 PZ + 6 PZ = 18 PZ), obaj otrzymują po 9 PZ.
+The third player does not gain any VP.
+Trzeci gracz nie otrzymuje nic.
+In a 2 player game, each tied player receives 4VP.
+W grze dla 2 osób każdy remisujący otrzymuje 4 PZ.
+
+-7-
+
+Settlement Scoring
+Punktacja za siedliska
+
+Each player counts the number of their Settlements within Shipping reach of each other.
+Każdy gracz zlicza liczbę swoich siedlisk będących we wzajemnym zasięgu żeglugi od siebie.
+A Settlement is defined as a cluster of neighbouring units of one colour (adjacent and no river in between).
+Siedlisko to skupisko jednostek jednego koloru (sąsiadujących i nierozdzielonych rzeką).
+Single units that are not neighbouring to any other unit of the same colour are also considered Settlements.
+Pojedyncze jednostki, które nie sąsiadują z żadną inną jednostką tego samego koloru, są również uważane za siedliska.
+If not all of your Settlements are within Shipping reach of each other, the biggest group of Settlements within Shipping reach of each other counts in this scoring.
+Jeśli nie wszystkie twoje siedliska znajdują się w zasięgu żeglugi, to do punktacji liczy się największa grupa siedlisk znajdujących się we wzajemnym zasięgu.
+
+3-4 players: The player with the most Settlements within Shipping reach: 18VP; second-most: 12VP; third-most: 6VP.
+3-4 garczy: Gracz z największą liczbą siedlisk w zasięgu żeglugi otrzymuje 18 PZ, drugie miejsce 12 PZ, a trzecie miejsce 6 PZ.
+2 players: The player with the most Settlements within Shipping reach: 12VP; second-most: 0VP.
+2 graczy: Gracz z największą liczbą siedlisk w zasięgu otrzymuje 12 PZ, drugie miejsce 0 PZ.
+
+Tied players share the points the same way as in the Export scoring.
+Remisujący gracze dzielą punkty w taki sam sposób jak w punktacji eksportu.
+
+This scoring is NOT about having expanded to the most spaces, nor is it about having built the biggest settlement!
+Ta punktacja NIE dotyczy tego, kto dokonał ekspansji na największą liczbę pól ani nie tego, kto zbudował największe siedlisko!
+
+Example: If the red player has 1-loch Shipping level, red has only three Settlements within Shipping reach.
+Przykład: Jeśli czerwony gracz ma poziom 1-jezioro, ma tylko 3 osady w zasięgu żeglugi.
+If the black player has 2-loch Shipping level, the black player has five Settlements within Shipping reach.
+Jeśli czarny gracz ma poziom 2-jeziora, ma 5 Siedlisk w zasięgu swojej żeglugi.
+
+The three encircled red units are a single Settlement because they are neighbouring each other.
+3 otoczone czerwone jednostki tworzą 1 Siedlisko, ponieważ sąsiadują ze sobą.
+All other red units are single-unit Settlements.
+Wszystkie pozostałe czerwone jednostki są pojedynczymi Siedliskami.
+The two red units at the top are two Settlements because they are separated by a river.
+2 czerwone jednostki na górze to 2 Siedliska, ponieważ są oddzielone rzeką.
+Red has four Settlements in total.
+Czerwony ma w sumie 4 Siedliska.
+However, the Settlement at the very bottom left is two loch spaces away from the three-unit Settlement and thus not within Shipping reach of any of the red Settlements.
+Jednak osada znajdująca się na samym dole po lewej stronie znajduje się w odległości 2 pól od potrójnego Siedliska, a więc nie w zasięgu żeglugi któregokolwiek z czerwonych Siedlisk.
+Nevertheless, this is enough to connect the Settlement with three units to the two single Settlements at the top, since 1-loch Shipping is sufficient for red to cross the one loch space in between.
+Niemniej można połączyć Siedlisko składające się z 3 jednostek z dwoma pojedynczymi Siedliskami na górze, ponieważ żegluga na poziomie 1-jezioro jest wystarczająca.
+Therefore, only three of the red player's four Settlements are within Shipping reach and count towards the Settlement scoring.
+Dlatego tylko 3 z 4 Siedlisk czerwonego gracza znajdują się w zasięgu żeglugi i liczą się one do punktacji za Siedliska.
+
+Hint: Slaughtering your animals can be beneficial or detrimental for this scoring.
+Wskazówka: Ubój zwierząt może być korzystny lub szkodliwy dla takiego podliczania punktów.
+You can create more Settlements by slaughtering (splitting one bigger Settlement into two smaller Settlements) or harm your scoring because some Settlements might not longer be within Shipping reach.
+Możesz utworzyć więcej Siedlisk poprzez ubój (dzieląc większe Siedlisko na 2 mniejsze) lub zaszkodzić wynikom, ponieważ niektóre Siedliska nie będą już znajdować się w zasięgu żeglugi.
+
+Note: If desired, starting in the fourth or fifth round of the game, you can start to track the number of settlements within shipping range per player on the Export board track using the Settlement tokens.
+Uwaga: W razie potrzeby, począwszy od czwartej lub piątej rundy gry, możesz rozpocząć śledzenie liczby Siedlisk w zasięgu żeglugi kadego gracza na torze planszy Eksportu za pomocą drewnianych znaczników Siedlisk.
+
+2 Player Game
+Gra 2-osobowa
+
+In the 2 player game you play on a smaller map.
+W grze dla 2 garczy rozgrywka odbywa się na mniejszej mapie.
+The shaded land spaces at the edge (additionally marked by mist) are not part of the active map and so players cannot expand into them.
+Zaciemnione pola lądowe na krawędzi (dodatkowo oznaczone mgłą) nie są cześcią używanej mapy, więc gracze nie mogą dokonywać na nie ekspansji.
+The non-shaded spaces adjacent to the shaded spaces are the border spaces of the active map.
+Niechronione pola przylegające do zacienionych pól są obszarami granicznymi aktywnej mapy.
+This is relevant for Scoring tile #5 and Clan Fergusson.
+Jest to istotne dla podliczania punktów z Klanu Fergusson.
+All loch spaces are part of the active map.
+Wszystkie pola jezior są częścią aktywnej mapy.
+
+Solo Game
+Gra solo
+
+In this variant you try to achieve the highest possible score.
+W tym wariancie gracz będzie się starał osiągnąć jak najwyższy wynik.
+You play with the same smaller map as in the 2 player game.
+Grając na mniejszej mapie niż w grze dla 2 osób.
+Use Workers of different player colours to act as neutral pieces and put them on all spaces of the active map that have a cost of £1.
+Użyj Robotników o różnych kolorach, posłużą oni za neutralne pionki, i umieść je na wszystkich polach aktywnej mapy, których koszt wynosi 1£.
+All these spaces will be unavailable for you for the whole game.
+Wszystkie te miejsca będą niedostępne dla ciebie przez całą grę.
+In a solo game you cannot take a Neighbourhood bonus.
+W grze jednoosobowej nie możesz otrzymać premii sąsiedztwa ani bonusów z toru importu towarów na planszy Eksportu.
+
+Randomly draw and place five Export contracts face-up on the Export board before you start the game.
+Docignij losowo 5 kontraktów i umieść je odkryte na planszy Eksportu przed rozpoczęciem gry.
+Each time you pass you receive a Passing bonus of £16.
+Za każdym razem, gdy spasujesz, otrzymujesz premię w wysokości 16£.
+
+Market Dice
+Kości Rynku
+Goods die: Wool, Grain, Milk, Bread, Cheese, Whisky
+Kość towarów: Wełna, Zboże, Mleko, Chleb, Ser, Whisky
+Price die: -3, -2, -1, +1, +2, +3
+Kość ceny: -3, -2, -1, +1, +2, +3
+
+Additional Phase: Market Phase
+Dodatkowa faza: Faza Rynku
+
+At the beginning of rounds 2-5 during the Preparation phase and after Merchants were retrieved, the prices of three randomly chosen Goods are changed once each.
+Na początku rund 2-5 w fazie Przygotowywania i po odzyskaniu Kupców ceny 3 losowo wybranych towarów zostają zmienione.
+Roll the Goods and the Price dice.
+Rzuć kośćmi, aby określić rodzaj towaru i jego cenę.
+The Goods die shows the price of which Good is changed.
+Kość towarów pokazuje rodzaj towaru, którego cena ulega zmianie.
+Reroll the Goods die if it shows a Good whose price was already changed in this phase.
+Przerzuć kość towaru, jeśli wskazuje towar, którego cena została już zmieniona w tej fazie.
+
+Check whether the price of this Good is below (low prices) or above (high prices) the brackets on the Market.
+Sprawdź, czy cena tego towaru jest niższa (niskie ceny) lub wyższa (wysokie ceny) w nawiasach na rynku.
+The brackets next to the Market indicate the medium range.
+Nawiasy obok rynku wskazują średni zakres.
+Prices above are high, and those below are low.
+Ceny powyżej są wysokie, a te poniżej niskie.
+
+When the price is low or high then you ignore the algebraic symbol (- or +).
+Gdy cena jest niska lub wysoka, ignorujesz symbol algebraiczny (- lub +).
+When the price is low then the price increases by the absolute value of the Price die.
+Gdy cena jest niska, cena wzrasta o wartość bezwzględną kości ceny.
+When the price is high then the price decreases by the absolute value of the Price die.
+Gdy cena jest wysoka, cena maleje o bezwzględną wartość kości ceny.
+When the price is in the medium range, then the price changes exactly according to the Price die.
+Gdy cena znajduje się w średnim zakresie, cena zmienia się dokładnie zgodnie z cennikiem.
+A '-3' will cause the price to decrease by three steps.
+Wartość "-3" spowoduje obniżenie ceny o 3 kroki.
+A '+1' will increase the price by one step.
+Wartość "+1" podniesie cenę o 1 krok.
+
+Example: When the current price is low and the Price die shows -3 or +3, the price increases by three steps.
+Przykład: Gdy obecna cena jest niska, a kość ceny pokazuje -3 lub +3, cena wzrasta o 3 kroki.
+
+-8-
+
+Refill Export Contracts
+Uzupełnij kontrakty eksportowe
+
+Fill all empty slots on the Export board with new Export contracts from the draw pile.
+Wypełnij wszystkie puste miejsca na planszy eksportu nowymi kontraktami eksportowymi ze stosu.
+Your last Price die roll shows which of the six Export contracts gets removed.
+Twój ostatni rzut za ceny pokazuje, który z 6 kontraktów eksportowych zostanie usunięty.
+Find the intersection of the algebraic symbol and the numeral on the Export board and remove that Export contract from the game.
+Znajdź przecięcie symbolu algebraicznego i cyfry na planszy Eksportu i usuń ten kontrakt z gry.
+Each Action phase starts with five Export contracts.
+Każda faza akcji rozpoczyna się z użyciem 5 kontraktów eksportowych.
+
+Export Scoring:
+Punktacja za eksport:
+Fulfilled Export contracts: 7 or more -> 12VP
+Zrealizowane kontrakty: 7+ -> 12PZ
+Fulfilled Export contracts: 6 -> 8VP
+Zrealizowane kontrakty: 6 -> 8PZ
+Fulfilled Export contracts: 5 -> 4VP
+Zrealizowane kontrakty: 5 -> 4PZ
+
+Settlement Scoring:
+Punktacja za Siedliska:
+14 or more connected Settlements -> 18VP
+14 lub więcej Siedlisk -> 18PZ
+11-13 connected Settlements -> 12VP
+11-13 Siedlisk -> 12PZ
+8-10 connected Settlements -> 6VP
+8-10 Siedlisk -> 6PZ
+
+Result:
+Wynik:
+0-115VP: Newbie
+0-115PZ: Nowicjusz
+116-130VP: Rookie
+116-130PZ: Rekrut
+131-145VP: Average
+131-145PZ: Przeciętniak
+146-160VP: Expert
+146-160PZ: Ekspert
+161+ VP: Genius!
+161+ PZ: Geniusz!
+
+Example: A '-3' refers to the slot on the very bottom left.
+Przykład: '-3' dotyczy pola w lewym dolnym rogu.
+
+Variants
+Warianty
+
+These variants can be played in any combination.
+Poniższe warianty można dowolnie łączyć wedle własnych upodobań.
+
+Simplifications
+Uproszczenia
+The following simplifications are good for your first game.
+Poniższe uproszczenia doskonale sprawdzają się podczas pierwszej rozgrywki.
+
+Static Import Goods
+Statyczny import towarów
+If players dislike even small amounts of luck in the game, they can choose this variant.
+Gracze mogą chcieć wybrać ten wariant, gdy nie przepadają za nawet niewielką losowością w grze.
+No matter how much Cotton, Tobacco or Sugar cane was imported, each is worth 4 VP each at the end of the game.
+Bez względu na to, ile Bawełny, Tytoniu lub Trzciny cukrowej importowano, każda z nich jest warta po 4PZ.
+Thus, there is no need to track Imported goods on the Export board.
+Dzięki temu nie ma potrzeby śledzenia towarów importowanych na planszy Eksportu.
+
+Without Scoring and/or Port Tiles
+Bez kafelków punktacji i/lub portów
+Players can simplify the game by ignoring the Scoring tiles and/or the Port tiles during setup and play.
+Gracze mogą uprościć grę, ignorując kafelki punktowania oraz porty podczas przygotowania do gry.
+
+Tighter Game Map
+Ciaśniejsza mapa gry
+If players prefer a tighter game map, they can agree to use the backsides of four spare Port tiles to cover any four land spaces of the active map during setup in a 2-3 player game, preferably one tile per module (the map in a 4 player game is already quite tight).
+Jeśli gracze zechcą spróbować swych sił z ciaśniejszą mapą, mogą wykorzystać rewersy 4 zapasowych kafli Portu, którymi należy zakryć 4 pola lądów na aktywnej mapie podczas przygotowania rozgrywki w grze dla 2-3 graczy, najlepiej po 1 kafelku na moduł (mapa w grze dla 4 graczy jest już i tak dość ciasna).
+These spaces are not available for the Expand action.
+Te obszary nie są dostępne dla akcji ekspansji.
+
+Without Clans
+Bez klanów
+If players prefer more symmetric starting conditions they can ignore the clans during setup and play.
+Jeśli gracze wolą bardziej symetryczne warunki początkowe, mogą zignorować klany podczas przygotowania i w trakcie rozgrywki.
+In addition to the Goods and money on the chosen Starting tiles, players receive:
+Oprócz towarów i pieniędzy na wybranych kaflach początkowych gracze otrzymują odpowiednio:
+Starting player £0, second player £2, third player £4 and fourth player £6.
+Pierwszy gracz 0£, drugi gracz 2£, trzeci gracz 4£ i czwarty gracz 6£.
+
+Clan Auction
+Aukcja klanów
+(Recommended only for experienced Clan Chiefs!)
+(Wariant zalecany tylko dla doświadczonych szefów klanów!).
+If the players play very competitively, they may want to auction the clans.
+Jeśli w trakcie rozgrywek lubicie rywalizację, możecie zechcieć licytować klany.
+If so, they apply the following auction mechanism:
+W takim przypadku zastosujcie następujący mechanizm aukcji:
+
+Randomly draw as many Clan tiles as the number of players and allocate each Clan tile a random Starting tile.
+Losowo dociągnijcie tyle płytek klanu, ilu jest graczy i przypiszcie każdemu klanowi losowy kafelek startowy.
+Randomly determine a player who bids any number of VP (or 0) to be able to choose a clan first.
+Losowo określcie gracza, który zalicytuje dowolną liczbę PZ (lub 0), aby móc wybrać klan jako pierwszy.
+The player to their left can bid any higher amount of VP and so on until there is a winning bid that no player wants to outbid (30VP is the highest possible bid).
+Gracz po lewej od licytującego może następnie zalicytować dowolną wyższą liczbę PZ i tak dopóki nie dojdziecie do pułapu, którego żaden gracz nie chce przelicytować (30 PZ to najwyższa możliwa oferta).
+If a player does not want to bid higher, the respective player cannot bid again this auction round.
+Jeśli gracz nie chce licytować wyżej, nie może ponownie licytować w tej rundzie aukcji.
+The player with the winning bid writes down their bid as negative VPs on the Scoresheet, places their token on the first space of the Turn order track and takes the Clan tile along with the corresponding Starting tile.
+Gracz, który wygrał licytację, zapisuje swoją stawkę jako ujemne PZ w notesie do punktacji, umieszcza swój żeton na pierwszym polu toru kolejności tury i zabiera kafelek klanu wraz z przypisanym mu kafelkiem startowym.
+The player to their left bids for one of the remaining clans and so on until the second clan is chosen by the player with the winning bid, who then is second on the Turn order track etc.
+Gracz po lewej stronie licytuje jeden z pozostałych klanów i tak dalej, dopóki drugi klan nie zostanie wybrany przez gracza, który wygra licytację itd.
+The last player without a clan is given the remaining Clan tile and Starting tile without losing any VP and is designated last in turn order.
+Ostatni gracz otrzymuje pozostały kafelek klanu i kafelek startowy bez utraty PZ i umieszcza jako ostatni swój żeton na torze kolejności.
+
+You can find more variants at www.karma-games.com/clans-variants
+???
+
+Imprint
+Twórcy gry
+Game designer: Juma Al-JouJou
+Autor: Juma Al-JouJou
+Publisher: Karma Games
+Wydawca: Karma Games
+Illustrator: Klemens Franz | atelier198
+Ilustracje: Klemens Franz | atelier198
+Typesetting: Andrea Kattnig | atelier198
+Tekst: Andrea Kattnig | atelier198
+Dan Cunningham
+Karma Games
+Juma Al-JouJou
+Manfred-von-Richthofen-Strasse 13
+???
+12101 Berlin
+???
+Germany
+???
+www.karma-games.com
+???
+Tłumaczenie edycji polskiej: Krzysztof Szarawarski
+???
+Edycja polska: Czacha Games
+
+-9-
+
+Appendix
+Objaśnienia
+
+Port Bonus Tiles
+Porty Kafle punktowania
+
+Use this bonus in a turn when you fulfil an Export contract requiring Meat.
+Użyj tej premii w momencie, gdy wypełnisz umowę eksportową wymagającą mięsa.
+The fulfilled Export contract requires 1 fewer slaughtered animals.
+Spełniony kontrakt eksportowy wymaga 1 mniej ubitych zwierząt.
+Discard one Basic good of your choice and gain any three Basic goods of your choice (including the type you discarded).
+Odrzuć 1 wybrany przez siebie towar podstawowy i zdobądź dowolne 3 podstawowe towary wedle własnego uznania (mogą być tego samego rodzaju co właśnieodrzucone).
+Discard one Processed good of your choice and gain any two Processed goods of your choice (including the type you discarded).
+Odrzuć 1 wybrany przetworzony towar i zdobądź dowolne 2 wybrane przetworzone towary (mogą być tego samego rodzaju co właśnie odrzucone).
+Receive one Bonus upgrade (see page 6) and gain 3 Glory.
+Otrzymujesz jedno bonusowe ulepszenie (patrz strona 6) i zyskujesz 3 Chwały.
+Gain £10.
+Otrzymujesz 10£.
+Manipulate the price of one Good by three steps on the Market before trading this Good.
+Zmień cenę jednego towaru o 3 kroki na Rynku przed dokonaniem obrotu tym towarem.
+Take any two of your units from your Player board (other than Fields) and exchange them with any two of your units on the map (other than Fields) at no cost.
+Weź dowolne 2 jednostki ze swojej planszy gracza (inne niż Pola) i wymień je na dwie dowolne jednostki na mapie (inne niż Pola) bez ponoszenia kosztów.
+The two new units must be different from the two old units.
+2 nowe jednostki muszą różnić się od 2 starych jednostek.
+The new units must match the land type on which they are deployed.
+Nowe jednostki muszą być zgodne z typem gruntu, na którym są rozmieszczone.
+If you qualify you can obtain the Building bonus.
+Jeśli spełnisz warunki, możesz uzyskać premię budowlaną.
+You cannot obtain any Neighbourhood bonus during this port action.
+Podczas tej akcji portowej nie można uzyskać premii za sąsiedztwo.
+You gain £5.
+Zyskujesz 5£.
+If your Export box is empty you can perform the Building bonus (and pay the respective costs if you decide to take an Export contract, as normal).
+Jeśli twoje pole eksportowe jest puste, możesz wykorzystać premię budynków (i zapłacić odpowiedni koszt, jeśli zdecydujesz się wziąć kontrakt eksportowy).
+Pay £3, put a Port bonus marker on this tile, and then use any one of the other three Port tiles in play.
+Zapłać 3£, umieść znacznik premii na tym żetonie, a następnie użyj jednego z pozostałych trzech żetonów Portu znajdujących się w grze.
+Due to this Port tile, you can potentially use another port tile's effect twice.
+Dzięki temu kafelkowi portu można potencjalnie dwukrotnie użyć efektu innego kafelka portu.
+
+Scoring Tiles
+Kafle punktowania
+Gain 1 Glory for each Basic good in your stock.
+Zdobądź 1 punkt Chwały za każdy podstawowy towar w swoim magazynie.
+Gain 3 Glory for each two Processed goods in your stock.
+Zdobądź 3 punkty Chwały za każde 2 Przetworzone towary w swoim magazynie.
+Gain 1 Glory for each of your deployed Sheep, Cows, Cheese dairies, Bakeries and Distilleries and 2 Glory for each Field.
+Zdobądź 1 punkt Chwały za każde z posiadanych na planszy: Owca, Krowa, Serownia, Piekarnia i Gorzelnia oraz 2 punkty Chwały za każde Pole.
+Gain 2 Glory for each of your deployed Workers (including Fishermen if you are Clan MacDonald).
+Zdobądź 2 punkty Chwały dla każdego z rozmieszczonych Robotników (w tym rybaków, jeśli grasz klanem MacDonald).
+Gain 3 Glory for every two units on border spaces of the active map.
+Zdobądź 3 punkty Chwały za każde 2 jednostki na obszarach granicznych aktywnej mapy.
+In a game with 1-2 players, the shaded spaces (also marked with mist) are not part of the active map, thus all the spaces adjacent to the shaded spaces with mist are considered border spaces.
+W grze na 1-2 graczy zacienione przestrzenie (również oznaczone mgłą) nie są częścią aktywnej mapy, więc wszystkie przestrzenie sąsiadujące z zacienionymi miejscami z mgłą są uważane za przestrzenie graniczne.
+Gain 1 Glory for each unit of Cotton, Tobacco and Sugar cane on your fulfilled Export contracts.
+Zdobądź 1 punkt Chwały za każdą jednostkę Bawełny, Tytoniu i Trzciny cukrowej na swoich zrealizowanych kontraktach eksportowych.
+Gain 2 Glory for each unit of Meat on your fulfilled Export contracts.
+Zyskaj 2 punkty Chwały za każdą jednostkę mięsa na swoich zrealizowanych kontraktach eksportowych.
+Gain 1 Glory for each of your Upgrades (Technology upgrades, Shipping upgrades and hired Merchants).
+Zdobądź 1 punkt Chwały za każde ze swoich ulepszeń (ulepszenia technologii, żeglugi i zatrudnieni Kupcy).
+Just count each spot left of your Shipping marker, each free Merchant spot and each upgraded (flipped) Technology tile.
+Wystarczy policzyć każde miejsce po lewej stronie znacznika żeglugi, każde wolne pole Kupców i każdy ulepszony (odwrócony) kafelek technologii.
+You also gain Glory for Upgrades your clan started with.
+Otrzymujesz także Chwałę za ulepszenia, z którymi rozpoczął grę twój klan.
+Gain 2 Glory for each of your occupied spaces with the cost of £5 or £6.
+Zdobądź 2 punkty Chwały za każde pole które zajmujesz, którego koszt wynosi 5£ lub 6£.
+
+-10-
+
+Clans
+Klany
+
+Scotclans.com was invaluable for our research.
+???
+They allowed us to use the clan crests, thank you!
+
+Klan Buchanan
+Clan Buchanan
+
+Kilku członków tego klanu było dobrze prosperującymi "Władcami Tytoniu" w Glasgow.
+Several members of this clan were prosperous 'Tobacco Lords' in Glasgow.
+Większość ich importu tytoniu ze Stanów Zjednoczonych została natychmiast ponownie wyeksportowana do Europy kontynentalnej.
+Most of their tobacco imports from the United States were immediately re-exported to mainland Europe.
+Buchanan Street jest jedną z głównych ulic handlowych w Glasgow i została nazwana na cześć bogatego Lorda Tytoniu, Andrew Buchanana, który był właścicielem ziemi, na której powstała ulica.
+Buchanan Street is one of the main shopping streets in Glasgow and was named after a wealthy Tobacco Lord, Andrew Buchanan, who owned the land it was originally built on.
+
+Masz dodatkowe pole eksportu i możesz w ten sposób uzyskać 1 lub 2 umowy eksportowe w 1 turze.
+You have an additional Export box and can thus obtain one or two Export contracts in one turn.
+Jeśli uzyskasz tylko 1 kontrakt eksportowy podczas tury, zapłacisz normalny koszt z bieżącej rundy.
+If you obtain just one Export contract per turn, you pay the regular cost of the current round.
+Jeśli jednak uzyskasz 2 kontrakty eksportowe (2 umowy eksportowe z działania Uzyskaj kontrakt eksportowy lub dwa kontrakty eksportowe z premii budowlanej) podczas 1 tury, płacisz koszt tylko raz zamiast 2 razy.
+However, if you obtain two Export contracts in one turn (no matter how), you pay the cost only once instead of twice.
+Jeśli otrzymasz premię budowlaną, dociągnij 6 zamiast 3 kontraktów eksportowych i możesz wybrać 0-2 kontraktów (dotyczy to również kafelka Portu #8).
+If you are given the Building bonus, you draw six instead of three Export contracts and you can select 0-2 Export contracts (this also applies to Port bonus tile #8).
+
+Wykonaj akcję kontraktu eksportowego: Możesz wykonać maksymalnie 2 umowy eksportowe na turę.
+Fulfil an Export contract action: You can fulfil up to two Export contracts per turn.
+
+W pierwszej rundzie: Jeśli uzyskasz 2 kontrakty eksportowe w jednej turze, otrzymasz premię +5£ tylko raz.
+In the first round: If you obtain two Export contracts in a single turn, you receive the +£5 bonus only once.
+Jednakże podczas każdej tury, w której uzyskasz kontrakt eksportowy, otrzymujesz 5£.
+However, during each turn in which you obtain an Export contract you gain the £5; so you can obtain an Export contract in one turn and gain £5, then obtain an additional Export contract in another turn and again gain £5-even if the first Export contract has not yet been fulfilled.
+Zatem możesz otrzymać kontrakt eksportowy w jednej turze i zdobyć 5£, a następnie uzyskać dodatkowy kontrakt eksportowy w następnej turze i ponownie zdobyć 5£, nawet jeśli pierwszy kontrakt nie został jeszcze zrealizowany.
+
+Strategy: Because taking two Export contracts in one turn in later rounds is a lot cheaper for you, you want to focus on smaller Export contracts and fulfil most in the last two rounds.
+Strategia: Ponieważ wzięcie 2 kontraktów eksportowych w jednej turze jest o wiele tańsze w późniejszych rundach, chcesz skupić się na mniejszych kontraktach eksportowych i zrealizować większość w 2 ostatnich rundach.
+
+Example: If you take two Export contracts in a single turn in the 5th round, you pay only £15 instead of £30.
+Przykład: Jeśli weźmiesz 2 kontrakty eksportowe w jednej turze w piątej rundzie, zapłacisz tylko 15£ zamiast 30£.
+
+Clan Campbell
+Klan Campbell
+
+Colen Campbell was a pioneering Scottish architect and architectural writer, credited as a founder of the Georgian style.
+Colen Campbell był pionierskim szkockim architektem oraz autorem wielu prac poświęconych architekturze, przypisuje mu się zapoczątkowanie stylu gregoriańskiego w architekturze.
+
+You get better at building factories of Processed goods the more often you build them.
+Ten klan nabiera biegłości w budowie fabryk towarów przetworzonych, im częściej je buduje.
+The first factory of each type is £3 cheaper, the second and third factory of each type is £4 cheaper and the fourth factory of each type is £5 cheaper.
+Pierwsza fabryka każdego rodzaju kosztuje 3£ mniej, druga i trzecia fabryka każdego rodzaju kosztuje 4£ mniej, a czwarta fabryka 1 rodzaju kosztuje 5£ mniej.
+So you have an incentive to specialise in producing a lot of Processed goods.
+Ten klan ma więc motywację do specjalizacji w produkcji wielu towarów przetworzonych.
+
+Strategy: Produce a lot of one type of Processed good that is in high demand Export contracts.
+Strategia: Produkuj wiele rodzajów towarów przetworzonych, na które jest duży popyt w kontraktach eksportowych.
+Selling your Processed goods is a good source of income too.
+Sprzedaż towarów przetworzonych jest również dobrym źródłem dochodu.
+Example: If you build three Bakeries and one Distillery.
+Przykład: Campbell buduje 3 Piekarnie i 1 Gorzelnię.
+In the first Bakery costs £8 - £3 = £5, the 2nd and the 3rd Bakeries cost £8 - £4 = £4.
+Pierwsza Piekarnia kosztuje 8£ - 3£ = 5£, druga i trzecia Piekarnia kosztuje 8£ - 4£ = 4£.
+The Distillery is £3 cheaper and costs £10 - £3 = £7.
+Gorzelnia jest o 3£ tańsza i kosztuje 10£ - 3£ = 7£.
+
+Clan Cunningham
+Klan Cunningham
+
+Cunninghame is the northern part of Ayrshire, one of the most agriculturally fertile regions of Scotland where raising cattle has traditionally been important.
+Cunninghame to północna część Ayrshire, jednego z najżyźniejszych regionów Szkocji, gdzie tradycyjnie hodowla bydła była najważniejsza.
+'Cuinneag' is Gaelic for milk pail and 'ham' means village in Old English.
+'Cuinneag' po gaelicku oznacza wiaderko z mlekiem, a 'ham' w staroangielskim oznacza wieś.
+
+You produce butter out of Milk.
+Produkujesz Masło z Mleka.
+At the end of the Production phase, you may discard any number of Milk tokens in your stock (no merchants needed).
+Pod koniec fazy produkcji możesz odrzucić dowolną liczbę znaczników Mleka ze swojego magazynu (bez konieczności użycia Kupców).
+For each Milk token you discard, gain £8.
+Za każdy odrzucony znacznik Mleka otrzymasz 8£.
+Do not adjust the Milk price.
+Nie zmieniaj ceny Mleka.
+
+Strategy: Produce as much Milk as possible and buy some if the price is low.
+Strategia: Wyprodukuj tyle Mleka, ile to możliwe i kup trochę, jeśli cena jest niska.
+Avoid producing Cheese as it consumes your precious Milk!
+Unikaj produkcji Sera, ponieważ zużywa ona twoje cenne Mleko!
+
+Clan Fergusson
+Klan Fergusson
+
+Clan Fergusson was historically widespread in Scotland which was rather unusual.
+Klan Fergusson był historycznie rozpowszechniony w Szkocji, co było dość niezwykłe.
+They have spread across Scotland from as far as Ross-shire in the north to Dumfriesshire in the south.
+Jego członkowie osiedlili się w całej Szkocji od Ross-Shire na północy do Dumfriesshire na południu.
+
+Placing initial Workers: You start with three starting Workers (for which you still must fully pay).
+Umieszczanie początkowych pracowników: Zaczynasz z 3 początkowymi Robotnikami (za których nadal musisz ponieść pełen koszt).
+In addition you start with 2-loch Shipping level for free in a 3-4 player game (1-loch Shipping in a 1-2 player game).
+Dodatkowo możesz zacząć z poziomem żeglugi 2-jeziora za darmo w grze dla 3-4 graczy (lub z poziomem 1-jeziora w grze 1-,2-osobowej).
+
+You place your third Worker after all other players have placed theirs.
+Umieszczasz też trzeciego pracownika po tym, jak wszyscy inni gracze ustawili swoich.
+You must place all three starting Workers on border spaces of the active map, but they do not need to be adjacent to each other.
+Początkowi robotnicy muszą być rozstawieni na krawędziach planszy.
+You must still pay for all three workers and the land costs.
+Musisz jeszcze zapłacić za wszystkich trzech pracowników i koszty gruntu.
+
+Strategy: Use your Shipping reach and Port bonus tiles!
+Strategia: Korzystaj z kafelków premii zasięgu i portów!
+
+Clan MacDonald
+Klan MacDonald
+
+Clan MacDonald is a Highland clan and one of the largest Scottish clans.
+Klan MacDonald jest klanem górali i jednocześnie jednym z największych szkockich klanów.
+Their district was the Inner Hebrides, an archipelago off the west coast of mainland Scotland.
+Ich dystryktem były Hebrydy Wewnętrzne, archipelag u zachodniego wybrzeża Szkocji kontynentalnej.
+Their clan motto is per mare per terras ("by sea and by land").
+Motto klanu to: per mare per terras ("drogą morską i lądową").
+The chiefs of the clan held the title "Lord of the Isles".
+Wodzowie klanu posiadali tytuł "Władcy Wysp".
+
+Your smaller Clan tile is used for the clan draft and your bigger Clan tile is put on top of the Miner/Woodcutter area of your Player board.
+Twój mniejszy kafelek klanu używany jest do losowania na początku gry, natomiast większy kafelek nakłada się na planszę gracza w miejscu, gdzie znajdują się drwale i górnicy.
+Your Technology area remains empty because you cannot perform the Technology upgrade action.
+Obszar technologii pozostaje pusty, ponieważ nie możesz przeprowadzić aktualizacji technologii.
+
+-11-
+
+(Clan MacDonald continued)
+(Clan MacDonald kontynuacja)
+
+You have three abilities:
+Masz 3 umiejętności:
+1) You can use all of your Workers either as Woodcutters, Miners or as Fishermen (even when placing the first workers); all your Workers cost £6 and provide £4 income.
+1) Możesz użyć wszystkich swoich Robotników jako drwali, górników lub rybaków (nawet podczas rozmieszczania pierwszych Robotników); wszyscy twoi Robotnicy kosztują 6£ i zapewniają dochód w wysokości 4£.
+Fishermen can be placed on or moved to all empty loch spaces and Port bonus tiles, even in a 1-2 player game.
+Rybacy mogą zostać umieszczeni lub przeniesieni do pustych miejsc na jeziorach i kafelkach portów, nawet w grze dla 1-2 graczy.
+There are no land costs on loch placements.
+Nie płacisz żadnych kosztów gruntu przy wystawianiu na jeziorach.
+Two Fishermen may never be adjacent to each other (otherwise you deplete the natural resources).
+2 Rybaków nigdy nie może stać na przylegających do siebie polach (w przeciwnym razie wyczerpią zasoby naturalne).
+2) Once per turn, you can move a Fisherman to an adjacent loch space by rowing but only before your main Action.
+2) Raz na turę możesz przenieść Rybaka na sąsiednie pole jeziora, wiosłując, ale tylko przed główną akcją.
+3) In 1-2 player games, you start with river-crossing Shipping for free.
+3) W grze dla 1-2 graczy zaczynasz od żeglugi na poziomie: przeprawa przez rzekę za darmo.
+
+You still need the appropriate Shipping reach to expand across loch spaces.
+Nadal potrzebujesz odpowiedniego zasięgu żeglugi, aby dokonywać ekspansji przez jeziora.
+Land spaces adjacent to Fishermen are considered to be neighbouring and thus accessible in the Expand action even without any Shipping reach.
+Powierzchnie lądowe sąsiadujące z Rybakami są uważane za sąsiadujące, a zatem dostępne w akcji ekspansji nawet bez zasięgu Żeglugi.
+The Neighbourhood bonus can be taken advantage of when deploying a Fisherman as well, but not when rowing.
+Premia za sąsiedztwo może być wykorzystana również przy rozstawianiu Rybaka, ale nie podczas wioślarstwa.
+
+Strategy: Use your rowing ability to increase your reach and for your Settlement scoring.
+Strategia: Użyj swojej umiejętności wiosłowania, aby zwiększyć swój zasięg i punktację za Siedliska.
+
+Clan MacEwan
+Klan MacEwan
+
+William McEwan opened the Fountain Brewery in Fountainbridge, Edinburgh, in 1856.
+William McEwan wybudował Piwniarnię w Fountainbridge-Edinburgh w 1856 roku.
+McEwan's is well known for 80/- (eighty shillings), a Heavy beer, that was first brewed in the late 19th century and is still sold today.
+Klan McEwan jest dobrze znany z 80/- (eighty shillings), ciężkiego piwa, które zostało po raz pierwszu uwarzone pod koniec XIX wieku i jest sprzedawane do dziś.
+
+Your clan ability centers around brewing beer, for which you need hops and grain.
+Zdolność tego klanu skupia się na warzeniu piwa, do którego potrzeba Chmielu i Zboża.
+Each time you fulfil an Export contract which gives you Hops, you may immediately discard up to 1 Grain for each unit of Hops on the Export contract.
+Za każdym razem, kiedy wypełnisz kontrakt eksportowy dający ci Chmiel, możesz natychmiast odrzucić 1 Zboże za każdy Chmiel z wypełnionego kontraktu.
+You gain £9 for each unit of Grain discarded.
+Otrzymujesz 9£ za każde odrzucone Zboże.
+You can discard a maximum of 3 Grain per Export contract.
+Możesz odrzucić maksymalnie 3 Zboża za jeden kontrakt.
+You can gain at maximum £27 from your clan ability per Export contract.
+Czyli możesz otrzymać maksymalnie 27£ ze swojej zdolności za wypeniony kontrakt.
+You can choose to use your clan ability before or after taking any Direct export bonuses.
+Możesz zdecydować się na wykorzystanie swoich umiejętności klanowych przed lub po skorzystaniu z jakichkolwiek bezpośrednich bonusów eksportowych.
+
+Strategy: Take Export contracts that give you Hops and that are easy to fulfill.
+Strategia: Dobieraj kontrakty eksportowe, które dają ci Chmiel i są łatwe do wypełnienia.
+Produce grain early on.
+Wcześnie wyprodukuj zboże.
+
+Clan MacKenzie
+Klan MacKenzie
+
+Clan MacKenzie bought the Dalmore Distillery, one of the oldest distilleries in Scotland, in 1867.
+Klan MacKenzie kupił gorzelnię Dalmore, jedną z najstarszych destylarni w Szkocji, w 1867 roku.
+The award winning distillery is still running and is known for its very exclusive whiskies.
+Wielokrotnie nagradzana gorzelnia nadal działa i jest znana z bardzo ekskluzywnych whisky.
+In the Production phase you gain £3 for each unit of Whisky you produce (because it is so good!).
+W fazie produkcji zyskujesz 3 £ za każdą jednostkę Whisky, którą produkujesz.
+You do not have to discard any Whisky to get this money.
+Nie musisz wyrzucać żadnej Whisky, aby zdobyć te pieniądze.
+
+Furthermore, you have a cellar.
+Ponadto masz piwnicę.
+At the beginning of each Production phase, Whisky barrels already in the cellar age and are moved one spot to the right.
+Na początku każdej fazy produkcji beczki z Whisky są przenoszone o jedno miejsce w prawo.
+The Whisky barrel starting a Production phase in the rightmost space of the cellar is placed into your stock.
+Beczka Whisky rozpoczynająca fazę produkcji w najdalszej przestrzeni po prawej stronie piwnicy zostaje umieszczona w magazynie.
+You can move any Whisky barrel from the cellar into your stock at any time.
+Możesz przenieść dowolną beczkę Whisky z piwnicy do swojego magazynu w dowolnym momencie.
+When you move aged Whisky out of the cellar into your stock, you gain £7 or £15 respectively.
+Kiedy przenosisz starą Whisky z piwnicy do puli, zyskujesz odpowiednio 7£ lub 15£.
+
+At the end of each Production phase you may then put one freshly-produced Whisky barrel in the cellar on the left spot so it can age in later Production phases.
+Pod koniec każdej fazy produkcji możesz umieścić 1 świeżo wyprodukowaną beczkę Whisky w piwnicy na lewym miejscu, aby mogła się zestarzeć w późniejszych fazach produkcji.
+For the purposes of Scoring tile #2, Whisky in the cellar does score.
+Na potrzeby punktowania płytki nr 2 Whisky w piwnicy zdobywa punkty.
+
+Strategy: As long as the Whisky price is medium or high, selling Whisky provides you with a lot of money to reinvest.
+Strategia: Dopóki cena Whisky jest średnia lub wysoka, sprzedaż Whisky zapewnia dużo pieniędzy na nowe inwestycje.
+When the Whisky price drops, ageing the Whisky and/or exporting it is better.
+Kiedy spada cena Whisky, jej starzenie się i/lub eksportowanie jej jest lepsze.
+
+Clan Robertson
+Klan Robertson
+
+Clan Robertson is one of the oldest clans of Scotland.
+Klan Robertson jest jednym z najstarszych klanów Szkocji.
+Their clan district is called 'Struan' and lies at the confluence of the Errochty Water and Garry rivers.
+Ich okręg klanowy jest nazywany "Struan" i leży u zbiegu rzek Errochty Water i Garry.
+The district name is derived from the Gaelic word 'Sruthan', which means 'streams'.
+Nazwa tego dystryktu pochodzi od gaelickiego słowa "Sruthan", co oznacza "strumienie".
+
+Each time you place a unit in a river delta (a space that is adjacent to a river just flowing into a loch) you pay £3 less (£2 less in games with 1-2 players) off the total cost.
+Za każdym razem, gdy umieszczasz jednostkę w delcie rzeki (przestrzeń sąsiadująca z rzeką wpływającą do jeziora) płacisz 3£ mniej (2£ mniej w grach z 1-2 osobowych) z całkowitego kosztu.
+This applies to placing your initial two Workers as well.
+Dotyczy to również umieszczania pierwszych 2 Robotników.
+
+Strategy: You obviously want to start at or near to river deltas and expand as much into river delta spaces as possible.
+Strategia: Oczywiście najlepiej zacząć od delty rzeki lub w jej pobliżu i rozwijać się w okolicach delt rzek w miarę możliwości.
+Slaughtering livestock on river deltas allows you to expand on river deltas more often.
+Ubój zwierząt na deltach rzek pozwala na częstszą ekspansję na deltach rzecznych.
+
+Example: In a 4 player game, you build a Bakery (cost £8) on a river delta space with cost £1.
+Przykład: W grze dla 4 graczy budujesz Piekarnię (koszt 8£) na obszarze delty rzeki za 1£.
+The final cost is £8 + £1 - £3 = £6.
+Ostateczny koszt to 8£ + 1£ - 3£ = 6£.
+
+Clan Stewart
+Klan Stewart
+
+Clan Stewart is a Highland clan.
+Klan Stewart jest klanem górskim.
+It produced powerful monarchs such as Mary Stuart and Queen Anne.
+Pochodzili z niego potężni monarchowie tacy jak Maria Stuart i królowa Anna.
+
+You start with three additional Merchants (five total) and river-crossing Shipping level for free.
+Zaczynasz z 3 dodatkowymi Kupcami (łącznie 5) i żeglugą na poziomie przeprawy przez rzeki za darmo.
+Furthermore, each time you trade one or multiple units of a type of Good at the Market you gain a bonus of £1.
+Co więcej, zyskujesz 1£ za każdym razem gdy handlujesz na Rynku, bez względu na to, ile jednostek przehandlujesz.
+If you buy Goods, you receive the bonus of £1 before paying.
+W przypadku dokonania zakupu otrzymasz pieniądze przed dokonaniem płatności.
+If you use the Neighbourhood bonus and buy multiple types of Goods in one turn, you gain £1 for each type of Good you are buying.
+Jeśli korzystasz z premii sąsiedztwa i kupujesz wiele typów towarów w jednej turze, zyskujesz 1£ za każdy rodzaj towaru, który kupujesz.
+
+Strategy: Try to fully use the market and the Neighbourhood bonus in particular.
+Strategia: Postaraj się otrzymywać bonus + 1£ na Rynku i przy premii za sąsiedztwo tak często jak to możliwe.
+Example: If you buy 3 Milk and 3 Whisky through the Neighbourhood bonus, you receive £1 for each type of Good, so £2 in total.
+Przykład: Jeśli kupujesz 3 mleka i 3 whisky jako premię za sąsiedztwo, otrzymujesz £1 za każdy rodzaj towaru, czyli łącznie £2.
+
+-12-
+
+www.karma-games.com/clans-variants
+
+Variants of Clans of Caledonia
+Warianty Klanów Kaledonii
+
+In addition to the variants mentioned in the rulebook, you can try the following variants:
+Poza wariantami wymienionymi w zestawie reguł, możesz wypróbować następujące warianty:
+
+Balanced Scoring of Import Goods per Player
+Zbilansowana ocena punktowa importowanych towarów na gracza
+
+If you dislike both the standard scoring of the Import goods and the simplified version where all import goods score 4 VP each, then you can try this variant:
+Jeśli nie podoba Ci się zarówno standardowa punktacja towarów importowanych, jak i uproszczona wersja, w której wszystkie towary importowane zdobywają po 4 VP każdy, to możesz wypróbować ten wariant:
+At the end of the game, every player receives 5 VP for each unit of the import good the respective player has imported the least, 3 VP each for the import good that the respective player has imported the most and 4 VP each for the third import good.
+Na koniec gry, każdy gracz otrzymuje 5 PZ za każdą jednostkę importowanego towaru, który dany gracz zaimportował najmniej, 3 PZ za każdy importowany towar, który dany gracz zaimportował najwięcej i po 4 PZ za trzeci importowany towar.
+Please note that each player only looks at the amounts she/he imported individually.
+Zwróć uwagę, że każdy z graczy patrzy tylko na ilości, które zaimportował indywidualnie.
+Thus, you do not track the amount of import goods on the export board.
+W związku z tym, nie można śledzić ilości importowanych towarów na forum eksportu.
+Advantage: This scoring is less swingy than the standard scoring but offers a bit more depth than the simplified scoring.
+Zaleta: Ten punkt jest mniej wybujały niż standardowy punkt, ale oferuje trochę więcej głębokości niż uproszczony punkt.
+Disadvantage: This scoring removes uncertainty which can also help players who are behind and it reduces the interaction.
+Wada: Wariant ten jest mniej chybiony niż standardowy punktor, ale oferuje nieco więcej głębokości niż uproszczony punktor: Ten punkt usuwa niepewność, która może również pomóc graczom, którzy są w tyle i zmniejsza interakcję.
+
+Three Future Export Contracts Face-Up
+Trzy przyszłe kontrakty eksportowe odkryte
+
+The draw of new export contracts at the beginning of a round is pretty much the only random element in this game.
+Losowanie nowych kontraktów eksportowych na początku rundy jest w zasadzie jedynym przypadkowym elementem w tej grze.
+If you dislike even the slightiest element of chance in strategy games then you might want to consider doing the following:
+Jeśli nie podoba Ci się nawet najmniejszy element losowy w grach strategicznych, możesz rozważyć zrobienie następujących rzeczy:
+After having refilled the export board with contracts at the beginning of a round, draw three further export contracts from the the top of the draw pile and put them face-up next to the export board.
+Po uzupełnieniu planszy eksportowej kontraktami na początku rundy, wylosuj trzy kolejne kontrakty eksportowe z górnej części stosu remisowego i umieść je twarzą do góry obok planszy eksportowej.
+Next round you will first use these face-up contracts to refill the export board.
+W następnej rundzie użyjesz tych odkrytych kontraktów do ponownego wypełnienia planszy eksportowej.
+These three contracts are not available yet for the action "Take export contracts".
+Te trzy kontrakty nie są jeszcze dostępne dla akcji "Weź kontrakty eksportowe".
+However, this allows you to look into the future and thus reduces the uncertainty.
+Pozwala to jednak spojrzeć w przyszłość i tym samym zmniejsza niepewność.
+So let's call these three contracts "future export contracts"
+Nazwijmy więc te trzy kontrakty "przyszłymi kontraktami eksportowymi".
+When you do receive the building bonus, you choose one of the future export contracts next to the player board and remove the remaining two from the game.
+Po otrzymaniu premii budowlanej, wybierasz jeden z przyszłych kontraktów eksportowych obok planszy gracza i usuwasz pozostałe dwa z gry.
+Then, draw another three contracts from the draw pile and put them face-up next to the export board again.
+Następnie wylosuj kolejne trzy kontrakty ze stosu remisowego i ponownie umieść je twarzą do góry obok planszy eksportowej.
+Clan Buchanan, building bonus: You would draw three additional export contracts from the draw pile and put them face-up next to the three future export contracts.
+Klan Buchanan, bonus budowlany: Wybierzesz trzy dodatkowe kontrakty eksportowe ze stosu remisowego i umieścisz je twarzą do góry obok trzech przyszłych kontraktów eksportowych.
+You can then choose 1-2 export contracts from the six future export contracts.
+Następnie możesz wybrać 1-2 kontrakty eksportowe z sześciu przyszłych kontraktów eksportowych.
+If you also choose "Take export contracts" as your main action, you could choose to take 1-2 export contracts from either/or or both the export board and the six face-up future export contracts.
+Jeśli wybierzesz również opcję "Weź kontrakty eksportowe" jako swoją główną akcję, możesz wybrać 1-2 kontrakty eksportowe z jednej lub obu płyt exportowych i sześć bezpośrednich przyszłych kontraktów eksportowych.
+The future export contracts that were not chosen would then be removed from the game and three new future export contracts would be drawn and put face-up next to the export board.
+Przyszłe kontrakty eksportowe, które nie zostały wybrane, zostaną wtedy usunięte z gry, a trzy nowe przyszłe kontrakty eksportowe zostaną wylosowane i umieszczone bezpośrednio obok planszy.
+Advantage: Less uncertainty, more strategy
+Korzyść: Mniej niepewności, więcej strategii
+Disadvantage: Fiddlier, higher risk for analysis paralysis
+Wada: Skrzypce, większe ryzyko paraliżu analitycznego
+
+Most Glory Scoring
+Największa chwała
+
+If you wish the glory scoring were a bit more important, grant the player with most glory (not VP) at the end of the game, an additional 6 glory.
+Jeśli chciałbyś, aby punktacja chwały była trochę ważniejsza, daj graczowi z największą chwałą (nie VP) na koniec gry, dodatkowe 6 chwały.
+In case of a tie, share points the same way as in the other scorings.
+W przypadku remisu, podziel się punktami tak samo jak w innych scoringach.
+Advantage: more important round scorings, more interaction
+Zaleta: ważniejsze okrągłe scoringi, więcej interakcji
+Disadvantage: slightly more complex scoring at the end
+Wada: nieco bardziej złożona punktacja na końcu
+
+More simplifying variants
+Warianty bardziej upraszczające
+
+You can leave out all or any number of the following elements:
+Można pominąć wszystkie lub dowolną liczbę następujących elementów:
+- scoring tiles
+- kafelki punktowe
+- most export contracts scoring
+- większość kontraktów eksportowych ocena punktowa
+- settlement scoring
+- punktowanie osady
+The 1 coin bonus for passing the import good icons on the export track can also be left out, especially if you do not have any problem remembering to move the import goods tokens (unless you play the respective simplified variant, then you do not track import goods anyway).
+Można również pominąć premię za 1 monetę za podanie ikon towarów importowanych na ścieżce eksportu, zwłaszcza jeśli nie ma problemu z zapamiętaniem przeniesienia żetonów importowanych towarów (jeśli nie gra się w odpowiednim wariancie uproszczonym, wtedy i tak nie śledzi się importu towarów).
+
+Clan Distribution by Player Experience
+Wybór Klanów pod wględem doświadczenia graczy
+
+While I am convinced that all clans grant a fair fighting chance to experienced players, some clans are certainly more newbie friendly than others.
+Chociaż jestem przekonany, że wszystkie klany dają doświadczonym graczom uczciwą szansę na walkę, niektóre klany są z pewnością bardziej przyjazne dla nowicjuszy niż inne.
+If some in your playgroup are just learning the game or are less experienced with strategy games, you might want to consider to give the more straightforward clans to the less experienced players and the more challenging clans to the experienced players.
+Jeśli niektórzy w twojej grupie graczy dopiero uczą się gry lub są mniej doświadczeni w grach strategicznych, może warto rozważyć, aby dać prostsze klany mniej doświadczonym graczom, a bardziej wymagające klany doświadczonym graczom.
+
+Newbie friendly clans: Cunningham, Fergusson, Campbell
+Klany przyjazne początkującym: Cunningham, Fergusson, Campbell
+More challenging clans: Buchanan, MacEwen, MacDonald
+Bardziej wymagające klany: Buchanan, MacEwen, MacDonald
+Advantage: more even chances for less experienced players and more challenging for experienced players
+Zaleta: bardziej równomierne szanse dla mniej doświadczonych zawodników i większe wyzwanie dla doświadczonych zawodników
+
+Do you have more ideas for a good variant? Or do you have any feedback for these variants? Feel free to email me!
+Czy masz więcej pomysłów na dobry wariant? A może masz jakieś opinie na temat tych wariantów? Proszę, skontaktuj się ze mną!

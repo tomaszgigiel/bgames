@@ -178,7 +178,7 @@ Players may only buy or sell one type of Good during a Trade action. In order to
 
 It is prohibited to have Merchants from the same player on both the buy and sell area of the same Good. High-speed trading was not common in 19th-century Scotland!
 
-Example: A player wants to buy two units of Whisky at the current price of £10. They place two Merchants above the up arrow of the Whisky column, pay £20, take two Whisky barrels from the supply, and put them into their stock. The Whisky price then increases by two steps to £12.
+Example: A player wants to buy two units of Whisky at the current price of £10. They place two Merchants above the up arrow of the Whisky column, pay £20. Take two Whisky barrels from the supply, and put them into their stock. The Whisky price then increases by two steps to £12.
 
 2. Obtain an Export Contract
 Pay the current round cost to take any Export contract from the Export board and place it on your empty Export box. The cost is determined by the game round and is indicated next to the Scoring tiles on the Export board. Note that in the first round, players receive £5 when obtaining an Export contract rather than paying a cost. You can have only one unfulfilled Export contract on your Export box (exception: Clan Buchanan). You must fulfil your Export contract before obtaining a new one. It is not possible to get rid of unfulfilled Export contracts.
@@ -322,7 +322,7 @@ Glory: 1 VP for each step on the Glory track.
 Basic goods: 1 VP for each Basic Good in your stock.
 Processed goods: 2VP for each Processed good in your stock.
 Money: 1 VP for every £10. Leftover money breaks ties on the final score.
-Hops: 1 VP for each Hops imported listed on your fulfilled Export contracts. 
+Hops: 1 VP for each Hops imported listed on your fulfilled Export contracts.
 Cotton, Tobacco and Sugar cane: 3, 4 or 5VP each according to their rarity. (The rarest Imported Good is the most valuable one!) The Import token that was moved the furthest along the track (because it was imported the most by all players) is the most common Imported Good and is worth 3 VP each, the second most Imported Good is worth 4 VP each and the least Imported Good is worth 5VP each. If there is a tie regarding the amount of Imported Goods, Cotton is the rarest, followed by Tobacco, then Sugar cane. Players receive points for the number of Imported Goods listed on their fulfilled Export contracts multiplied by the respective VP.
 
 Export Scoring
@@ -513,7 +513,7 @@ You get better at building factories of Processed goods the more often you build
 So you have an incentive to specialise in producing a lot of Processed goods.
 
 Strategy: Produce a lot of one type of Processed good that is in high demand Export contracts. Selling your Processed goods is a good source of income too.
-Example: If you build three Bakeries and one Distillery, in the first Bakery costs £8 - £3 = £5, the 2nd and the 3rd Bakeries cost £8 - £4 = £4. The Distillery is £3 cheaper and costs £10 - £3 = £7.
+Example: If you build three Bakeries and one Distillery. In the first Bakery costs £8 - £3 = £5, the 2nd and the 3rd Bakeries cost £8 - £4 = £4. The Distillery is £3 cheaper and costs £10 - £3 = £7.
 
 Clan Cunningham
 
